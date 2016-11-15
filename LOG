@@ -1,0 +1,13 @@
+This version is amazing
+
+In 109th iteration i got 0.07 and 0.06 for train and validation loss with both accuracy above 90%
+Though the file in interest is weights.108 shows . Not sure why weight file is 1 less may be because of counting from 0.
+
+Similar result for 121 iteration.
+
+
+Key modifications
+1. Not loading pretrained weights. Training from scratch
+2. Tried to put Learning rate and other SGD param close to or  as per original vgg16
+
+Note that this does not have fc layers of vgg16 (It was removed by origninal author)

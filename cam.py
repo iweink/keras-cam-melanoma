@@ -7,45 +7,60 @@ import cv2
 import argparse
 
 def train(dataset_path):
+  with K.tf.device('/gpu:1'):
+        K.set_session(K.tf.Session(config=K.tf.ConfigProto(allow_soft_placement=True, log_device_placement=False)))
         model = get_model()
         X, y = load_inria_person(dataset_path)
-	print "Training.."
-        checkpoint_path="weights.{epoch:02d}-{val_loss:.2f}.hdf5"
+        print "Training.."
+        checkpoint_path="weights.{epoch:02d}-loss{loss:.3f}-acc{acc:.3f}-valloss{val_loss:.3f}-valacc{val_acc:.3f}.hdf5"
         checkpoint = ModelCheckpoint(checkpoint_path, monitor='val_loss', verbose=0, save_best_only=False, save_weights_only=False, mode='auto')
-        model.fit(X, y, nb_epoch=40, batch_size=32, validation_split=0.2, verbose=1, callbacks=[checkpoint])
+        model.fit(X, y, nb_epoch=200, batch_size=32, shuffle=True, validation_split=0.2, verbose=1, callbacks=[checkpoint])
 
-def visualize_class_activation_map(model_path, img_path, output_path):
+def visualize_class_activation_map(model_path, paths, output_path):
+  with K.tf.device('/cpu:0'):
+        K.set_session(K.tf.Session(config=K.tf.ConfigProto(allow_soft_placement=True, log_device_placement=False)))
         model = load_model(model_path)
-        original_img = cv2.imread(img_path, 1)
-        width, height, _ = original_img.shape
 
-        #Reshape to the network input shape (3, w, h).
-        img = np.array([np.transpose(np.float32(original_img), (2, 0, 1))])
-        
-        #Get the 512 input weights to the softmax.
-        class_weights = model.layers[-1].get_weights()[0]
-        final_conv_layer = get_output_layer(model, "conv5_3")
-        get_output = K.function([model.layers[0].input], [final_conv_layer.output, model.layers[-1].output])
-        [conv_outputs, predictions] = get_output([img])
-        conv_outputs = conv_outputs[0, :, :, :]
+        img_paths = []
+        if(os.path.isdir(paths)):
+          img_paths =  [os.path.join(x[0],y) for x in os.walk(paths) for y in x[2]]
+        else:
+          img_paths.append(paths)
 
-        #Create the class activation map.
-        cam = np.zeros(dtype = np.float32, shape = conv_outputs.shape[1:3])
-        for i, w in enumerate(class_weights[:, 1]):
-                cam += w * conv_outputs[i, :, :]
-        print "predictions", predictions
-        cam /= np.max(cam)
-        cam = cv2.resize(cam, (height, width))
-        heatmap = cv2.applyColorMap(np.uint8(255*cam), cv2.COLORMAP_JET)
-        heatmap[np.where(cam < 0.2)] = 0
-        img = heatmap*0.5 + original_img
-        cv2.imwrite(output_path, img)
+        for path in img_paths:
+          print "Processing image ", path
+          original_img = cv2.imread(path, 1)
+          width, height, _ = original_img.shape
+
+          #Reshape to the network input shape (3, w, h).
+          img = np.array([np.transpose(np.float32(original_img), (2, 0, 1))])
+          
+          #Get the 512 input weights to the softmax.
+          class_weights = model.layers[-1].get_weights()[0]
+          final_conv_layer = get_output_layer(model, "conv5_3")
+          get_output = K.function([model.layers[0].input], [final_conv_layer.output, model.layers[-1].output])
+          [conv_outputs, predictions] = get_output([img])
+          # might have to add [img, 1 ] for output as in test mode[conv_outputs, predictions] = get_output([img])
+          conv_outputs = conv_outputs[0, :, :, :]
+
+          #Create the class activation map.
+          cam = np.zeros(dtype = np.float32, shape = conv_outputs.shape[1:3])
+          for i, w in enumerate(class_weights[:, 1]):
+                  cam += w * conv_outputs[i, :, :]
+          print "predictions for image ", path, " is ", predictions
+          cam /= np.max(cam)
+          cam = cv2.resize(cam, (height, width))
+          heatmap = cv2.applyColorMap(np.uint8(255*cam), cv2.COLORMAP_WINTER)
+          heatmap[np.where(cam < 0.2)] = 0
+          img = heatmap*0.5 + original_img
+          outpath = output_path + "/" + path.replace("/","_").replace(".","_") + "_pred_"+ str(predictions[0][0]) + "_" + str(predictions[0][1])+"_heatmap.jpg"
+          cv2.imwrite(outpath, img)
 
 def get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--train", type = bool, default = False, help = 'Train the network or visualize a CAM')
     parser.add_argument("--image_path", type = str, help = "Path of an image to run the network on")
-    parser.add_argument("--output_path", type = str, default = "heatmap.jpg", help = "Path of an image to run the network on")
+    parser.add_argument("--output_path", type = str, default = "heatmapouts/", help = "Path of an image to run the network on")
     parser.add_argument("--model_path", type = str, help = "Path of the trained model")
     parser.add_argument("--dataset_path", type = str, help = \
         'Path to image dataset. Should have pos/neg folders, like in the inria person dataset. \
