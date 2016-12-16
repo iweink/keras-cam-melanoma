@@ -11,3 +11,21 @@ Key modifications
 2. Tried to put Learning rate and other SGD param close to or  as per original vgg16
 
 Note that this does not have fc layers of vgg16 (It was removed by origninal author)
+
+
+
+================================
+
+Restarting training because the entire data got deleted on docker :(
+
+
+===============================
+
+16/12/2016
+
+Error while running command
+Exception: Error when checking model input: expected zeropadding2d_input_1 to have 4 dimensions, but got array with shape (0, 1)
+
+Solution:
+Fixed by adding pos and neg folders and giving the correct path --dataset_path
+ python cam.py --dataset_path "../../trainsmall/" --train TRAIN

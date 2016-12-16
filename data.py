@@ -17,7 +17,7 @@ def load_inria_person(path):
     y = to_categorical(y, 2)
     X = np.float32(pos_images + neg_images)
 
-    // shuffle
+    """ shuffle """
     assert len(X) == len(y)
     p = np.random.permutation(len(X))
     X, y =  X[p], y[p]
