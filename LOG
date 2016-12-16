@@ -29,3 +29,10 @@ Exception: Error when checking model input: expected zeropadding2d_input_1 to ha
 Solution:
 Fixed by adding pos and neg folders and giving the correct path --dataset_path
  python cam.py --dataset_path "../../trainsmall/" --train TRAIN
+
+Error
+ResourceExhaustedError (see above for traceback): OOM when allocating tensor with shape[32,256,56,56]
+         [[Node: Conv2D_6 = Conv2D[T=DT_FLOAT, data_format="NHWC", padding="VALID", strides=[1, 1, 1, 1], use_cudnn_on_gpu=true, _device="/job:localhost/replica:0/task:0/gpu:1"](transpose_22, transpose_23)]]
+
+Solution:
+Switched to cpu mode for access to higher memory

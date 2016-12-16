@@ -7,7 +7,7 @@ import cv2
 import argparse
 
 def train(dataset_path):
-  with K.tf.device('/gpu:1'):
+  with K.tf.device('/cpu'):
         K.set_session(K.tf.Session(config=K.tf.ConfigProto(allow_soft_placement=True, log_device_placement=False)))
         model = get_model()
         X, y = load_inria_person(dataset_path)
