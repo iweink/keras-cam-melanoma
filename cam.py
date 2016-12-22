@@ -3,6 +3,7 @@ from keras.callbacks import *
 import keras.backend as K
 from model import *
 from data import *
+from quiver_engine import server
 import cv2
 import argparse
 
@@ -21,8 +22,12 @@ def train(dataset_path, model_path):
         checkpoint = ModelCheckpoint(checkpoint_path, monitor='val_loss', verbose=0, save_best_only=False, save_weights_only=False, mode='auto')
         model.fit(X, y, nb_epoch=200, batch_size=32, shuffle=True, validation_split=0.2, verbose=1, callbacks=[checkpoint])
 
+def launch_quiver(model_path):
+  model = load_model(model_path)
+  server.launch(model, port=8015,input_folder='./imgs/',  classes=['pos', 'neg'])
+
 def visualize_class_activation_map(model_path, paths, output_path):
-  with K.tf.device('/cpu:0'):
+  with K.tf.device('/gpu'):
         K.set_session(K.tf.Session(config=K.tf.ConfigProto(allow_soft_placement=True, log_device_placement=False)))
         model = load_model(model_path)
 
@@ -63,6 +68,7 @@ def visualize_class_activation_map(model_path, paths, output_path):
 
 def get_args():
     parser = argparse.ArgumentParser()
+    parser.add_argument("--quiver", type = bool, default = False, help = 'Quiver visualization')
     parser.add_argument("--train", type = bool, default = False, help = 'Train the network or visualize a CAM')
     parser.add_argument("--image_path", type = str, help = "Path of an image to run the network on")
     parser.add_argument("--output_path", type = str, default = "heatmapouts/", help = "Path of an image to run the network on")
@@ -75,7 +81,9 @@ def get_args():
 
 if __name__ == '__main__':
 	args = get_args()
-        if args.train:
+        if args.quiver:
+            launch_quiver(args.model_path)
+        elif args.train:
                 train(args.dataset_path, args.model_path)
         else:
                 visualize_class_activation_map(args.model_path, args.image_path, args.output_path)
