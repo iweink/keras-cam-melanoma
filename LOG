@@ -209,3 +209,9 @@ Epoch 42/200
  640/1760 [=========>....................] - ETA: 2834s - loss: 0.1726 - acc: 0.9125
 
 Killing it as i am not able to run quiver.
+
+
+-------------------------------- How i made quiver to install successfully
+git clone and then used the following comment from windows issue on github
+It worked for me when I replaced 'quiverboard/dist/*' with ['quiverboard/dist/*'] in setup.py, compiled the client and then installed with python setup.py install.
+----
