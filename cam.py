@@ -6,10 +6,15 @@ from data import *
 import cv2
 import argparse
 
-def train(dataset_path):
+def train(dataset_path, model_path):
   with K.tf.device('/cpu'):
         K.set_session(K.tf.Session(config=K.tf.ConfigProto(allow_soft_placement=True, log_device_placement=False)))
-        model = get_model()
+        if(model_path):
+          print "Loading model from path"
+          model = load_model(model_path)
+        else:
+          print "Fresh model"
+          model = get_model()
         X, y = load_inria_person(dataset_path)
         print "Training.."
         checkpoint_path="weights.{epoch:02d}-loss{loss:.3f}-acc{acc:.3f}-valloss{val_loss:.3f}-valacc{val_acc:.3f}.hdf5"
@@ -71,6 +76,6 @@ def get_args():
 if __name__ == '__main__':
 	args = get_args()
         if args.train:
-                train(args.dataset_path)
+                train(args.dataset_path, args.model_path)
         else:
                 visualize_class_activation_map(args.model_path, args.image_path, args.output_path)
