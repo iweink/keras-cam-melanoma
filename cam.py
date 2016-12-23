@@ -24,10 +24,10 @@ def train(dataset_path, model_path):
 
 def launch_quiver(model_path):
   model = load_model(model_path)
-  server.launch(model, port=8015,input_folder='./imgs/',  classes=['pos', 'neg'])
+  server.launch(model, port=8015,input_folder='./imgs/pos',  classes=['pos', 'neg'])
 
 def visualize_class_activation_map(model_path, paths, output_path):
-  with K.tf.device('/gpu'):
+  with K.tf.device('/cpu'):
         K.set_session(K.tf.Session(config=K.tf.ConfigProto(allow_soft_placement=True, log_device_placement=False)))
         model = load_model(model_path)
 

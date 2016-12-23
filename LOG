@@ -214,4 +214,12 @@ Killing it as i am not able to run quiver.
 -------------------------------- How i made quiver to install successfully
 git clone and then used the following comment from windows issue on github
 It worked for me when I replaced 'quiverboard/dist/*' with ['quiverboard/dist/*'] in setup.py, compiled the client and then installed with python setup.py install.
+
+was hit with this 500 internal server error when accessing /inputs url
+File "/usr/local/lib/python2.7/dist-packages/flask/json.py", line 237, in jsonify
+    return current_app.response_class(dumps(dict(*args, **kwargs),
+ValueError: dictionary update sequence element #0 has length 28; 2 is required
+most likely fix
+upgrade flask
 ----
+
