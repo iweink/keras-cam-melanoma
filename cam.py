@@ -8,7 +8,7 @@ import cv2
 import argparse
 
 def train(dataset_path, model_path):
-  with K.tf.device('/cpu'):
+  with K.tf.device('/gpu'):
         K.set_session(K.tf.Session(config=K.tf.ConfigProto(allow_soft_placement=True, log_device_placement=False)))
         if(model_path):
           print "Loading model from path"
@@ -18,9 +18,10 @@ def train(dataset_path, model_path):
           model = get_model()
         X, y = load_inria_person(dataset_path)
         print "Training.."
+        tensorflow =  TensorBoard(log_dir='./logs', histogram_freq=0, write_graph=True, write_images=True)
         checkpoint_path="weights.{epoch:02d}-loss{loss:.3f}-acc{acc:.3f}-valloss{val_loss:.3f}-valacc{val_acc:.3f}.hdf5"
         checkpoint = ModelCheckpoint(checkpoint_path, monitor='val_loss', verbose=0, save_best_only=False, save_weights_only=False, mode='auto')
-        model.fit(X, y, nb_epoch=200, batch_size=32, shuffle=True, validation_split=0.2, verbose=1, callbacks=[checkpoint])
+        model.fit(X, y, nb_epoch=200, batch_size=32, shuffle=True, validation_split=0.2, verbose=1, callbacks=[checkpoint, tensorflow])
 
 def launch_quiver(model_path):
   model = load_model(model_path)

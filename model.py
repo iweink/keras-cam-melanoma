@@ -57,7 +57,8 @@ def get_model():
     model.add(Lambda(global_average_pooling, 
               output_shape=global_average_pooling_shape))
     model.add(Dense(2, activation = 'softmax', init='uniform'))
-    sgd = SGD(lr=0.001, decay=1e-6, momentum=0.9, nesterov=True)
+    sgd = SGD(lr=0.01, decay=1e-6, momentum=0.5, nesterov=True)
+    #sgd = SGD(lr=0.001, decay=1e-6, momentum=0.9, nesterov=True)
     #sgd = SGD(lr=0.01, decay=1e-6, momentum=0.5, nesterov=True)
     model.compile(loss = 'categorical_crossentropy', optimizer = sgd, metrics=['accuracy'])
     return model

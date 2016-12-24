@@ -223,3 +223,9 @@ most likely fix
 upgrade flask
 ----
 
+when looked at quiver visualizations, slightly disappointed as most of the images looked had just horizontal lines.
+was expecting it to learn and show better features atlease in higher layers.
+Also this is different from CAM visualization. Not sure if there is a quiver setup issue! (In CAM visualization we can see moles getting a bit more attention)
+---
+Starting with almost original settings to see if quiver shows better feature learnings
+remember to change hardcoded quiver servier image size
