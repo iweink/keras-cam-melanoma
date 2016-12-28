@@ -21,6 +21,7 @@ def load_inria_person(path):
 
     """ shuffle """
     assert len(X) == len(y)
+    np.random.seed(0)
     p = np.random.permutation(len(X))
     X, y =  X[p], y[p]
 

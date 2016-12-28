@@ -60,7 +60,7 @@ def get_model():
     model.add(Dense(2, activation = 'softmax', init='uniform'))
     #sgd = SGD(lr=0.01, decay=1e-6, momentum=0.5, nesterov=True)
     # try higher leargning rate for adam next. may be 0.001 -> 0.01
-    sgd = Adam(lr=0.001, beta_1=0.9, beta_2=0.999, epsilon=1e-08, decay=0.0)
+    sgd = Adam(lr=0.3, beta_1=0.9, beta_2=0.999, epsilon=1e-08, decay=0.0)
     #sgd = SGD(lr=0.001, decay=1e-6, momentum=0.9, nesterov=True)
     #sgd = SGD(lr=0.01, decay=1e-6, momentum=0.5, nesterov=True)
     model.compile(loss = 'categorical_crossentropy', optimizer = sgd, metrics=['accuracy'])
