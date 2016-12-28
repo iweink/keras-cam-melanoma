@@ -4,6 +4,7 @@ from keras.layers.core import Flatten, Dense, Dropout, Lambda
 from keras import backend as K
 import h5py
 from keras.optimizers import SGD
+from keras.optimizers import Adam
 
 def global_average_pooling(x):
     return K.mean(x, axis = (2, 3))
@@ -57,7 +58,9 @@ def get_model():
     model.add(Lambda(global_average_pooling, 
               output_shape=global_average_pooling_shape))
     model.add(Dense(2, activation = 'softmax', init='uniform'))
-    sgd = SGD(lr=0.01, decay=1e-6, momentum=0.5, nesterov=True)
+    #sgd = SGD(lr=0.01, decay=1e-6, momentum=0.5, nesterov=True)
+    # try higher leargning rate for adam next. may be 0.001 -> 0.01
+    sgd = Adam(lr=0.001, beta_1=0.9, beta_2=0.999, epsilon=1e-08, decay=0.0)
     #sgd = SGD(lr=0.001, decay=1e-6, momentum=0.9, nesterov=True)
     #sgd = SGD(lr=0.01, decay=1e-6, momentum=0.5, nesterov=True)
     model.compile(loss = 'categorical_crossentropy', optimizer = sgd, metrics=['accuracy'])

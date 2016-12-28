@@ -231,15 +231,14 @@ Starting with almost original settings to see if quiver shows better feature lea
 remember to change hardcoded quiver servier image size
 
 Notice this has achieved 100% training accouracy and 0.0.. loss but high validation loss (I was expecting a lower than .9 validation accuracy though)
-Also note that some iterations take only 300s while most of the initial ones take 2730s . Not sure why.
+Also note that some iterations take only 300s while most of the initial ones take 2730s . Not sure why
 
 Output
 -------rama + ../../trainsmall/pos ../../trainsmall/neg
 Training..
 Train on 1760 samples, validate on 440 samples
 Epoch 1/200
-W tensorflow/core/common_runtime/bfc_allocator.cc:213] Ran out of memory trying to allocate 3.02GiB. The caller indicates that this is not a failure, but may mean that there c
-ould be performance gains if more memory is available.
+W tensorflow/core/common_runtime/bfc_allocator.cc:213] Ran out of memory trying to allocate 3.02GiB. The caller indicates that this is not a failure, but may mean that there c ould be performance gains if more memory is available.
 W tensorflow/core/common_runtime/bfc_allocator.cc:213] Ran out of memory trying to allocate 3.02GiB. The caller indicates that this is not a failure, but may mean that there c
 ould be performance gains if more memory is available.
  608/1760 [=========>....................] - ETA: 2730s - loss: 0.4625 - acc: 0.9013
@@ -654,5 +653,52 @@ Epoch 199/200
 Epoch 200/200
 1760/1760 [==============================] - 113s - loss: 2.8021e-05 - acc: 1.0000 - val_loss: 0.9138 - val_acc: 0.8932
 
+
+
+Evaluation
+root@f5e57551b879:/datamnt/github/keras-cam-melanoma# python cam.py --image_path ../../train/malignant/558d6362bae47801cf734d17.jpg --model_path archiveweights-28dec/weights.53-loss0.155-acc0.924-valloss0.178-valacc0.920.hdf5 
+
+predictions for image  ../../train/malignant/558d6362bae47801cf734d17.jpg  is  [[ 0.72275358  0.27724642]]
+
+root@f5e57551b879:/datamnt/github/keras-cam-melanoma# python cam.py --image_path ../../train/malignant/558d6362bae47801cf734d17.jpg --model_path archiveweights-28dec/weights.136-loss0.129-acc0.947-valloss0.197-valacc0.900.hdf5 
+predictions for image  ../../train/malignant/558d6362bae47801cf734d17.jpg  is  [[ 0.62246692  0.37753308]]
+CAM shows better and more activation regions in 2nd case (iteration 136)
+
+Higher iteration weights which have very good training accuracy but bad validation loss (.25) shows CAM highlighted regions near borders.
 ================================================
-Now lets try batch normalization
+
+Adam lr = 0.001
+1760/1760 [==============================] - 137s - loss: 1.4395 - acc: 0.9102 - val_loss: 1.5385 - val_acc: 0.9045
+Epoch 2/200
+1760/1760 [==============================] - 109s - loss: 1.4470 - acc: 0.9102 - val_loss: 1.5385 - val_acc: 0.9045
+Epoch 3/200
+1760/1760 [==============================] - 109s - loss: 1.4470 - acc: 0.9102 - val_loss: 1.5385 - val_acc: 0.9045
+Epoch 4/200
+1760/1760 [==============================] - 109s - loss: 1.4470 - acc: 0.9102 - val_loss: 1.5385 - val_acc: 0.9045
+Epoch 5/200
+1760/1760 [==============================] - 109s - loss: 1.4470 - acc: 0.9102 - val_loss: 1.5385 - val_acc: 0.9045
+Epoch 6/200
+1760/1760 [==============================] - 109s - loss: 1.4470 - acc: 0.9102 - val_loss: 1.5385 - val_acc: 0.9045
+Epoch 7/200
+1760/1760 [==============================] - 109s - loss: 1.4470 - acc: 0.9102 - val_loss: 1.5385 - val_acc: 0.9045
+Epoch 8/200
+1760/1760 [==============================] - 109s - loss: 1.4470 - acc: 0.9102 - val_loss: 1.5385 - val_acc: 0.9045
+Epoch 9/200
+1760/1760 [==============================] - 109s - loss: 1.4470 - acc: 0.9102 - val_loss: 1.5385 - val_acc: 0.9045
+Epoch 10/200
+1760/1760 [==============================] - 109s - loss: 1.4470 - acc: 0.9102 - val_loss: 1.5385 - val_acc: 0.9045
+Epoch 11/200
+1760/1760 [==============================] - 109s - loss: 1.4470 - acc: 0.9102 - val_loss: 1.5385 - val_acc: 0.9045
+Epoch 12/200
+1760/1760 [==============================] - 109s - loss: 1.4470 - acc: 0.9102 - val_loss: 1.5385 - val_acc: 0.9045
+Epoch 13/200
+1760/1760 [==============================] - 109s - loss: 1.4470 - acc: 0.9102 - val_loss: 1.5385 - val_acc: 0.9045
+Epoch 14/200
+1760/1760 [==============================] - 109s - loss: 1.4470 - acc: 0.9102 - val_loss: 1.5385 - val_acc: 0.9045
+Epoch 15/200
+1760/1760 [==============================] - 109s - loss: 1.4470 - acc: 0.9102 - val_loss: 1.5385 - val_acc: 0.9045
+Epoch 16/200
+
+
+================================================
+Now lets try batch normmalization
