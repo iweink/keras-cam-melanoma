@@ -29,28 +29,6 @@ def launch_quiver(model_path):
   model = load_model(model_path)
   server.launch(model, port=8015,input_folder='./imgs',  classes=['pos', 'neg'])
 
-def pr(model_path, paths, output_path):
-  with K.tf.device('/gpu'):
-        K.set_session(K.tf.Session(config=K.tf.ConfigProto(allow_soft_placement=True, log_device_placement=False)))
-        model = load_model(model_path)
-        img_paths = []
-        if(os.path.isdir(paths)):
-          img_paths =  [os.path.join(x[0],y) for x in os.walk(paths) for y in x[2]]
-        else:
-          img_paths.append(paths)
-
-        for path in img_paths:
-          print "Processing image ", path
-          original_img = cv2.imread(path, 1)
-          width, height, _ = original_img.shape
-
-          #Reshape to the network input shape (3, w, h).
-          img = np.array([np.transpose(np.float32(original_img), (2, 0, 1))])
-          
-          predictions = model.predict(img)
-          print "predictions ", predictions
- 
-
 def visualize_class_activation_map(model_path, paths, output_path):
   with K.tf.device('/gpu'):
         K.set_session(K.tf.Session(config=K.tf.ConfigProto(allow_soft_placement=True, log_device_placement=False)))
@@ -116,5 +94,4 @@ if __name__ == '__main__':
         elif args.train:
                 train(args.dataset_path, args.model_path)
         else:
-                #visualize_class_activation_map(args.model_path, args.image_path, args.output_path)
-                pr(args.model_path, args.image_path, args.output_path)
+                visualize_class_activation_map(args.model_path, args.image_path, args.output_path)
