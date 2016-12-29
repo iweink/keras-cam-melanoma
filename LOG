@@ -716,5 +716,12 @@ Epoch 6/200
 Epoch 7/200
 
 
+Turns out that this is giving nan while predicting. Not sure why. convoutputs, etc were all 0s. or nans
+on cpu it was giving loss as nan even while training. on gpu it was showing above output but predictions were null.
+
+lr of .001 and .01 were stuck in loss of ~1.4
+
+converging for lr=1e-5 with data trainsmaller. Will check on trainsmall.
+
 ================================================
 Now lets try batch normmalization

