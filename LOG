@@ -824,5 +824,70 @@ Epoch 50/50
 1760/1760 [==============================] - 109s - loss: 0.0779 - acc: 0.9665 - val_loss: 0.2287 - val_acc: 0.9136
 predictions  [[  1.00000000e+00   1.07384484e-18]]
 
+==========================================================================================
 
+
+Training on trainsmall instead of trainsmaller. Validation loss does not seem to improve
+
+Model 14 and 15 are very interesting! Look at the heatmaps! 14 seems to be highlighting entire image with shapes similar to the mole
+whereas 15 only seems to highlight 1 or 2 small regions in the mole.Also their predictions are not close
+(look at the heatmaps
+______train_malignant_558d6148bae47801cf7347d1_jpg_pred_0.775343_0.224657_heatmap.jpg
+______train_malignant_558d6148bae47801cf7347d1_jpg_pred_0.880305_0.119695_heatmap.jpg)
+
+Could not record run progress, so pasting weights file with their lossess.
+weights.00-loss0.350-acc0.892-valloss0.307-valacc0.914.hdf5
+weights.01-loss0.308-acc0.908-valloss0.292-valacc0.914.hdf5
+weights.02-loss0.279-acc0.908-valloss0.250-valacc0.914.hdf5
+weights.03-loss0.235-acc0.907-valloss0.217-valacc0.914.hdf5
+weights.04-loss0.216-acc0.909-valloss0.203-valacc0.914.hdf5
+weights.05-loss0.204-acc0.908-valloss0.191-valacc0.914.hdf5
+weights.06-loss0.188-acc0.909-valloss0.214-valacc0.902.hdf5
+weights.07-loss0.183-acc0.906-valloss0.179-valacc0.909.hdf5
+weights.08-loss0.174-acc0.911-valloss0.173-valacc0.914.hdf5
+weights.09-loss0.175-acc0.907-valloss0.176-valacc0.902.hdf5
+weights.10-loss0.178-acc0.906-valloss0.175-valacc0.914.hdf5
+weights.11-loss0.164-acc0.919-valloss0.172-valacc0.907.hdf5
+weights.12-loss0.161-acc0.921-valloss0.176-valacc0.902.hdf5
+weights.13-loss0.166-acc0.919-valloss0.171-valacc0.907.hdf5
+weights.14-loss0.157-acc0.920-valloss0.160-valacc0.923.hdf5
+weights.15-loss0.170-acc0.917-valloss0.165-valacc0.918.hdf5
+weights.16-loss0.153-acc0.920-valloss0.160-valacc0.916.hdf5
+weights.17-loss0.148-acc0.929-valloss0.166-valacc0.916.hdf5
+weights.18-loss0.150-acc0.926-valloss0.165-valacc0.914.hdf5
+weights.19-loss0.159-acc0.914-valloss0.178-valacc0.911.hdf5
+weights.20-loss0.153-acc0.924-valloss0.165-valacc0.902.hdf5
+weights.21-loss0.143-acc0.930-valloss0.166-valacc0.920.hdf5
+weights.22-loss0.139-acc0.931-valloss0.176-valacc0.905.hdf5
+weights.23-loss0.143-acc0.936-valloss0.177-valacc0.898.hdf5
+weights.24-loss0.143-acc0.927-valloss0.172-valacc0.909.hdf5
+weights.25-loss0.145-acc0.934-valloss0.185-valacc0.916.hdf5
+weights.26-loss0.137-acc0.929-valloss0.181-valacc0.902.hdf5
+weights.27-loss0.133-acc0.938-valloss0.177-valacc0.909.hdf5
+weights.28-loss0.138-acc0.933-valloss0.178-valacc0.920.hdf5
+weights.29-loss0.129-acc0.943-valloss0.185-valacc0.916.hdf5
+weights.30-loss0.125-acc0.944-valloss0.183-valacc0.909.hdf5
+weights.31-loss0.115-acc0.945-valloss0.177-valacc0.925.hdf5
+weights.32-loss0.123-acc0.943-valloss0.227-valacc0.895.hdf5
+weights.33-loss0.118-acc0.952-valloss0.241-valacc0.914.hdf5
+weights.34-loss0.132-acc0.936-valloss0.179-valacc0.911.hdf5
+weights.35-loss0.114-acc0.947-valloss0.193-valacc0.907.hdf5
+weights.36-loss0.116-acc0.948-valloss0.188-valacc0.918.hdf5
+weights.37-loss0.110-acc0.950-valloss0.184-valacc0.914.hdf5
+weights.38-loss0.110-acc0.951-valloss0.234-valacc0.870.hdf5
+weights.39-loss0.093-acc0.964-valloss0.198-valacc0.907.hdf5
+weights.40-loss0.091-acc0.959-valloss0.239-valacc0.916.hdf5
+weights.41-loss0.101-acc0.955-valloss0.205-valacc0.905.hdf5
+weights.42-loss0.090-acc0.960-valloss0.211-valacc0.905.hdf5
+weights.43-loss0.107-acc0.947-valloss0.197-valacc0.886.hdf5
+weights.44-loss0.095-acc0.959-valloss0.208-valacc0.914.hdf5
+weights.45-loss0.086-acc0.963-valloss0.259-valacc0.882.hdf5
+weights.46-loss0.092-acc0.960-valloss0.193-valacc0.909.hdf5
+weights.47-loss0.069-acc0.969-valloss0.232-valacc0.893.hdf5
+weights.48-loss0.068-acc0.968-valloss0.251-valacc0.914.hdf5
+weights.49-loss0.084-acc0.964-valloss0.221-valacc0.891.hdf5
+
+
+
+=================================================
 Now lets try batch normmalization
