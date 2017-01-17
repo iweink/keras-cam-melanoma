@@ -8,7 +8,7 @@ import cv2
 import argparse
 
 def train(dataset_path, model_path):
-  with K.tf.device('/gpu'):
+  with K.tf.device('/cpu'):
         K.set_session(K.tf.Session(config=K.tf.ConfigProto(allow_soft_placement=True, log_device_placement=False)))
         if(model_path):
           print "Loading model from path"
